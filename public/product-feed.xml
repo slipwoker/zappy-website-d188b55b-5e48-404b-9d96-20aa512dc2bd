@@ -4,7 +4,7 @@
     <title>גורים בכפר</title>
     <link>https://gurimbakfar.zappy5.app</link>
     <description>Product feed for גורים בכפר</description>
-    <lastBuildDate>Wed, 08 Jul 2026 12:40:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 13:06:37 GMT</lastBuildDate>
     <item>
       <g:id>f142e8ac-91d1-4e4e-aa5a-1562b2767a93</g:id>
       <g:title>חטיף נובלוס ברבקיו שוק עוף 80 גר&apos;</g:title>
@@ -714,24 +714,24 @@
       <g:product_type>קולרים ורצועות</g:product_type>
     </item>
     <item>
-      <g:id>639e4392-5a8c-4037-a331-c38fec05b62d</g:id>
-      <g:title>רצועה בד צבעוני 10 ממ - מידה XS</g:title>
-      <g:description>רצועה בד צבעוני 10 ממ - מידה XS</g:description>
-      <g:link>https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0</g:link>
-      <g:availability>in_stock</g:availability>
-      <g:price>30.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>גורים בכפר</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>קולרים ורצועות</g:product_type>
-    </item>
-    <item>
       <g:id>b899f0ca-0b92-4147-abb3-9c3dcd46217f</g:id>
       <g:title>רצועה בד צבעוני 15 ממ - מידה S</g:title>
       <g:description>רצועה בד צבעוני 15 ממ - מידה S</g:description>
       <g:link>https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e</g:link>
       <g:availability>in_stock</g:availability>
       <g:price>32.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קולרים ורצועות</g:product_type>
+    </item>
+    <item>
+      <g:id>639e4392-5a8c-4037-a331-c38fec05b62d</g:id>
+      <g:title>רצועה בד צבעוני 10 ממ - מידה XS</g:title>
+      <g:description>רצועה בד צבעוני 10 ממ - מידה XS</g:description>
+      <g:link>https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>30.00 ILS</g:price>
       <g:condition>new</g:condition>
       <g:brand>גורים בכפר</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
@@ -1077,6 +1077,19 @@
       <g:product_type>קולרים ורצועות</g:product_type>
     </item>
     <item>
+      <g:id>6fe8ad28-4377-4ee9-87ed-89247ffcfbde</g:id>
+      <g:title>מזון כלבים Bitesy גורים סלמון 12 ק&quot;ג</g:title>
+      <g:description>מזון לגורי כלבים בייטסי bitesy חלבון יחיד סלמון, תומך בהתפתחות אופטימלית של הגור מכיל בשר סלמון (34% ) עם אורז לתזונה מאוזנת. אורז ובטטה – פחמימות איכותיות קלות לעיכול, פטרוזיליה ואצות לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה, טאורין – מסייע לבריאות הלב כולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים תוצרת איטליה.</g:description>
+      <g:link>https://gurimbakfar.zappy5.app/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf</g:link>
+      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1783426203173-esm6je.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>309.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מזון יבש</g:product_type>
+    </item>
+    <item>
       <g:id>969b9fe6-434a-465a-b51f-6255d11bf01e</g:id>
       <g:title>סט רתמה ורצועה לכלב קטן / בינוני צבע חום</g:title>
       <g:description>סט רתמה ורצועה לכלב קטן / בינוני צבע חום</g:description>
@@ -1098,19 +1111,6 @@
       <g:price>309.00 ILS</g:price>
       <g:condition>new</g:condition>
       <g:brand>bitesy</g:brand>
-      <g:product_type>מזון יבש</g:product_type>
-    </item>
-    <item>
-      <g:id>6fe8ad28-4377-4ee9-87ed-89247ffcfbde</g:id>
-      <g:title>מזון כלבים Bitesy גורים סלמון 12 ק&quot;ג</g:title>
-      <g:description>מזון לגורי כלבים בייטסי bitesy חלבון יחיד סלמון, תומך בהתפתחות אופטימלית של הגור מכיל בשר סלמון (34% ) עם אורז לתזונה מאוזנת. אורז ובטטה – פחמימות איכותיות קלות לעיכול, פטרוזיליה ואצות לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה, טאורין – מסייע לבריאות הלב כולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים תוצרת איטליה.</g:description>
-      <g:link>https://gurimbakfar.zappy5.app/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf</g:link>
-      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1783426203173-esm6je.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>309.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>גורים בכפר</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>מזון יבש</g:product_type>
     </item>
     <item>
@@ -1552,32 +1552,6 @@
       <g:identifier_exists>no</g:identifier_exists>
     </item>
     <item>
-      <g:id>6983411c-940c-4158-bdd4-49385d1d89ba</g:id>
-      <g:title>מזון כלבים רטוב איסגרים ארוחת ברווז ולבבות עוף לכלב 410 גרם</g:title>
-      <g:description>שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס ברווז ולבבות עוף.</g:description>
-      <g:link>https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-6mu7fy</g:link>
-      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1783413960203-5l850g.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>19.90 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>גורים בכפר</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>שימורים ומעדנים</g:product_type>
-    </item>
-    <item>
-      <g:id>e71e927c-ab46-4646-a6ad-6e23afeadb51</g:id>
-      <g:title>מזון כלבים רטוב איסגרים ארוחת אייל וציד לכלב 410 גרם</g:title>
-      <g:description>שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בשר אייל וצייד.</g:description>
-      <g:link>https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-c933sf</g:link>
-      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1783414060910-hewwx.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>19.90 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>גורים בכפר</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>שימורים ומעדנים</g:product_type>
-    </item>
-    <item>
       <g:id>0b011fc7-738b-4563-abf2-ca5f0df5e489</g:id>
       <g:title>מזון כלבים רטוב איסגרים ארוחת הודו לכלב 410 גרם</g:title>
       <g:description>שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס הודו.</g:description>
@@ -1596,6 +1570,32 @@
       <g:description>שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס עוף, דגי סלמון ופורל.</g:description>
       <g:link>https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-pdkox0</g:link>
       <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1783413605251-8qatrk.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>19.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>שימורים ומעדנים</g:product_type>
+    </item>
+    <item>
+      <g:id>6983411c-940c-4158-bdd4-49385d1d89ba</g:id>
+      <g:title>מזון כלבים רטוב איסגרים ארוחת ברווז ולבבות עוף לכלב 410 גרם</g:title>
+      <g:description>שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס ברווז ולבבות עוף.</g:description>
+      <g:link>https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-6mu7fy</g:link>
+      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1783413960203-5l850g.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>19.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>שימורים ומעדנים</g:product_type>
+    </item>
+    <item>
+      <g:id>e71e927c-ab46-4646-a6ad-6e23afeadb51</g:id>
+      <g:title>מזון כלבים רטוב איסגרים ארוחת אייל וציד לכלב 410 גרם</g:title>
+      <g:description>שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בשר אייל וצייד.</g:description>
+      <g:link>https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-c933sf</g:link>
+      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1783414060910-hewwx.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>19.90 ILS</g:price>
       <g:condition>new</g:condition>
@@ -2611,19 +2611,6 @@
       <g:product_type>מוצרי טיפוח</g:product_type>
     </item>
     <item>
-      <g:id>63b1c06c-2922-495e-9b2c-2699c1a6e57d</g:id>
-      <g:title>אצבעון צחצוח שיניים זוג </g:title>
-      <g:description>אצבעון צחצוח שיניים זוג</g:description>
-      <g:link>https://gurimbakfar.zappy5.app/product/atsbavn-tschtsvch-shynyym-zvg-w3h460</g:link>
-      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1782843594905-kfaqql.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>20.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>גורים בכפר</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>מוצרי טיפוח</g:product_type>
-    </item>
-    <item>
       <g:id>91334a10-8c4c-4e04-a25c-9a61b19d96d1</g:id>
       <g:title>מרכך פרידוג</g:title>
       <g:description>מרכך פרידוג</g:description>
@@ -2631,6 +2618,19 @@
       <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1782901133456-65svjn.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>54.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מוצרי טיפוח</g:product_type>
+    </item>
+    <item>
+      <g:id>63b1c06c-2922-495e-9b2c-2699c1a6e57d</g:id>
+      <g:title>אצבעון צחצוח שיניים זוג </g:title>
+      <g:description>אצבעון צחצוח שיניים זוג</g:description>
+      <g:link>https://gurimbakfar.zappy5.app/product/atsbavn-tschtsvch-shynyym-zvg-w3h460</g:link>
+      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1782843594905-kfaqql.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>20.00 ILS</g:price>
       <g:condition>new</g:condition>
       <g:brand>גורים בכפר</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
@@ -3501,19 +3501,6 @@
       <g:product_type>כלי אוכל ושתייה</g:product_type>
     </item>
     <item>
-      <g:id>dc06ccdf-1644-4c11-99bc-2552265c3714</g:id>
-      <g:title>צעצוע לעיסה צמיג חבל</g:title>
-      <g:description>צעצוע לעיסה צמיג חבל</g:description>
-      <g:link>https://gurimbakfar.zappy5.app/product/tsatsva-laysh-tsmyg-chbl-a4z8by</g:link>
-      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1783278887184-p4jyfb.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>0.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>גורים בכפר</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>צעצועים</g:product_type>
-    </item>
-    <item>
       <g:id>575af515-a5f6-491e-b893-adeef8d144fb</g:id>
       <g:title>פאפי רול - 30 ס&quot;מ</g:title>
       <g:description>פאפי רול</g:description>
@@ -3534,6 +3521,19 @@
       <g:link>https://gurimbakfar.zappy5.app/product/papy-rvl-k835l8</g:link>
       <g:item_group_id>de42506b-f7f1-41a2-8d11-5807ad04556d</g:item_group_id>
       <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1782209581919-mie7ia.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>צעצועים</g:product_type>
+    </item>
+    <item>
+      <g:id>dc06ccdf-1644-4c11-99bc-2552265c3714</g:id>
+      <g:title>צעצוע לעיסה צמיג חבל</g:title>
+      <g:description>צעצוע לעיסה צמיג חבל</g:description>
+      <g:link>https://gurimbakfar.zappy5.app/product/tsatsva-laysh-tsmyg-chbl-a4z8by</g:link>
+      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1783278887184-p4jyfb.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>0.00 ILS</g:price>
       <g:condition>new</g:condition>
@@ -3991,19 +3991,6 @@
       <g:product_type>צעצועים</g:product_type>
     </item>
     <item>
-      <g:id>8af26b3d-22c7-48af-90fc-97587dc9d9ee</g:id>
-      <g:title>מברשת אוניברסלית קשה אדומה</g:title>
-      <g:description>מברשת אוניברסלית קשה אדומה</g:description>
-      <g:link>https://gurimbakfar.zappy5.app/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr</g:link>
-      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449364410-36grpk.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>65.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>גורים בכפר</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>מוצרי טיפוח</g:product_type>
-    </item>
-    <item>
       <g:id>2706f091-5920-4d10-ac30-163b0e0bb7c1</g:id>
       <g:title>מברשת freedog</g:title>
       <g:description>מברשת freedog</g:description>
@@ -4011,6 +3998,19 @@
       <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449317230-uuzxmq.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>55.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מוצרי טיפוח</g:product_type>
+    </item>
+    <item>
+      <g:id>8af26b3d-22c7-48af-90fc-97587dc9d9ee</g:id>
+      <g:title>מברשת אוניברסלית קשה אדומה</g:title>
+      <g:description>מברשת אוניברסלית קשה אדומה</g:description>
+      <g:link>https://gurimbakfar.zappy5.app/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr</g:link>
+      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449364410-36grpk.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>65.00 ILS</g:price>
       <g:condition>new</g:condition>
       <g:brand>גורים בכפר</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
@@ -4161,19 +4161,6 @@
       <g:product_type>צעצועים</g:product_type>
     </item>
     <item>
-      <g:id>04f98057-5611-4484-8b76-f76188ee9eb8</g:id>
-      <g:title>משקולת גומי דנטלית</g:title>
-      <g:description>משקולת גומי דנטלית</g:description>
-      <g:link>https://gurimbakfar.zappy5.app/product/mshkvlt-gvmy-dntlyt-i3kjv5</g:link>
-      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1781450631767-q4nqtm.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>25.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>גורים בכפר</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>צעצועים</g:product_type>
-    </item>
-    <item>
       <g:id>b22cf394-a54d-420e-bda6-48c36e80b737</g:id>
       <g:title>צעצוע תמנון קטיפה מרשרש עם צפצפה</g:title>
       <g:description>צעצוע תמנון קטיפה מרשרש עם צפצפה</g:description>
@@ -4181,6 +4168,19 @@
       <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1781450720393-qzfqi8.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>35.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>צעצועים</g:product_type>
+    </item>
+    <item>
+      <g:id>04f98057-5611-4484-8b76-f76188ee9eb8</g:id>
+      <g:title>משקולת גומי דנטלית</g:title>
+      <g:description>משקולת גומי דנטלית</g:description>
+      <g:link>https://gurimbakfar.zappy5.app/product/mshkvlt-gvmy-dntlyt-i3kjv5</g:link>
+      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1781450631767-q4nqtm.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>25.00 ILS</g:price>
       <g:condition>new</g:condition>
       <g:brand>גורים בכפר</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
@@ -4252,19 +4252,6 @@
       <g:product_type>צעצועים</g:product_type>
     </item>
     <item>
-      <g:id>c85e3317-99c8-412e-a4c1-d15b484de434</g:id>
-      <g:title>מברשת אובלית קטנה רקורד</g:title>
-      <g:description>מברשת אובלית קטנה רקורד</g:description>
-      <g:link>https://gurimbakfar.zappy5.app/product/mbrsht-avblyt-ktnh-rkvrd-4q0chf</g:link>
-      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449198949-fg4h4.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>65.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>גורים בכפר</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>מוצרי טיפוח</g:product_type>
-    </item>
-    <item>
       <g:id>dade4b69-861a-4be6-b96c-7b119c87b221</g:id>
       <g:title>תרסיס בישום petglow</g:title>
       <g:description>תרסיס בישום petglow</g:description>
@@ -4276,19 +4263,6 @@
       <g:brand>גורים בכפר</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>מוצרי טיפוח</g:product_type>
-    </item>
-    <item>
-      <g:id>54bb2e21-89a1-4b92-998d-737349b6d7d3</g:id>
-      <g:title>הנריס בולי סטיק</g:title>
-      <g:description>הנריס בולי סטיק</g:description>
-      <g:link>https://gurimbakfar.zappy5.app/product/hnrys-bvly-styk-vp0jgi</g:link>
-      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449138802-xuj7sa.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>39.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>גורים בכפר</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>חטיפים</g:product_type>
     </item>
     <item>
       <g:id>f9d8ebf6-d353-407c-a306-f03b86a9d407</g:id>
@@ -4357,6 +4331,32 @@
       <g:brand>גורים בכפר</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>צעצועים</g:product_type>
+    </item>
+    <item>
+      <g:id>54bb2e21-89a1-4b92-998d-737349b6d7d3</g:id>
+      <g:title>הנריס בולי סטיק</g:title>
+      <g:description>הנריס בולי סטיק</g:description>
+      <g:link>https://gurimbakfar.zappy5.app/product/hnrys-bvly-styk-vp0jgi</g:link>
+      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449138802-xuj7sa.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>39.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חטיפים</g:product_type>
+    </item>
+    <item>
+      <g:id>c85e3317-99c8-412e-a4c1-d15b484de434</g:id>
+      <g:title>מברשת אובלית קטנה רקורד</g:title>
+      <g:description>מברשת אובלית קטנה רקורד</g:description>
+      <g:link>https://gurimbakfar.zappy5.app/product/mbrsht-avblyt-ktnh-rkvrd-4q0chf</g:link>
+      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449198949-fg4h4.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>65.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מוצרי טיפוח</g:product_type>
     </item>
     <item>
       <g:id>48d3c3ef-c991-47ce-afb6-582db357da1d</g:id>
@@ -4476,19 +4476,6 @@
       <g:product_type>חטיפים</g:product_type>
     </item>
     <item>
-      <g:id>be1b1020-d102-46a2-9b0d-2b155a575768</g:id>
-      <g:title>מסרק גבהים משתנים רקורד</g:title>
-      <g:description>מסרק גבהים משתנים רקורד</g:description>
-      <g:link>https://gurimbakfar.zappy5.app/product/msrk-gbhym-mshtnym-rkvrd-yemjg2</g:link>
-      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1781433733854-rfiul.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>48.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>גורים בכפר</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>מוצרי טיפוח</g:product_type>
-    </item>
-    <item>
       <g:id>8a4866e3-bc55-4cc3-9bb7-f651e69443c5</g:id>
       <g:title>הנריס בולי סטיק צמה</g:title>
       <g:description>הנריס בולי סטיק צמה</g:description>
@@ -4500,6 +4487,19 @@
       <g:brand>גורים בכפר</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>חטיפים</g:product_type>
+    </item>
+    <item>
+      <g:id>be1b1020-d102-46a2-9b0d-2b155a575768</g:id>
+      <g:title>מסרק גבהים משתנים רקורד</g:title>
+      <g:description>מסרק גבהים משתנים רקורד</g:description>
+      <g:link>https://gurimbakfar.zappy5.app/product/msrk-gbhym-mshtnym-rkvrd-yemjg2</g:link>
+      <g:image_link>https://gurimbakfar.zappy5.app/assets/product-enhanced-1781433733854-rfiul.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>48.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גורים בכפר</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מוצרי טיפוח</g:product_type>
     </item>
     <item>
       <g:id>e093d300-0023-48df-afa2-1de7713d3f91</g:id>

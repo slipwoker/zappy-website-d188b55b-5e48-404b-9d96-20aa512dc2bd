@@ -386,15 +386,15 @@ https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-20-mm-mydh-m-xekwkf
 - Availability: In stock
 - Category: קולרים ורצועות
 
-### רצועה בד צבעוני 10 ממ - מידה XS
-https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0
-- Price: 30.00 ILS
-- Availability: In stock
-- Category: קולרים ורצועות
-
 ### רצועה בד צבעוני 15 ממ - מידה S
 https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e
 - Price: 32.00 ILS
+- Availability: In stock
+- Category: קולרים ורצועות
+
+### רצועה בד צבעוני 10 ממ - מידה XS
+https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0
+- Price: 30.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
@@ -443,6 +443,14 @@ https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-advm
 - Availability: In stock
 - Category: קולרים ורצועות
 
+### מזון כלבים Bitesy גורים סלמון 12 ק"ג
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf
+- Price: 309.00 ILS
+- Availability: In stock
+- Category: מזון יבש
+- Description: מזון לגורי כלבים בייטסי bitesy חלבון יחיד סלמון, תומך בהתפתחות אופטימלית של הגור מכיל בשר סלמון (34% ) עם אורז לתזונה מאוזנת. אורז ובטטה – פחמימות איכותיות קלות לעיכול, פטרוזיליה ואצות לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה, טאורין – מסייע לבריאות הלב כולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים תוצרת איטליה.
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783426203173-esm6je.webp
+
 ### סט רתמה ורצועה לכלב קטן / בינוני צבע חום
 https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-chvm-rinog6
 - Price: 59.00 ILS
@@ -457,14 +465,6 @@ https://gurimbakfar.zappy5.app/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-1
 - Brand: bitesy
 - Description: מזון כלבים Bitesy Platinum היפואלרגני על בסיס ברווז, אורז, בטטה וחמוציות לכלבים בוגרים מכיל בשר ברווז כחלבון יחיד (32%) אורז ובטטה – פחמימות איכותיות קלות לעיכול חמוציות ופטרוזליה לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה כולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים תוצרת איטליה.
 - Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783425975134-1pgsw9.webp
-
-### מזון כלבים Bitesy גורים סלמון 12 ק"ג
-https://gurimbakfar.zappy5.app/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf
-- Price: 309.00 ILS
-- Availability: In stock
-- Category: מזון יבש
-- Description: מזון לגורי כלבים בייטסי bitesy חלבון יחיד סלמון, תומך בהתפתחות אופטימלית של הגור מכיל בשר סלמון (34% ) עם אורז לתזונה מאוזנת. אורז ובטטה – פחמימות איכותיות קלות לעיכול, פטרוזיליה ואצות לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה, טאורין – מסייע לבריאות הלב כולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים תוצרת איטליה.
-- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783426203173-esm6je.webp
 
 ### סמס פילד/Sam's Field בוגרים גזע קטן עוף 8 ק"ג
 https://gurimbakfar.zappy5.app/product/sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-wuntm2
@@ -574,22 +574,6 @@ https://gurimbakfar.zappy5.app/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-5de
 - Availability: In stock
 - Image: https://gurimbakfar.zappy5.app/assets/product-1783423310438-ta016.webp
 
-### מזון כלבים רטוב איסגרים ארוחת ברווז ולבבות עוף לכלב 410 גרם
-https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-6mu7fy
-- Price: 19.90 ILS
-- Availability: In stock
-- Category: שימורים ומעדנים
-- Description: שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס ברווז ולבבות עוף.
-- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783413960203-5l850g.webp
-
-### מזון כלבים רטוב איסגרים ארוחת אייל וציד לכלב 410 גרם
-https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-c933sf
-- Price: 19.90 ILS
-- Availability: In stock
-- Category: שימורים ומעדנים
-- Description: שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בשר אייל וצייד.
-- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783414060910-hewwx.webp
-
 ### מזון כלבים רטוב איסגרים ארוחת הודו לכלב 410 גרם
 https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-gkm428
 - Price: 19.90 ILS
@@ -605,6 +589,22 @@ https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvr
 - Category: שימורים ומעדנים
 - Description: שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס עוף, דגי סלמון ופורל.
 - Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783413605251-8qatrk.webp
+
+### מזון כלבים רטוב איסגרים ארוחת ברווז ולבבות עוף לכלב 410 גרם
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-6mu7fy
+- Price: 19.90 ILS
+- Availability: In stock
+- Category: שימורים ומעדנים
+- Description: שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס ברווז ולבבות עוף.
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783413960203-5l850g.webp
+
+### מזון כלבים רטוב איסגרים ארוחת אייל וציד לכלב 410 גרם
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-c933sf
+- Price: 19.90 ILS
+- Availability: In stock
+- Category: שימורים ומעדנים
+- Description: שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בשר אייל וצייד.
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783414060910-hewwx.webp
 
 ### מזון כלבים רטוב איסגרים ארוחת חזיר בר לכלב 410 גרם
 https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-chzyr-br-lklb-410-grm-s493zh
@@ -1009,19 +1009,19 @@ https://gurimbakfar.zappy5.app/product/nvzl-lnykvy-avznyymaynyym-petglow-psqn25
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782843478731-dcwsf.webp
 
-### אצבעון צחצוח שיניים זוג 
-https://gurimbakfar.zappy5.app/product/atsbavn-tschtsvch-shynyym-zvg-w3h460
-- Price: 20.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782843594905-kfaqql.webp
-
 ### מרכך פרידוג
 https://gurimbakfar.zappy5.app/product/mrkk-prydvg-lxqsn4
 - Price: 54.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782901133456-65svjn.webp
+
+### אצבעון צחצוח שיניים זוג 
+https://gurimbakfar.zappy5.app/product/atsbavn-tschtsvch-shynyym-zvg-w3h460
+- Price: 20.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782843594905-kfaqql.webp
 
 ### מנטרל ריחות שתן ומנקה כתמים למשטח הכלב
 https://gurimbakfar.zappy5.app/product/mntrl-rychvt-shtn-vmnkh-ktmym-lmshtch-hklb-ri7xoz
@@ -1314,19 +1314,19 @@ https://gurimbakfar.zappy5.app/product/mshtch-lykvk-2020-sm-freedog-h3rdn0
 - Category: כלי אוכל ושתייה
 - Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782209880627-k08s5i.webp
 
-### צעצוע לעיסה צמיג חבל
-https://gurimbakfar.zappy5.app/product/tsatsva-laysh-tsmyg-chbl-a4z8by
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: צעצועים
-- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783278887184-p4jyfb.webp
-
 ### פאפי רול
 https://gurimbakfar.zappy5.app/product/papy-rvl-k835l8
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: צעצועים
 - Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782209581919-mie7ia.webp
+
+### צעצוע לעיסה צמיג חבל
+https://gurimbakfar.zappy5.app/product/tsatsva-laysh-tsmyg-chbl-a4z8by
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: צעצועים
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783278887184-p4jyfb.webp
 
 ### קערת האכלה איטית לכלבים 18*18 ס"מ freedog
 https://gurimbakfar.zappy5.app/product/kart-haklh-aytyt-lklbym-1818-sm-freedog-enrzlq
@@ -1471,19 +1471,19 @@ https://gurimbakfar.zappy5.app/product/kdvr-mshchk-alsty-gauldp
 - Category: צעצועים
 - Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449405837-ddn8wk.webp
 
-### מברשת אוניברסלית קשה אדומה
-https://gurimbakfar.zappy5.app/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr
-- Price: 65.00 ILS
-- Availability: In stock
-- Category: מוצרי טיפוח
-- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449364410-36grpk.webp
-
 ### מברשת freedog
 https://gurimbakfar.zappy5.app/product/mbrsht-freedog-ip8x9x
 - Price: 55.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
 - Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449317230-uuzxmq.webp
+
+### מברשת אוניברסלית קשה אדומה
+https://gurimbakfar.zappy5.app/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr
+- Price: 65.00 ILS
+- Availability: In stock
+- Category: מוצרי טיפוח
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449364410-36grpk.webp
 
 ### משחת שיניים bioline
 https://gurimbakfar.zappy5.app/product/mshcht-shynyym-bioline-d64o17

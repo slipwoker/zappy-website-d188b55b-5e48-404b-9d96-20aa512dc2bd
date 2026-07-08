@@ -6682,8 +6682,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -7443,16 +7443,16 @@ Availability: In stock
 
 ---
 
-### רצועה בד צבעוני 10 ממ - מידה XS
-URL: https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0
-Price: 30.00 ILS
+### רצועה בד צבעוני 15 ממ - מידה S
+URL: https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e
+Price: 32.00 ILS
 Availability: In stock
 
 ---
 
-### רצועה בד צבעוני 15 ממ - מידה S
-URL: https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e
-Price: 32.00 ILS
+### רצועה בד צבעוני 10 ממ - מידה XS
+URL: https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0
+Price: 30.00 ILS
 Availability: In stock
 
 ---
@@ -7506,6 +7506,15 @@ Availability: In stock
 
 ---
 
+### מזון כלבים Bitesy גורים סלמון 12 ק"ג
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf
+Price: 309.00 ILS
+Availability: In stock
+
+רכיבים : סלמון מיובש (34%), אורז (14%), בטטה מיובשת (12%), שומן הודו (12%), אפונה מיובשת, עיסת סלק מיובשת (5%), חלבון אפונה, רוטב ירקות (2%), שמן סלמון (1%), שמרים (1%) מינרלים, פרה-ביוטיקה משורש עולש (0.034%), פרה-ביוטיקה (MOS) (0.025%), גלוקוזמין (0.012%), MSM (תוסף תזונה) (0.011%), כונדרויטין (0.01%), שורש מניהוט (יוקה), חמוציות, אצות, כורכום, עגבניה, פטרוזיליה (0.005%). ערכים תזונתיים : חלבון גולמי: 32%, סיבים תזונתיים 2.5%, שומן גולמי: 19%, אפר גולמי: 7.5%, סידן: 7.5%, זרחן: 1.5%, אומגה 3: 1%, אומגה 6: 1.1%, לחות:&nbsp;7.5%
+
+---
+
 ### סט רתמה ורצועה לכלב קטן / בינוני צבע חום
 URL: https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-chvm-rinog6
 Price: 59.00 ILS
@@ -7520,15 +7529,6 @@ Availability: In stock
 Brand: bitesy
 
 רכיבים : ברווז מיובש (32%), אורז (18%), בטטה מיובשת (16%), שומן הודו (12%), אפונה מיובשת, עיסת סלק מיובשת (5%), חלבון אפונה, רוטב ירקות (2%), שמן סלמון (1%), שמרים (1%) מינרלים, פרה-ביוטיקה משורש עולש (0.034%), פרה-ביוטיקה (MOS) (0.025%), גלוקוזמין (0.012%), MSM (תוסף תזונה) (0.011%), כונדרויטין (0.01%), שורש מניהוט (יוקה), חמוציות (0.005%), אצות, כורכום, עגבניה, פטרוזיליה. ערכים תזונתיים : חלבון גולמי: 29%, סיבים תזונתיים גולמיים: 2.5%, שומן גולמי: 18%, אפר גולמי: 8.5%, סידן: 1.7%, זרחן: 1.2%, אומגה 3: 0.3%, אומגה 6: 2.7%, לחות: 7.5%, חלבון ממרכיבים מן החי: 76%, סה"כ מרכיבים מן החי: 45%, קק"ל/100 גרם: 394.
-
----
-
-### מזון כלבים Bitesy גורים סלמון 12 ק"ג
-URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf
-Price: 309.00 ILS
-Availability: In stock
-
-רכיבים : סלמון מיובש (34%), אורז (14%), בטטה מיובשת (12%), שומן הודו (12%), אפונה מיובשת, עיסת סלק מיובשת (5%), חלבון אפונה, רוטב ירקות (2%), שמן סלמון (1%), שמרים (1%) מינרלים, פרה-ביוטיקה משורש עולש (0.034%), פרה-ביוטיקה (MOS) (0.025%), גלוקוזמין (0.012%), MSM (תוסף תזונה) (0.011%), כונדרויטין (0.01%), שורש מניהוט (יוקה), חמוציות, אצות, כורכום, עגבניה, פטרוזיליה (0.005%). ערכים תזונתיים : חלבון גולמי: 32%, סיבים תזונתיים 2.5%, שומן גולמי: 19%, אפר גולמי: 7.5%, סידן: 7.5%, זרחן: 1.5%, אומגה 3: 1%, אומגה 6: 1.1%, לחות:&nbsp;7.5%
 
 ---
 
@@ -7644,22 +7644,6 @@ Availability: In stock
 
 ---
 
-### מזון כלבים רטוב איסגרים ארוחת ברווז ולבבות עוף לכלב 410 גרם
-URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-6mu7fy
-Price: 19.90 ILS
-Availability: In stock
-
-Isegrim Roots מספקת את התזונה המקורית של האב הקדמון של כל הכלבים – הזאב. שימורי סופר פרימיום המציעים טעם ללא תחרות בזכות: מרכיבים טבעיים, 70% תכולת בשר, מגוון ירקות עשירים בויטמינים, שמנים מזינים ועשבי בר מובחרים. נטול דגנים וגלוטן! 97% בשר וציר בשר! 3% ירקות, שמנים ועשבי תבלין. מגיע באריזת פאווץ מהודרת ונוחה לאיחסון. רכיבים עיקריים: 60% ברווז, 27% ציר, 10% לבבות עוף, 1.5% מיקס ירקות, 1% מינרלים, 0.3% עשבי בר, 0.2% שמן זרעי פשתה.
-
----
-
-### מזון כלבים רטוב איסגרים ארוחת אייל וציד לכלב 410 גרם
-URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-c933sf
-Price: 19.90 ILS
-Availability: In stock
-
----
-
 ### מזון כלבים רטוב איסגרים ארוחת הודו לכלב 410 גרם
 URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-gkm428
 Price: 19.90 ILS
@@ -7675,6 +7659,22 @@ Price: 19.90 ILS
 Availability: In stock
 
 Isegrim Roots מספקת את התזונה המקורית של האב הקדמון של כל הכלבים – הזאב. שימורי סופר פרימיום המציעים טעם ללא תחרות בזכות: מרכיבים טבעיים, 70% תכולת בשר, מגוון ירקות עשירים בויטמינים, שמנים מזינים ועשבי בר מובחרים. נטול דגנים וגלוטן! 97% בשר וציר בשר! 3% ירקות, שמנים ועשבי בר. מגיע באריזת פאווץ מהודרת ונוחה לאיחסון. רכיבים עיקריים: 35% עוף, 27.5% ציר, 20% סלמון, 14.5% פורל, 1.5% ארטישוק ירושלמי, 1% מינרלים, 0.3% עשבי נחלים, 0.2% שמן חריע.
+
+---
+
+### מזון כלבים רטוב איסגרים ארוחת ברווז ולבבות עוף לכלב 410 גרם
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-6mu7fy
+Price: 19.90 ILS
+Availability: In stock
+
+Isegrim Roots מספקת את התזונה המקורית של האב הקדמון של כל הכלבים – הזאב. שימורי סופר פרימיום המציעים טעם ללא תחרות בזכות: מרכיבים טבעיים, 70% תכולת בשר, מגוון ירקות עשירים בויטמינים, שמנים מזינים ועשבי בר מובחרים. נטול דגנים וגלוטן! 97% בשר וציר בשר! 3% ירקות, שמנים ועשבי תבלין. מגיע באריזת פאווץ מהודרת ונוחה לאיחסון. רכיבים עיקריים: 60% ברווז, 27% ציר, 10% לבבות עוף, 1.5% מיקס ירקות, 1% מינרלים, 0.3% עשבי בר, 0.2% שמן זרעי פשתה.
+
+---
+
+### מזון כלבים רטוב איסגרים ארוחת אייל וציד לכלב 410 גרם
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-c933sf
+Price: 19.90 ILS
+Availability: In stock
 
 ---
 
@@ -8110,16 +8110,16 @@ Availability: In stock
 
 ---
 
-### אצבעון צחצוח שיניים זוג 
-URL: https://gurimbakfar.zappy5.app/product/atsbavn-tschtsvch-shynyym-zvg-w3h460
-Price: 20.00 ILS
+### מרכך פרידוג
+URL: https://gurimbakfar.zappy5.app/product/mrkk-prydvg-lxqsn4
+Price: 54.00 ILS
 Availability: In stock
 
 ---
 
-### מרכך פרידוג
-URL: https://gurimbakfar.zappy5.app/product/mrkk-prydvg-lxqsn4
-Price: 54.00 ILS
+### אצבעון צחצוח שיניים זוג 
+URL: https://gurimbakfar.zappy5.app/product/atsbavn-tschtsvch-shynyym-zvg-w3h460
+Price: 20.00 ILS
 Availability: In stock
 
 ---
@@ -8424,15 +8424,15 @@ Availability: In stock
 
 ---
 
-### צעצוע לעיסה צמיג חבל
-URL: https://gurimbakfar.zappy5.app/product/tsatsva-laysh-tsmyg-chbl-a4z8by
+### פאפי רול
+URL: https://gurimbakfar.zappy5.app/product/papy-rvl-k835l8
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
-### פאפי רול
-URL: https://gurimbakfar.zappy5.app/product/papy-rvl-k835l8
+### צעצוע לעיסה צמיג חבל
+URL: https://gurimbakfar.zappy5.app/product/tsatsva-laysh-tsmyg-chbl-a4z8by
 Price: 0.00 ILS
 Availability: In stock
 
@@ -8579,16 +8579,16 @@ Availability: In stock
 
 ---
 
-### מברשת אוניברסלית קשה אדומה
-URL: https://gurimbakfar.zappy5.app/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr
-Price: 65.00 ILS
+### מברשת freedog
+URL: https://gurimbakfar.zappy5.app/product/mbrsht-freedog-ip8x9x
+Price: 55.00 ILS
 Availability: In stock
 
 ---
 
-### מברשת freedog
-URL: https://gurimbakfar.zappy5.app/product/mbrsht-freedog-ip8x9x
-Price: 55.00 ILS
+### מברשת אוניברסלית קשה אדומה
+URL: https://gurimbakfar.zappy5.app/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr
+Price: 65.00 ILS
 Availability: In stock
 
 ---
@@ -8670,16 +8670,16 @@ Availability: In stock
 
 ---
 
-### משקולת גומי דנטלית
-URL: https://gurimbakfar.zappy5.app/product/mshkvlt-gvmy-dntlyt-i3kjv5
-Price: 25.00 ILS
+### צעצוע תמנון קטיפה מרשרש עם צפצפה
+URL: https://gurimbakfar.zappy5.app/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp
+Price: 35.00 ILS
 Availability: In stock
 
 ---
 
-### צעצוע תמנון קטיפה מרשרש עם צפצפה
-URL: https://gurimbakfar.zappy5.app/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp
-Price: 35.00 ILS
+### משקולת גומי דנטלית
+URL: https://gurimbakfar.zappy5.app/product/mshkvlt-gvmy-dntlyt-i3kjv5
+Price: 25.00 ILS
 Availability: In stock
 
 ---
@@ -8719,15 +8719,15 @@ Availability: In stock
 
 ---
 
-### מברשת אובלית קטנה רקורד
-URL: https://gurimbakfar.zappy5.app/product/mbrsht-avblyt-ktnh-rkvrd-4q0chf
-Price: 65.00 ILS
+### תרסיס בישום petglow
+URL: https://gurimbakfar.zappy5.app/product/trsys-byshvm-petglow-8o1uv3
+Price: 35.00 ILS
 Availability: In stock
 
 ---
 
-### תרסיס בישום petglow
-URL: https://gurimbakfar.zappy5.app/product/trsys-byshvm-petglow-8o1uv3
+### בובות לכלבים צוואר חבל חיות
+URL: https://gurimbakfar.zappy5.app/product/bvbvt-lklbym-tsvvar-chbl-chyvt-2akabn
 Price: 35.00 ILS
 Availability: In stock
 
@@ -8740,9 +8740,9 @@ Availability: In stock
 
 ---
 
-### בובות לכלבים צוואר חבל חיות
-URL: https://gurimbakfar.zappy5.app/product/bvbvt-lklbym-tsvvar-chbl-chyvt-2akabn
-Price: 35.00 ILS
+### מברשת אובלית קטנה רקורד
+URL: https://gurimbakfar.zappy5.app/product/mbrsht-avblyt-ktnh-rkvrd-4q0chf
+Price: 65.00 ILS
 Availability: In stock
 
 ---
@@ -8810,16 +8810,16 @@ Availability: In stock
 
 ---
 
-### מסרק גבהים משתנים רקורד
-URL: https://gurimbakfar.zappy5.app/product/msrk-gbhym-mshtnym-rkvrd-yemjg2
-Price: 48.00 ILS
+### הנריס בולי סטיק צמה
+URL: https://gurimbakfar.zappy5.app/product/hnrys-bvly-styk-tsmh-7bbhly
+Price: 60.00 ILS
 Availability: In stock
 
 ---
 
-### הנריס בולי סטיק צמה
-URL: https://gurimbakfar.zappy5.app/product/hnrys-bvly-styk-tsmh-7bbhly
-Price: 60.00 ILS
+### מסרק גבהים משתנים רקורד
+URL: https://gurimbakfar.zappy5.app/product/msrk-gbhym-mshtnym-rkvrd-yemjg2
+Price: 48.00 ILS
 Availability: In stock
 
 ---
