@@ -7,1532 +7,1532 @@
 ## Pages
 
 ### גורים בכפר - הכל לכלב שלך במקום אחד
-https://example.com
+https://gurimbakfar.zappy5.app
 חנות ציוד וגורים לאימוץ — גורים בכפר הוא היעד המושלם לכל בעל כלב. בואו לגלות עולם שלם של אהבה לכלבים. הצטרפו אלינו עוד היום!
 
 ### גורים בכפר - הכל לכלב שלך במקום אחד
-https://example.com/our-cubs
+https://gurimbakfar.zappy5.app/our-cubs
 בית גידול כלבים למכירה עם גורים בריאים, מחוסנים ומלאי אהבה. גורים בכפר מגדל בסטנדרטים הגבוהים ביותר כדי שהגור הבא שלכם יגיע אליכם מוכן ומאושר.
 
 ### Products
-https://example.com/products
+https://gurimbakfar.zappy5.app/products
 המוצרים שלנו - גורים בכפר
 
 ### Cart
-https://example.com/cart
+https://gurimbakfar.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://gurimbakfar.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://gurimbakfar.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://gurimbakfar.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://gurimbakfar.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://gurimbakfar.zappy5.app/product/:slug
 פרטי המוצר - גורים בכפר
 
 ### Category
-https://example.com/category/:slug
+https://gurimbakfar.zappy5.app/category/:slug
 מוצרים - גורים בכפר
 
 ### מדריך לטיפול בגור חדש
-https://example.com/new-resident-guide
+https://gurimbakfar.zappy5.app/new-resident-guide
 גורים בכפר - מדריך לטיפול בגור חדש
 
 ### דברו איתנו — אנחנו כאן בשבילכם — גורים בכפר
-https://example.com/contact
+https://gurimbakfar.zappy5.app/contact
 יש לכם שאלה על פנסיון כלבים, גורים למכירה או ציוד לכלב? צרו קשר עם צוות גורים בכפר ונשמח לעזור לכם למצוא בדיוק את מה שהכלב שלכם צריך. מחכים לשמוע מכם!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://gurimbakfar.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://gurimbakfar.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://gurimbakfar.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 ## Products
 
-**Total active products: 236** (showing first 200; full catalog at https://example.com/products.json)
+**Total active products: 236** (showing first 200; full catalog at https://gurimbakfar.zappy5.app/products.json)
 
 ### חטיף נובלוס ברבקיו שוק עוף 80 גר'
-https://example.com/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-6przv4
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-6przv4
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף נובילוס (Nobilus) בטעם שוק עוף ברביקיו (80 גרם) הוא חטיף פרימיום פופולרי ועשיר בחלבון המיועד לפינוק, אימון ותעסוקה של כלבים. אריזה: מארז נוח במשקל 80 גרם הכולל סגירה חוזרת (Ziploc) לשמירה מרבית על הטריות.
-- Image: https://example.com/assets/product-ai-fit-1783464739061-immko8.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783464739061-immko8.webp
 
 ### חטיף נובלוס ברבקיו טיבון בקר 80 גר'
-https://example.com/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-04cb3x
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-04cb3x
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף נובילוס (Nobilus) בטעם סטייק טיבון בקר / ברביקיו בקר במשקל 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לכלבים, המבוסס על בשר אמיתי כמרכיב עיקרי ומתאים כפינוק יומי או כפרס באילוף. אריזה: מגיע במארז נוח עם סגירה חוזרת (Ziploc) השומרת על טריות המוצר לאורך זמן.
-- Image: https://example.com/assets/product-ai-fit-1783464427466-wndd0c.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783464427466-wndd0c.webp
 
 ### חטיף נובלוס ברבקיו צלעות כבש 80 גר'
-https://example.com/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-c3oqz2
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-c3oqz2
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף נובילוס (Nobilus) בטעם ברביקיו צלעות כבש הוא חטיף לעיסה איכותי ודל שומן המיועד לכלבים, המגיע באריזת 80 גרם עם סגירה חוזרת לשמירה על הטריות.חטיף זה פופולרי מאוד כצופר, כפרס בזמן אילוף או כחטיף תעסקות טעים המבוסס על בשר אמיתי כמרכיב עיקרי.
-- Image: https://example.com/assets/product-ai-fit-1783464090406-vdupbg.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783464090406-vdupbg.webp
 
 ### חטיף נובלוס דנטלי מברשות 80 גר'
-https://example.com/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-bqal75
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-bqal75
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף נובילוס (Nobilus) דנטלי בצורת מברשת שיניים (80 גרם) הוא חטיף לעיסה פונקציונלי לכלבים, המיועד לשמירה על היגיינת הפה. החטיף מגיע במארז עם סגירה חוזרת לשמירה על הטריות.
-- Image: https://example.com/assets/product-1783463815538-8srhrg.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783463815538-8srhrg.webp
 
 ### חטיף נובלוס עטיפות של ארנב במקל קלציום 80 גר'
-https://example.com/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-jclb48
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-jclb48
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף נובילוס (Nobilus) ארנב על עצם סידן (מקל קלציום) במשקל 80 גרם הוא חטיף פרימיום איכותי והיפואלרגני המיועד לכלבים. החטיף מורכב מנתחי בשר ארנב אמיתי המלופפים סביב מקל סידן (קלציום), מה שמספק לכלב גם חוויית לעיסה טעימה וממושכת וגם תמיכה בבריאות העצמות והשיניים. אריזה: מגיע באריזת 80 גרם עם סגירה חוזרת (Ziploc) לשמירה מקסימלית על הטריות.
-- Image: https://example.com/assets/product-1783463699571-lson.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783463699571-lson.webp
 
 ### חטיף נובלוס סושי ארנב 80 גר'
-https://example.com/product/chtyp-nvblvs-svshy-arnb-80-gr-rqdvw4
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-svshy-arnb-80-gr-rqdvw4
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: נובילוס חטיף לכלב סושי ארנב - 80 גרם הוא חטיף פרימיום בצורת ספירלה המיועד לכלבים, המיוצר על ידי המותג נובילוס (Nobilus). אריזה: 80 גרם עם סגירה חוזרת לשמירה על הטריות.
-- Image: https://example.com/assets/product-ai-fit-1783463235014-inll9.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783463235014-inll9.webp
 
 ### חטיף נובלוס פילה ארנב 80 גר'
-https://example.com/product/chtyp-nvblvs-pylh-arnb-80-gr-2jn8ww
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-pylh-arnb-80-gr-2jn8ww
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף לכלבים נובילוס פילה ארנבת 80 גר - NOBILUS הוא חטיף אולטרה-פרימיום איכותי לכלבים, המיוצר על בסיס בשר ארנב וחזה עוף. לפי פרסומי החנויות המשווקות (כמו "לה דוג" ו"המגרש של יוגב"), מדובר בחטיף היפואלרגני, דל שומן וללא תוספת סוכר, המתאים מאוד גם לכלבים רגישים או מבוגרים. אריזה: 80 גרם, מגיעה לרוב עם סגירה חוזרת (פסגור) לשמירה על הטריות.
-- Image: https://example.com/assets/product-ai-fit-1783462971467-ivkv6r.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783462971467-ivkv6r.webp
 
 ### חטיף נובלוס פילה דג קוד 80 גר'
-https://example.com/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-ue0c5k
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-ue0c5k
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: נובילוס (Nobilus) חטיף קוביות פילה דג קוד (80 גרם) הוא חטיף אולטרה-פרימיום איכותי לכלבים, המיוצר מרכיבים נבחרים ומתאים במיוחד כצ'ופר יומיומי או כפרס בזמן אילוף. אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (Ziploc) לשמירה על איכות המוצר לאורך זמן.
-- Image: https://example.com/assets/product-ai-fit-1783462483766-4i9dde.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783462483766-4i9dde.webp
 
 ### חטיף נובלוס סושי סלמון 80 גר'
-https://example.com/product/chtyp-nvblvs-svshy-slmvn-80-gr-ny6xt0
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-svshy-slmvn-80-gr-ny6xt0
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף נובילוס (Nobilus) פילה סלמון 80 גרם הוא חטיף אולטרה-פרימיום איכותי המיועד לכלבים. החטיף משלב נתחי פילה סלמון מובחרים, חזה עוף וחלבון אפונה, והוא מתאים מאוד כצ'ופר יומי, פרס באילוף או כתוספת מפתה למזון היבש.
-- Image: https://example.com/assets/product-1783461562150-59m0cd.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783461562150-59m0cd.webp
 
 ### חטיף נובלוס פילה סלמון 80 גר'
-https://example.com/product/chtyp-nvblvs-pylh-slmvn-80-gr-30zl7d
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-pylh-slmvn-80-gr-30zl7d
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: נובילוס חטיף פילה סלמון לכלב 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לפינוק, אילוף או כתוספת משלימה למזון היומי של הכלב. אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
-- Image: https://example.com/assets/product-ai-fit-1783461171036-1002g.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783461171036-1002g.webp
 
 ### חטיף נובלוס פילה סלמון 80 גר'
-https://example.com/product/chtyp-nvblvs-pylh-slmvn-80-gr-qdr7n7
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-pylh-slmvn-80-gr-qdr7n7
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: נובילוס חטיף פילה סלמון לכלב 80 גרם הוא חטיף אולטרה-פרימיום איכותי וטעים המיועד לפינוק, אילוף או כתוספת משלימה למזון היומי של הכלב. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
-- Image: https://example.com/assets/product-1783458146587-eg5pjc.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783458146587-eg5pjc.webp
 
 ### חטיף נובלוס נקניקיות כבש 80 גר'
-https://example.com/product/chtyp-nvblvs-nknykyvt-kbsh-80-gr-bkfo5t
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-nknykyvt-kbsh-80-gr-bkfo5t
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: נובילוס Nobilus חטיף נקניקיות כבש הוא חטיף פרימיום היפואלרגני המיועד לכלבים, המגיע באריזה של 80 גרם ומבוסס על שילוב של בשר כבש ובשר חזה ברווז. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
-- Image: https://example.com/assets/product-1783459320643-9td0u.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783459320643-9td0u.webp
 
 ### חטיף נובלוס פילה כבש 80 גר'
-https://example.com/product/chtyp-nvblvs-pylh-kbsh-80-gr-0wy8gt
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-pylh-kbsh-80-gr-0wy8gt
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף נובילוס (Nobilus) פילה כבש במשקל 80 גרם הוא חטיף פרמיום היפואלרגני המיועד לכלבים מכל הגזעים והגילאים. הוא פופולרי במיוחד כצ'ופר איכותי, חטיף אימון או תוספת משלימה למזון. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
-- Image: https://example.com/assets/product-ai-fit-1783465457803-e765ze.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783465457803-e765ze.webp
 
 ### חטיף נובלוס קוביות כבש אילוף 80 גר'
-https://example.com/product/chtyp-nvblvs-kvbyvt-kbsh-aylvp-80-gr-4u1ehe
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-kvbyvt-kbsh-aylvp-80-gr-4u1ehe
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: קוביות כבש 80 גרם - נובילוס NOBILUS הוא חטיף אילוף פרימיום פופולרי לכלבים, המגיע בצורת קוביות קטנות המותאמות במיוחד לביס מהיר בזמן אימון מבלי להפריע לרצף הלמידה. החטיף מבוסס על בשר כבש אמיתי כמרכיב עיקרי בשילוב בשר חזה ברווז, ומספק מקור חלבון איכותי ודל שומן.
-- Image: https://example.com/assets/product-1783459385785-haaosh.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783459385785-haaosh.webp
 
 ### חטיף נובלוס מקלות כבש 80 גר'
-https://example.com/product/chtyp-nvblvs-mklvt-kbsh-80-gr-ea5fob
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-mklvt-kbsh-80-gr-ea5fob
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף לכלבים נובילוס (Nobilus) מקלות כבש באריזת 80 גרם הוא חטיף משלים, איכותי והיפואלרגני המיועד לפינוק, נשנוש או תגמול בזמן אילוף. החטיף מיוצר על בסיס בשר אמיתי כמרכיב עיקרי, מתאפיין ברמת טעימות ונעכלות גבוהה מאוד, ואינו מכיל תוספת סוכר.
-- Image: https://example.com/assets/product-1783459511093-5ao8rr.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783459511093-5ao8rr.webp
 
 ### חטיף נובלוס מקלות בקר ואורז 80 גר'
-https://example.com/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-sw4el4
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-sw4el4
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף הכלבים נובילוס (Nobilus) מקלות/רצועות בקר ואורז באריזת 80 גרם הוא חטיף פרימיום חצי קשיח, העשיר בחלבון ודל בשומן. החטיף מיוצר מבשר אמיתי כמרכיב עיקרי, קל לעיכול, ומתאים מאוד כצ'ופר יומיומי או כחטיף אילוף ותגמול שניתן לשבור בקלות לחתיכות קטנות.
-- Image: https://example.com/assets/product-1783459618367-etd5fh.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783459618367-etd5fh.webp
 
 ### חטיף נובלוס סושי בקר
-https://example.com/product/chtyp-nvblvs-svshy-bkr-1m4mq5
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-svshy-bkr-1m4mq5
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: נובילוס חטיף סושי בקר - 80 גרם הוא חטיף אולטרה-פרימיום איכותי לכלבים המעוצב בצורת ספירלה המזכירה סושי. החטיף מבוסס על שילוב של שלושה מקורות חלבון מובחרים וקלים לעיכול. לפי פירוט הרכיבים הרשמי של היצרן Nobilus באתר ג'וי בוקס, המוצר מיוצר מבשר אמיתי כמרכיב עיקרי ומתאים כחטיף התעסקות, אילוף או פינוק דל שומן.
-- Image: https://example.com/assets/product-1783459806783-d8olyh.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783459806783-d8olyh.webp
 
 ### חטיף נובלוס נקניקיות ברווז 80 גר'
-https://example.com/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-htoyfn
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-htoyfn
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף נובילוס (Nobilus) נקניקיות ברווז הוא חטיף פרימיום משלים והיפואלרגני המיועד לכלבים. החטיף מגיע באריזה של 80 גרם עם סגירה חוזרת לשמירה על הטריות, ומתאים כצ'ופר, חטיף התעסקות או לעיסה לכלבים מכל הגזעים והגילאים.
-- Image: https://example.com/assets/product-ai-fit-1783459889501-znyu5g.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783459889501-znyu5g.webp
 
 ### חטיף נובלוס מקל ברווז ואורז 80 גר'
-https://example.com/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-qyh3w2
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-qyh3w2
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף נובילוס (Nobilus) מקל ברווז ואורז הוא חטיף לעיסה איכותי ודל שומן לכלבים. המוצר מגיע במארז של 80 גרם עם סגירה חוזרת לשמירה על הטריות. הוא מבוסס על בשר אמיתי כרכיב מרכזי ומתאים כצ'ופר להתעסקות, לעיסה או כפרס באימונים.
-- Image: https://example.com/assets/product-ai-fit-1783465619118-rzgrb.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783465619118-rzgrb.webp
 
 ### חטיף נובלוס ברווז ודג קוד 80 גר'
-https://example.com/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-08rwxp
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-08rwxp
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף נובילוס (Nobilus) בטעם ברווז ודג קוד באריזת 80 גרם הוא חטיף אולטרה-פרימיום איכותי לכלבים, המשלב חלבון מן החי (חזה ברווז) יחד עם דג בקלה (קוד) העשיר באומגה 3. החטיף מתאפיין ברמת טעימות גבוהה, הוא דל שומן, קל לעיכול ומתאים במיוחד גם לכלבים בעלי רגישויות או אלרגיות.
-- Image: https://example.com/assets/product-ai-fit-1783460063333-0rpkvy.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783460063333-0rpkvy.webp
 
 ### חטיף נובלוס ברווז סושי 80 גר'
-https://example.com/product/chtyp-nvblvs-brvvz-svshy-80-gr-7llw8h
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-brvvz-svshy-80-gr-7llw8h
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף נובילוס סושי ברווז (80 גרם) הוא חטיף פרימיום היפואלרגני ודל שומן לכלבים. הוא מעוצב בצורת סושי ספירלי ייחודי ומשלב בשר חזה ברווז איכותי יחד עם דג בקלה.
-- Image: https://example.com/assets/product-ai-fit-1783460147763-4xcra.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783460147763-4xcra.webp
 
 ### חטיף נובלוס רצועות ברווז רך 80 גר'
-https://example.com/product/chtyp-nvblvs-rtsvavt-brvvz-rk-80-gr-pqjma1
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-rtsvavt-brvvz-rk-80-gr-pqjma1
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיפי נובילוס (Nobilus) רצועות או פרוסות ברווז רכות במשקל 80 גרם הם חטיפי אולטרה-פרימיום פופולריים לכלבים, המבוססים על בשר אמיתי כמרכיב עיקרי. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
-- Image: https://example.com/assets/product-ai-fit-1783460215121-dlklu.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783460215121-dlklu.webp
 
 ### חטיף נובלוס נגיסי ברווז 80 גר'
-https://example.com/product/chtyp-nvblvs-ngysy-brvvz-80-gr-nt62md
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-ngysy-brvvz-80-gr-nt62md
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: נובילוס חטיף היפואלרגני לכלב - נגיסי ברווז 80 גרם NOBILUS הוא חטיף אולטרה-פרימיום פופולרי ומבוקש מאוד לכלבים, המיוצר מבשר חזה ברווז אמיתי כמרכיב עיקרי. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
-- Image: https://example.com/assets/product-ai-fit-1783460370000-3574pk.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783460370000-3574pk.webp
 
 ### חטיף נובלוס ברווז פילה רך 80 גר'
-https://example.com/product/chtyp-nvblvs-brvvz-pylh-rk-80-gr-2roy2p
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-brvvz-pylh-rk-80-gr-2roy2p
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף הכלבים נובילוס (Nobilus) פילה ברווז רך במארז 80 גרם הוא חטיף איכותי מסדרת אולטרה-פרימיום, המבוסס על בשר חזה ברווז אמיתי כמרכיב עיקרי (מעל 30%). החטיף מתאפיין במרקם רך ונימוח, עשיר בחלבון ודל מאוד בשומן, מה שהופך אותו למושלם כצ'ופר יומיומי, חטיף אילוף או פינוק לכלבים בעלי מערכת עיכול רגישה. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
-- Image: https://example.com/assets/product-1783460419131-qr2no8c.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783460419131-qr2no8c.webp
 
 ### חטיף נובלוס עוף קלציום 80 גר'
-https://example.com/product/chtyp-nvblvs-avp-kltsyvm-80-gr-554f5u
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-avp-kltsyvm-80-gr-554f5u
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף נובלוס עצם קלציום (סידן) במעטפת עוף (80 גרם) הוא חטיף בריא. הוא מורכב מעצם סידן טבעית שעטופה בבשר חזה עוף אמיתי. החטיף מעסיק את הכלב, מנקה את השיניים, ומחזק את הלסת. יתרון נוסף - אריזה שומרת טריות: שקית של 80 גרם הכוללת סגירה חוזרת (זיפר) לשמירה על איכות החטיף לאורך זמן.
-- Image: https://example.com/assets/product-ai-fit-1783460545902-m0cqapq.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783460545902-m0cqapq.webp
 
 ### חטיף נובלוס רצועות עוף רכות 80 גר'
-https://example.com/product/chtyp-nvblvs-rtsvavt-avp-rkvt-80-gr-j5zegw
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-rtsvavt-avp-rkvt-80-gr-j5zegw
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף נובילוס רצועות עוף רכות הוא פינוק פרימיום לכלבים. הוא מכיל בשר עוף אמיתי, עשיר בחלבון ודל שומן. המרקם הרך מקל על הלעיסה. זה הופך אותו למושלם עבור כלבים מכל הגילאים, כולל גורים וכלבים מבוגרים. החטיף מגיע באריזת 80 גרם עם סגירה חוזרת לשמירת הטריות. הרכיבים מבוססים על חזה עוף בשילוב עם חלבון אפונה ועמילן. הוא משמש מצוין כפינוק יומי או כפרס בזמן אילוף.
-- Image: https://example.com/assets/product-ai-fit-1783460700766-4fq2z.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783460700766-4fq2z.webp
 
 ### חטיף נובלוס סושי עוף 80 גר'
-https://example.com/product/chtyp-nvblvs-svshy-avp-80-gr-sx1myq
+https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-svshy-avp-80-gr-sx1myq
 - Price: 12.50 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיפי נובילוס, חטיפים טעימים במיוחד המתאימים למתן כפינוק, לעיסה, ומושלמים כתוספת משלימה לאוכל. 80 גרם * מארז עם סגירה חוזרת, לשמירה על טריות * מושלם כחטיף התעסקות * מקור חלבון איכותי * חטיף דל שומן * בשר אמיתי כמרכיב עיקרי
-- Image: https://example.com/assets/product-ai-fit-1783460765247-fw760j.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1783460765247-fw760j.webp
 
 ### מתקן מים/אוכל אוטומטי עם קערת נירוסטה
-https://example.com/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-p6x15w
+https://gurimbakfar.zappy5.app/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-p6x15w
 - Price: 110.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
 - Description: מתקן מים/אוכל אוטומטי לכלב / לחתול הפועל על בסיס כוח הכבידה
-- Image: https://example.com/assets/product-1783430743970-oxub4.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783430743970-oxub4.webp
 
 ### מתקן מים אוטומטי
-https://example.com/product/mtkn-mym-avtvmty-1iaijw
+https://gurimbakfar.zappy5.app/product/mtkn-mym-avtvmty-1iaijw
 - Price: 65.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
 - Description: מתקן מים אוטומטי לחיות מחמד הפועל על בסיס כוח הכבידה
-- Image: https://example.com/assets/product-enhanced-1783429874449-e9o50b.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783429874449-e9o50b.webp
 
 ### טריפל קראון לכלב בוגר גורמה כבש
-https://example.com/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-0shq34
+https://gurimbakfar.zappy5.app/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-0shq34
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מזון יבש
-- Image: https://example.com/assets/product-1783413282939-drcrxq.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783413282939-drcrxq.webp
 
 ### טריפל קראון לכלב בוגר גזע גדול עוף 14 ק"ג
-https://example.com/product/trypl-kravn-lklb-bvgr-gza-gdvl-avp-14-kg-gmdwfg
+https://gurimbakfar.zappy5.app/product/trypl-kravn-lklb-bvgr-gza-gdvl-avp-14-kg-gmdwfg
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מזון יבש
-- Image: https://example.com/assets/product-enhanced-1783492403453-bsvdg8.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783492403453-bsvdg8.webp
 
 ### טריפל קראון לכלב פעיל 14 ק"ג
-https://example.com/product/trypl-kravn-lklb-payl-14-kg-ddcs8w
+https://gurimbakfar.zappy5.app/product/trypl-kravn-lklb-payl-14-kg-ddcs8w
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Brand: טריפל קראון
-- Image: https://example.com/assets/product-enhanced-1783492499432-3yx6mn.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783492499432-3yx6mn.webp
 
 ### סטיספקשן כבש
-https://example.com/product/styspkshn-kbsh-c5kliz
+https://gurimbakfar.zappy5.app/product/styspkshn-kbsh-c5kliz
 - Price: 0.00 ILS
 - Availability: In stock
 - Description: פורמולת Satisfaction Pro Kennel התזונה המושלמת לכלבים בוגרים עם פעילות רגילה עד ממוצעת, פורמולה זו נבחרה בקפידה כדי לספק תזונה בריאה ותזונה מאוזנת לאורך חיי כלבי הבית, כלבי התצוגה וכלבי העבודה.
-- Image: https://example.com/assets/product-1783492933423-ev14n6.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783492933423-ev14n6.webp
 
 ### Brande מזון מלא לכלבים בוגרים
-https://example.com/product/brande-mzvn-mla-lklbym-bvgrym-e95uog
+https://gurimbakfar.zappy5.app/product/brande-mzvn-mla-lklbym-bvgrym-e95uog
 - Price: 0.00 ILS
 - Availability: In stock
 
 ### בוש לגורים מגזע גדול עוף
-https://example.com/product/bvsh-lgvrym-mgza-gdvl-avp-m46wke
+https://gurimbakfar.zappy5.app/product/bvsh-lgvrym-mgza-gdvl-avp-m46wke
 - Price: 0.00 ILS
 - Availability: In stock
 - Description: מזון לגורי כלבים מגזעים גדולים מקסי ג'וניור מומלץ לגורים של כלבים מגיל גמילה עד גיל שנה שבבגרותם ישקלו מעל 25 ק"ג. בוש ג'וניור מכיל רכיבים אשר מחזקים את המערכת החיסונית ותורמים לחיזוק הפלורה הטובה במעי. מכיל גלוקוזאמין מקונכיות שבלול לשמירה על אגן וסחוסים חזקים וגמישים. המזון מכיל עוף טרי כרכיב עיקרי על מנת להבטיח את רמת טעימות המזון. מזון לכלב תוצרת בוש גרמניה ברמת סופר פרימיום. BOSCH MAXI JUNIOR
-- Image: https://example.com/assets/product-enhanced-1783492588452-kftgf.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783492588452-kftgf.webp
 
 ### טריפל קראון סלמון היפואלרגני
-https://example.com/product/trypl-kravn-slmvn-hypvalrgny-micau9
+https://gurimbakfar.zappy5.app/product/trypl-kravn-slmvn-hypvalrgny-micau9
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: מזון לכלבים עם עיכול רגיש או עדין‏ ‏מצוין עבור: כלבים בוגרים מכל הגזעים, רגישים או עם עיכול עדין.‏ ‏מזון מלא ומאוזן שפותח במיוחד עבור כלבים רגישים או כלבים עם עיכול עדין. טריפל קראון היפואלרגני סלמון משתמש בסלמון כמקור היחיד לחלבון ואורז מן החי, מה שעוזר לווסת את המעבר במעיים ובעל יכולת עיכול גבוהה המקלה על העיכול של חיית המחמד שלכם. בנוסף, סלמון עשיר בחומצות שומן חיוניות המסייעות בשמירה על עור ושיער בריאים ומבריקים.‏ עיכול קל. ‏עם ויטמינים ומינרלים.
-- Image: https://example.com/assets/product-1783492147669-ht1t6c.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783492147669-ht1t6c.webp
 
 ### טריפל קראון לכלב בוגר עוף
-https://example.com/product/trypl-kravn-lklb-bvgr-avp-w6qiuk
+https://gurimbakfar.zappy5.app/product/trypl-kravn-lklb-bvgr-avp-w6qiuk
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 
 ### רתמת Quick fit xxs
-https://example.com/product/rtmt-quick-fit-xxs-nxv9xl
+https://gurimbakfar.zappy5.app/product/rtmt-quick-fit-xxs-nxv9xl
 - Price: 53.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-1783490871865-xfrkvj.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783490871865-xfrkvj.webp
 
 ### רצועה בייסיק 15 ממ - מידה S
-https://example.com/product/rtsvah-byysyk-15-mm-mydh-s-hkzokq
+https://gurimbakfar.zappy5.app/product/rtsvah-byysyk-15-mm-mydh-s-hkzokq
 - Price: 32.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### רצועה בייסיק 10 ממ - מידה XS
-https://example.com/product/rtsvah-byysyk-10-mm-mydh-xs-0ia52r
+https://gurimbakfar.zappy5.app/product/rtsvah-byysyk-10-mm-mydh-xs-0ia52r
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### רצועה בד צבעוני 20 ממ - מידה M
-https://example.com/product/rtsvah-bd-tsbavny-20-mm-mydh-m-xekwkf
+https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-20-mm-mydh-m-xekwkf
 - Price: 32.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### רצועה בד צבעוני 10 ממ - מידה XS
-https://example.com/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0
+https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### רצועה בד צבעוני 15 ממ - מידה S
-https://example.com/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e
+https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e
 - Price: 32.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### Pets Project קולר בייסיק לכלב במגוון מידות
-https://example.com/product/pets-project-kvlr-byysyk-lklb-bmgvvn-mydvt-k0kpfl
+https://gurimbakfar.zappy5.app/product/pets-project-kvlr-byysyk-lklb-bmgvvn-mydvt-k0kpfl
 - Price: 18.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-1783426395882-scen7.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783426395882-scen7.webp
 
 ### סט רתמה ורצועה לכלב גדול צבעוני מעויינים
-https://example.com/product/st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-2nry5q
+https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-2nry5q
 - Price: 70.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### סט רתמה ורצועה לכלב גדול GD
-https://example.com/product/st-rtmh-vrtsvah-lklb-gdvl-gd-wfny7b
+https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-gdvl-gd-wfny7b
 - Price: 85.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1783495647607-6h1pbc.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783495647607-6h1pbc.webp
 
 ### סט רתמה ורצועה לכלב קטן/ בינוני צבע סגול
-https://example.com/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-sgvl-qm267w
+https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-sgvl-qm267w
 - Price: 59.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1783423936175-n4gsh.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783423936175-n4gsh.webp
 
 ### סט רתמה ורצועה לכלב קטן/ בינוני צבע טורקיז
-https://example.com/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-tvrkyz-f65g44
+https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-tvrkyz-f65g44
 - Price: 59.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### סט רתמה ורצועה לכלב קטן/ בינוני צבע כתום
-https://example.com/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-ktvm-wi4662
+https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-ktvm-wi4662
 - Price: 59.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### סט רתמה ורצועה לכלב קטן/ בינוני צבע אדום
-https://example.com/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-advm-rxnoau
+https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-advm-rxnoau
 - Price: 59.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### סט רתמה ורצועה לכלב קטן / בינוני צבע חום
-https://example.com/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-chvm-rinog6
+https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-chvm-rinog6
 - Price: 59.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### מזון כלבים Bitesy בוגר ברווז אורז ובטטה 12 ק"ג
-https://example.com/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-zatepw
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-zatepw
 - Price: 309.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Brand: bitesy
 - Description: מזון כלבים Bitesy Platinum היפואלרגני על בסיס ברווז, אורז, בטטה וחמוציות לכלבים בוגרים מכיל בשר ברווז כחלבון יחיד (32%) אורז ובטטה – פחמימות איכותיות קלות לעיכול חמוציות ופטרוזליה לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה כולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים תוצרת איטליה.
-- Image: https://example.com/assets/product-enhanced-1783425975134-1pgsw9.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783425975134-1pgsw9.webp
 
 ### מזון כלבים Bitesy גורים סלמון 12 ק"ג
-https://example.com/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf
 - Price: 309.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: מזון לגורי כלבים בייטסי bitesy חלבון יחיד סלמון, תומך בהתפתחות אופטימלית של הגור מכיל בשר סלמון (34% ) עם אורז לתזונה מאוזנת. אורז ובטטה – פחמימות איכותיות קלות לעיכול, פטרוזיליה ואצות לתזונה עשירה בחומרים מזינים. עם שמן סלמון – מסייע לעור בריא ופרווה מבריקה, טאורין – מסייע לבריאות הלב כולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים תוצרת איטליה.
-- Image: https://example.com/assets/product-enhanced-1783426203173-esm6je.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783426203173-esm6je.webp
 
 ### סמס פילד/Sam's Field בוגרים גזע קטן עוף 8 ק"ג
-https://example.com/product/sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-wuntm2
+https://gurimbakfar.zappy5.app/product/sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-wuntm2
 - Price: 200.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Brand: סם פילד
 - Description: מזון לכלבים בוגרים על בסיס עוף טרי ותפוח אדמה. סמס פילד/Sam's Field מזון מופחת דגנים עם 65% בשר טרי פירות וירקות. מזון לכלבים בוגרים גזע קטן במשקל עד 10 ק"ג על בסיס עוף טרי ותפוח אדמה.
-- Image: https://example.com/assets/product-1783425432385-qijy3.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783425432385-qijy3.webp
 
 ### סמס פילד/Sam's Field בוגר כבש 13 ק"ג
-https://example.com/product/sms-pyldsams-field-bvgr-kbsh-13-kg-xzepqv
+https://gurimbakfar.zappy5.app/product/sms-pyldsams-field-bvgr-kbsh-13-kg-xzepqv
 - Price: 299.00 ILS
 - Availability: In stock
 - Category: מזון יבש
-- Image: https://example.com/assets/product-enhanced-1783425770925-wqg9qlp.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783425770925-wqg9qlp.webp
 
 ### סמס פילד/Sam's Field סניור לייט 13 ק"ג
-https://example.com/product/sms-pyldsams-field-snyvr-lyyt-13-kg-19wjj8
+https://gurimbakfar.zappy5.app/product/sms-pyldsams-field-snyvr-lyyt-13-kg-19wjj8
 - Price: 299.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Brand: סמס פילד
 - Description: מזון סופר פרמיום לכלבים בוגרים ומבוגרים מבית Sam’s Field, היפו אלרגני מופחת דגנים. מתאים לכלבים מבוגרים (סניור) או לכלבים שצריכים לרדת במשקל – מופחת קלוריות ומכיל סיבים העוזרים לתחושת שובע. על בסיס בשר כבש כמקור חלבון איכותי.
-- Image: https://example.com/assets/product-1783425541892-e6t9z5.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783425541892-e6t9z5.webp
 
 ### אדיקשן כבש כלב בוגר 15 ק"ג
-https://example.com/product/adykshn-kbsh-klb-bvgr-15-kg-j2gjwb
+https://gurimbakfar.zappy5.app/product/adykshn-kbsh-klb-bvgr-15-kg-j2gjwb
 - Price: 299.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Brand: אדיקשן
 - Description: המתכון המדהים והמעורר ביותר של המזון הופך אותו לתזונה מושלמת לכלבים בוגרים עם פעילות נורמלית או ממוצעת. מזון זה מספק תזונה אופטימלית דרך כל חייהם של כלבי הבית, כלבי התערוכה וכלבים עובדים. מוצר זה מיוצר תוך שימוש בחומרי גלם שנבחרו בקפידה תוך הקפדה רבה על הכנתו ואריזתו.
-- Image: https://example.com/assets/product-1783425301719-uittne.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783425301719-uittne.webp
 
 ### מיטה LAXURY לכלב ולחתול
-https://example.com/product/myth-laxury-lklb-vlchtvl-eqse1f
+https://gurimbakfar.zappy5.app/product/myth-laxury-lklb-vlchtvl-eqse1f
 - Price: 379.00 ILS
 - Availability: In stock
 - Description: מראה אלגנטי ויוקרתי
-- Image: https://example.com/assets/product-enhanced-1783424730256-5m6khm.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783424730256-5m6khm.webp
 
 ### אדיקשן גור 15 ק"ג
-https://example.com/product/adykshn-gvr-15-kg-l3ysjz
+https://gurimbakfar.zappy5.app/product/adykshn-gvr-15-kg-l3ysjz
 - Price: 299.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Brand: אדיקשן
 - Description: טעמו הטוב ועיכולו הקל של מזון זה הופכים אותו לתזונה המושלמת עבור גורים במהלך השלב הראשון של הצמיחה והתפתחות, כמו גם לנקבות בהריון או מניקות. נוסחת המזון פותחה במיוחד עבור גורי כלבים מהחודש הראשון עד לגיל שנה. מבטיח התפתחות אופטימלית של העצמות, השיניים והשרירים. הגודל והצורה של הקציצות, תוכננו במיוחד עבור הגורים. מוצר זה מיוצר עם חומרי גלם שנבחרו בקפדנות, באיכות הטובה ביותר, תוך השקעת הטיפולים הטובים ביותר בהכנתו ובאריזתו.
-- Image: https://example.com/assets/product-1783425221918-4nsbbj.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783425221918-4nsbbj.webp
 
 ### אדיקשן סלמון כלב בוגר 15 ק"ג
-https://example.com/product/adykshn-slmvn-klb-bvgr-15-kg-8r43ic
+https://gurimbakfar.zappy5.app/product/adykshn-slmvn-klb-bvgr-15-kg-8r43ic
 - Price: 309.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: המתכון המדהים והמעורר ביותר של המזון הופך אותו לתזונה מושלמת לכלבים בוגרים עם פעילות נורמלית או ממוצעת. מזון זה מספק תזונה אופטימלית דרך כל חייהם של כלבי הבית, כלבי התערוכה וכלבים עובדים. מוצר זה מיוצר תוך שימוש בחומרי גלם שנבחרו בקפידה תוך הקפדה רבה על הכנתו ואריזתו.
-- Image: https://example.com/assets/product-1783425119425-fe1dg9.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783425119425-fe1dg9.webp
 
 ### חטיף רצועות אצות ים M/L
-https://example.com/product/chtyp-rtsvavt-atsvt-ym-ml-pxnl9q
+https://gurimbakfar.zappy5.app/product/chtyp-rtsvavt-atsvt-ym-ml-pxnl9q
 - Price: 16.90 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף רצועות אצות ים לכלבים קטנים ובינוניים 80 גרם
 
 ### חטיף רצועות אצות ים S/M
-https://example.com/product/chtyp-rtsvavt-atsvt-ym-sm-78epuv
+https://gurimbakfar.zappy5.app/product/chtyp-rtsvavt-atsvt-ym-sm-78epuv
 - Price: 16.90 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף רצועות אצות ים לכלבים בינוניים וגדולים 80 גרם
 
 ### חטיף מקל אצות ים M/L
-https://example.com/product/chtyp-mkl-atsvt-ym-ml-jf7s2s
+https://gurimbakfar.zappy5.app/product/chtyp-mkl-atsvt-ym-ml-jf7s2s
 - Price: 16.90 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף מקלות אצות ים לכלבים בינוניים וגדולים 80 גרם
-- Image: https://example.com/assets/product-1783425048603-1g0qve.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783425048603-1g0qve.webp
 
 ### צעצוע פעילות אינטראקטיבי TIROTTO לכלבים
-https://example.com/product/tsatsva-paylvt-ayntraktyby-tirotto-lklbym-rvdprt
+https://gurimbakfar.zappy5.app/product/tsatsva-paylvt-ayntraktyby-tirotto-lklbym-rvdprt
 - Price: 59.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-1783424156679-wfxmh9.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783424156679-wfxmh9.webp
 
 ### חטיף מקל אצות ים S/M
-https://example.com/product/chtyp-mkl-atsvt-ym-sm-je15dh
+https://gurimbakfar.zappy5.app/product/chtyp-mkl-atsvt-ym-sm-je15dh
 - Price: 16.90 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: חטיף מקלות אצות ים לכלבים קטנים ובינוניים 80 גרם
-- Image: https://example.com/assets/product-1783424979881-twykal.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783424979881-twykal.webp
 
 ### צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים
-https://example.com/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-agdj25
+https://gurimbakfar.zappy5.app/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-agdj25
 - Price: 29.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-1783493916641-r94xg.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783493916641-r94xg.webp
 
 ### מעמד מוגבה לקערות אוכל ושתייה לכלבים
-https://example.com/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-5dem3v
+https://gurimbakfar.zappy5.app/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-5dem3v
 - Price: 115.00 ILS
 - Availability: In stock
-- Image: https://example.com/assets/product-1783423310438-ta016.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783423310438-ta016.webp
 
 ### מזון כלבים רטוב איסגרים ארוחת ברווז ולבבות עוף לכלב 410 גרם
-https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-6mu7fy
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-6mu7fy
 - Price: 19.90 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס ברווז ולבבות עוף.
-- Image: https://example.com/assets/product-enhanced-1783413960203-5l850g.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783413960203-5l850g.webp
 
 ### מזון כלבים רטוב איסגרים ארוחת אייל וציד לכלב 410 גרם
-https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-c933sf
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-c933sf
 - Price: 19.90 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בשר אייל וצייד.
-- Image: https://example.com/assets/product-enhanced-1783414060910-hewwx.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783414060910-hewwx.webp
 
 ### מזון כלבים רטוב איסגרים ארוחת הודו לכלב 410 גרם
-https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-gkm428
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-gkm428
 - Price: 19.90 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס הודו.
-- Image: https://example.com/assets/product-enhanced-1783413446882-ivvbxq.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783413446882-ivvbxq.webp
 
 ### מזון כלבים רטוב איסגרים ארוחת סלמון ופורל לכלב 410 גרם
-https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-pdkox0
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-pdkox0
 - Price: 19.90 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס עוף, דגי סלמון ופורל.
-- Image: https://example.com/assets/product-enhanced-1783413605251-8qatrk.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783413605251-8qatrk.webp
 
 ### מזון כלבים רטוב איסגרים ארוחת חזיר בר לכלב 410 גרם
-https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-chzyr-br-lklb-410-grm-s493zh
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-chzyr-br-lklb-410-grm-s493zh
 - Price: 19.90 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: 410 גרם שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על חזיר בר.
-- Image: https://example.com/assets/product-enhanced-1783413809325-9up29.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783413809325-9up29.webp
 
 ### סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק"ג
-https://example.com/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-sakpwn
+https://gurimbakfar.zappy5.app/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-sakpwn
 - Price: 299.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: Sem’s Field Adult Salmon And Potato, סמס פילד מופחת דגנים סלמון ותפוחי אדמה מתאים לכלבים בוגרים מכל הגזעים ובכל הגדלים, מזון יבש סמס פילד מופחת דגנים מכיל 65% סלמון, פירות וירקות, בעל רמת נעכלות גבוהה, עשיר בפירות וירקות המשפרים את המערכת החיסונית, עשיר בחלבונים כמו סלמון המונעים אלרגיות , עשיר באומגה 3 ואומגה 6 המעניקים ברק לפרווה ושומרים על העור.
-- Image: https://example.com/assets/product-1783339959602-debelp.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783339959602-debelp.webp
 
 ### חבל דנטלי 4 קשרים
-https://example.com/product/chbl-dntly-4-kshrym-a173qr
+https://gurimbakfar.zappy5.app/product/chbl-dntly-4-kshrym-a173qr
 - Price: 37.00 ILS
 - Availability: In stock
 - Category: צעצועים
 - Description: חבל משיכה 4 קשרים הוא צעצוע מעולה לכלבים גדולים. הוא מעולה למשחקי משיכת חבל, זריקה ולעיסה. הקשרים עוזרים לנקות את שיני הכלב בזמן שהוא לועס. אורך החבל 76 ס"מ.
-- Image: https://example.com/assets/product-enhanced-1783337074930-mk6ye7.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783337074930-mk6ye7.webp
 
 ### קערת האכלה איטית 
-https://example.com/product/kart-haklh-aytyt-b7084j
+https://gurimbakfar.zappy5.app/product/kart-haklh-aytyt-b7084j
 - Price: 40.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
 - Description: קערה מפלסטיק צבעוני בעלת מבנה ייחודי המאפשר האטת צריכת מזון הכלבים
-- Image: https://example.com/assets/product-1783336133111-bma025.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783336133111-bma025.webp
 
 ### קופסה לאחסון למזון
-https://example.com/product/kvpsh-lachsvn-lmzvn-oghxsu
+https://gurimbakfar.zappy5.app/product/kvpsh-lachsvn-lmzvn-oghxsu
 - Price: 130.00 ILS
 - Availability: In stock
 - Category: אביזרים
-- Image: https://example.com/assets/product-1783287829521-pec58.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1783287829521-pec58.webp
 
 ### קערות מים/אוכל נירוסטה 
-https://example.com/product/karvt-mymavkl-nyrvsth-lwwkou
+https://gurimbakfar.zappy5.app/product/karvt-mymavkl-nyrvsth-lwwkou
 - Price: 59.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
 - Description: מידות : קוטר 28 ס"מ , גובה 10 ס"מ 4 ליטר
-- Image: https://example.com/assets/product-enhanced-1783284343624-pfiam6.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783284343624-pfiam6.webp
 
 ### דלי מים נירוסטה 7 ליטר
-https://example.com/product/dly-mym-nyrvsth-7-lytr-m51gqr
+https://gurimbakfar.zappy5.app/product/dly-mym-nyrvsth-7-lytr-m51gqr
 - Price: 79.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Image: https://example.com/assets/product-enhanced-1783282965829-9bdvpc.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783282965829-9bdvpc.webp
 
 ### סט רתמה ורצועה לכלב קטן בינוני אדום
-https://example.com/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-advm-s1yspk
+https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-advm-s1yspk
 - Price: 59.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1783260276767-bi4w8s.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783260276767-bi4w8s.webp
 
 ### מזון כלבים רטוב איסגרים ארוחת הודו ובקר לגור כלב 410 גרם
-https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-uof84d
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-uof84d
 - Price: 19.90 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: איסגרים (Isegrim) הוא מותג פרימיום של מזון טבעי לכלבים. עבור גורים עד גיל שנה, המותג מציע מזון רטוב איכותי המכיל כ-97% בשר טרי, מרק, ירקות ועשבי תיבול, ומותאם במיוחד להתפתחות תקינה של שרירים ומערכת העיכול.
-- Image: https://example.com/assets/product-enhanced-1783403144901-wdgg9h.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783403144901-wdgg9h.webp
 
 ### מזון כלבים רטוב אלפא דוג פטה עוף - 375 גרם
-https://example.com/product/mzvn-klbym-rtvb-alpa-dvg-pth-avp-375-grm-o60qjb
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-alpa-dvg-pth-avp-375-grm-o60qjb
 - Price: 6.50 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: מרכיבים עוף, מים, כבד עוף, קמח קסאווה, ויטמינים
-- Image: https://example.com/assets/product-enhanced-1782676037474-5243j3.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782676037474-5243j3.webp
 
 ### מזון כלבים רטוב אלפא דוג פטה בקר - 375 גרם
-https://example.com/product/mzvn-klbym-rtvb-alpa-dvg-pth-bkr-375-grm-ujal9u
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-alpa-dvg-pth-bkr-375-grm-ujal9u
 - Price: 6.50 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: מרכיבים בקר, מים, עוף, כבד עוף, קמח קסאווה, ויטמינים
-- Image: https://example.com/assets/product-enhanced-1782675779777-mgxhko.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782675779777-mgxhko.webp
 
 ### מזון כלבים רטוב אלפא דוג פטה טלה - 375 גרם
-https://example.com/product/mzvn-klbym-rtvb-alpa-dvg-pth-tlh-375-grm-gzzl5q
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-alpa-dvg-pth-tlh-375-grm-gzzl5q
 - Price: 6.50 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: מרכיבים טלה, מים, עוף, כבד עוף, קמח קסאווה, ויטמינים
-- Image: https://example.com/assets/product-enhanced-1782675258061-wch9gm.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782675258061-wch9gm.webp
 
 ### שימורי פרנדי 70% בשר בקר 400 ג"ר
-https://example.com/product/shymvry-prndy-70-bshr-bkr-400-gr-96f100
+https://gurimbakfar.zappy5.app/product/shymvry-prndy-70-bshr-bkr-400-gr-96f100
 - Price: 6.50 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: מזון רטוב לכלבים מכיל 70% בשר איכותי עם בקר, ברוטב עשיר ומזין, כולל ויטמינים ומינרלים התומכים בבריאות הכלב, עם דגש על חיזוק העצמות והמפרקים, שמירה על תפקוד תקין של הכליות, הלב והמערכת העצבית. ללא חומרים משמרים או צבעי מאכל.
-- Image: https://example.com/assets/product-enhanced-1782673224775-4we978.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782673224775-4we978.webp
 
 ### מזון כלבים רטוב נואבו סניור כבש ובקר עם פתיתי שיבולת שועל 400 ג"ר
-https://example.com/product/mzvn-klbym-rtvb-nvabv-snyvr-kbsh-vbkr-am-ptyty-shybvlt-shval-400-gr-nigq9d
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-nvabv-snyvr-kbsh-vbkr-am-ptyty-shybvlt-shval-400-gr-nigq9d
 - Price: 15.00 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: Nuevo Senior – כבש ובקר עם פתיתי שיבולת שועל תזונה מלאה ומאוזנת – Nuevo SENIOR מספק את היחס הנכון של חלבון, שומן, פחמימות, מינרלים וויטמינים כדי לתמוך בצרכים התזונתיים של כלבים מבוגרים. בשר כבש ובקר איכותיים בשילוב פתיתי שיבולת שועל עדינים לקיבה של הכלב שלכם ותומכים בחיים ארוכים ובריאים.
-- Image: https://example.com/assets/product-enhanced-1782670030874-6s0so.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782670030874-6s0so.webp
 
 ### מזון כלבים רטוב נואבו בשר צבי עם אטריות ופירות יער 400 ג"ר
-https://example.com/product/mzvn-klbym-rtvb-nvabv-bshr-tsby-am-atryvt-vpyrvt-yar-400-gr-jhpo4v
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-nvabv-bshr-tsby-am-atryvt-vpyrvt-yar-400-gr-jhpo4v
 - Price: 15.00 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: Nuevo Adult – צבי עם אטריות ופירות יער Nuevo Venison מספק לכלב שלכם את כל רכיבי התזונה הנדרשים. שיעור גבוה של בשר בשילוב אטריות ושמן חריע איכותי הופכים את המתכון הזה למיוחד. שמן חריע תומך בפרווה בריאה בזכות שילוב מאוזן של חומצות שומן חיוניות, ומסייע גם לעיכול תקין.
-- Image: https://example.com/assets/product-ai-fit-1782668694078-ncjqyi.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-ai-fit-1782668694078-ncjqyi.webp
 
 ### מזון כלבים רטוב נואבו כבש ותפוח אדמה 400 ג"ר
-https://example.com/product/mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-odtehg
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-odtehg
 - Price: 15.00 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: Nuevo Adult – כבש ותפוח אדמה מעניק לכלב שלכם את כל רכיבי התזונה הנדרשים, ומבוסס על מקור חלבון נבחר – כבש – ועל פחמימה קלה לעיכול מתפוח אדמה. Nuevo Lamb הוא מזון מלא ומאוזן לחלוטין עבור הכלב שלכם.
-- Image: https://example.com/assets/product-enhanced-1782669374510-kqvdob.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782669374510-kqvdob.webp
 
 ### מזון כלבים רטוב נואבו בקר 400 ג"ר
-https://example.com/product/mzvn-klbym-rtvb-nvabv-bkr-400-gr-e0rw2t
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-nvabv-bkr-400-gr-e0rw2t
 - Price: 15.00 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: Nuevo Adult – בקר המאפיין הבולט של Nuevo Beef הוא תכולת בשר גבוהה של 72%, המכילה כמות גדולה של חלבונים איכותיים. מזון מאוזן ומלא עם רמות אופטימליות של כלל רכיבי התזונה, כולל ויטמינים ומינרלים חיוניים. Nuevo Beef הוא מקור אנרגיה מצוין, קל לעיכול ובעל טעימות גבוהה במיוחד.
-- Image: https://example.com/assets/product-enhanced-1782663421685-v5511.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782663421685-v5511.webp
 
 ### מזון כלבים רטוב נואבו גורים עוף ובקר עם אורז + סידן 400 ג"ר
-https://example.com/product/mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-400-gr-svlgci
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-400-gr-svlgci
 - Price: 15.00 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: Nuevo Junior – עוף ובקר עם אורז + סידן Nuevo JUNIOR מתמקד במתן רכיבי התזונה הנכונים לתמיכה בגדילה בריאה. שיעור גבוה של עוף ובקר טריים מספק חלבונים בעלי ערך ביולוגי גבוה. Nuevo Chicken & Beef JUNIOR הוא מזון מלא ומאוזן עם רמות מדויקות של חלבון, שומן, מינרלים וויטמינים. הפורמולה תומכת במערכת החיסון ובניידות ובתנועה של הכלב שלכם. ללא צבעי מאכל, ללא חומרי טעם וללא חומרים משמרים – כבר מההתחלה.
-- Image: https://example.com/assets/product-enhanced-1782669047893-0bv6z.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782669047893-0bv6z.webp
 
 ### מזון כלבים רטוב נואבו עוף 400 ג"ר
-https://example.com/product/mzvn-klbym-rtvb-nvabv-avp-400-gr-kvkf9f
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-nvabv-avp-400-gr-kvkf9f
 - Price: 15.00 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: Nuevo Adult – עוף בשר עוף עתיר חלבון, יחד עם כל המינרלים החשובים, מספק בסיס תזונתי אידיאלי לכלב שלכם. Nuevo Chicken קל לעיכול, בעל טעימות גבוהה, ויכול לסייע בשיפור מצב הפרווה. מקור החלבון מן החי מתאים לאופי התזונתי הטבעי של כלבים.
-- Image: https://example.com/assets/product-enhanced-1782662147123-g38sdq.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782662147123-g38sdq.webp
 
 ### אדיקשן בוגר כבש (קיבה רגישה) 15 ק”ג
-https://example.com/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-sellpm
+https://gurimbakfar.zappy5.app/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-sellpm
 - Price: 290.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: המתכון המדהים והמעורר ביותר של המזון הופך אותו לתזונה מושלמת לכלבים בוגרים עם פעילות נורמלית או ממוצעת. מזון זה מספק תזונה אופטימלית דרך כל חייהם של כלבי הבית, כלבי התערוכה וכלבים עובדים. מוצר זה מיוצר תוך שימוש בחומרי גלם שנבחרו בקפידה תוך הקפדה רבה על הכנתו ואריזתו.
-- Image: https://example.com/assets/product-enhanced-1782328663555-bn7dy.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782328663555-bn7dy.webp
 
 ### תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO
-https://example.com/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-b2adp3
+https://gurimbakfar.zappy5.app/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-b2adp3
 - Price: 95.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1782152153993-d8eg0b.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782152153993-d8eg0b.webp
 
 ### תרסיס מרכך ללא שטיפה לשיקום וצמיחה של הפרווה TAURO
-https://example.com/product/trsys-mrkk-lla-shtyph-lshykvm-vtsmychh-shl-hprvvh-tauro-6rfitj
+https://gurimbakfar.zappy5.app/product/trsys-mrkk-lla-shtyph-lshykvm-vtsmychh-shl-hprvvh-tauro-6rfitj
 - Price: 125.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1782152315032-xecrf.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782152315032-xecrf.webp
 
 ### שרשרת מפצלת ל2 כלבים 50 ס"מ
-https://example.com/product/shrshrt-mptslt-l2-klbym-50-sm-jqqo58
+https://gurimbakfar.zappy5.app/product/shrshrt-mptslt-l2-klbym-50-sm-jqqo58
 - Price: 60.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1782152571075-42hzxh.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782152571075-42hzxh.webp
 
 ### קולר קוצים לאילוף - 50 ס"מ עובי 3 מ"מ
-https://example.com/product/kvlr-kvtsym-laylvp-50-sm-avby-3-mm-451t09
+https://gurimbakfar.zappy5.app/product/kvlr-kvtsym-laylvp-50-sm-avby-3-mm-451t09
 - Price: 50.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1782153446876-h993w.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782153446876-h993w.webp
 
 ### שרשרת קוצים לאילוף - ניקל- 60 ס"מ עובי 4 מ"מ
-https://example.com/product/shrshrt-kvtsym-laylvp-nykl-60-sm-avby-4-mm-rtcdsd
+https://gurimbakfar.zappy5.app/product/shrshrt-kvtsym-laylvp-nykl-60-sm-avby-4-mm-rtcdsd
 - Price: 55.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### שרשרת קוצים לאילוף - שחור- 50 ס"מ , עובי 4 מ"מ
-https://example.com/product/shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-zazbrb
+https://gurimbakfar.zappy5.app/product/shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-zazbrb
 - Price: 55.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1783493729046-9xlm42.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783493729046-9xlm42.webp
 
 ### שרשרת אילוף 55 ס"מ עובי 2.5 מ"מ
-https://example.com/product/shrshrt-aylvp-55-sm-avby-25-mm-l5tx2t
+https://gurimbakfar.zappy5.app/product/shrshrt-aylvp-55-sm-avby-25-mm-l5tx2t
 - Price: 65.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### שרשרת אילוף 65 ס"מ עובי 3.5 מ"מ
-https://example.com/product/shrshrt-aylvp-65-sm-avby-35-mm-vzf1th
+https://gurimbakfar.zappy5.app/product/shrshrt-aylvp-65-sm-avby-35-mm-vzf1th
 - Price: 75.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### שרשרת אילוף 60 ס"מ עובי 3 מ"מ 
-https://example.com/product/shrshrt-aylvp-60-sm-avby-3-mm-0ld6q9
+https://gurimbakfar.zappy5.app/product/shrshrt-aylvp-60-sm-avby-3-mm-0ld6q9
 - Price: 75.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### רצועה 125*20 ס"מ צבע בז'-חום
-https://example.com/product/rtsvah-12520-sm-tsba-bz-chvm-k3vq58
+https://gurimbakfar.zappy5.app/product/rtsvah-12520-sm-tsba-bz-chvm-k3vq58
 - Price: 25.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-1781451859226-99x4mp.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781451859226-99x4mp.webp
 
 ### כבל קשירה לכלב עם קפיץ petsproject עובי 5 מ"מ , אורך 3 מטר
-https://example.com/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-3-mtr-3ae80s
+https://gurimbakfar.zappy5.app/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-3-mtr-3ae80s
 - Price: 55.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1781452222261-so4quj.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781452222261-so4quj.webp
 
 ### כבל קשירה לכלב petsproject עובי 5 ממ אורך 9 מטר
-https://example.com/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-mtr-3bufdb
+https://gurimbakfar.zappy5.app/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-mtr-3bufdb
 - Price: 75.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1781452681353-x7i6vv.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781452681353-x7i6vv.webp
 
 ### כבל קשירה לכלב עם קפיץ petsproject עובי 5 מ"מ , אורך 4.5 מטר
-https://example.com/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-45-mtr-hc7hm6
+https://gurimbakfar.zappy5.app/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-45-mtr-hc7hm6
 - Price: 65.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-1781771293094-g7pzag.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781771293094-g7pzag.webp
 
 ### חטיף סייבר דוג לכלב בטעם ברווז
-https://example.com/product/chtyp-syybr-dvg-lklb-btam-brvvz-yx6hxh
+https://gurimbakfar.zappy5.app/product/chtyp-syybr-dvg-lklb-btam-brvvz-yx6hxh
 - Price: 8.00 ILS
 - Availability: In stock
 - Category: חטיפים
-- Image: https://example.com/assets/product-1781771402259-51568.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781771402259-51568.webp
 
 ### חטיף סייבר דוג לכלב בטעם סלמון
-https://example.com/product/chtyp-syybr-dvg-lklb-btam-slmvn-6sr4y9
+https://gurimbakfar.zappy5.app/product/chtyp-syybr-dvg-lklb-btam-slmvn-6sr4y9
 - Price: 8.00 ILS
 - Availability: In stock
 - Category: חטיפים
-- Image: https://example.com/assets/product-1781771460412-0irmqfc.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781771460412-0irmqfc.webp
 
 ### חטיף סייבר דוג לכלב בטעם ארנבת
-https://example.com/product/chtyp-syybr-dvg-lklb-btam-arnbt-x3nacr
+https://gurimbakfar.zappy5.app/product/chtyp-syybr-dvg-lklb-btam-arnbt-x3nacr
 - Price: 8.00 ILS
 - Availability: In stock
 - Category: חטיפים
-- Image: https://example.com/assets/product-1781771635193-g78vbs.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781771635193-g78vbs.webp
 
 ### סט קולר+רצועה הדפסים שונים L (קולר 63*38 ס"מ - רצועה 150*25 ס"מ)
-https://example.com/product/st-kvlrrtsvah-hdpsym-shvnym-l-kvlr-6338-sm-rtsvah-15025-sm-p8wmsa
+https://gurimbakfar.zappy5.app/product/st-kvlrrtsvah-hdpsym-shvnym-l-kvlr-6338-sm-rtsvah-15025-sm-p8wmsa
 - Price: 60.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### סט קולר+רצועה הדפסים שונים M (קולר 42*27 ס"מ - רצועה 150*20 ס"מ)
-https://example.com/product/st-kvlrrtsvah-hdpsym-shvnym-m-kvlr-4227-sm-rtsvah-15020-sm-d4epyy
+https://gurimbakfar.zappy5.app/product/st-kvlrrtsvah-hdpsym-shvnym-m-kvlr-4227-sm-rtsvah-15020-sm-d4epyy
 - Price: 60.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### סט קולר+פעמון+רצועה 120*10 ס"מ טורקיז, ירוק זוהר, צהוב, סגול
-https://example.com/product/st-kvlrpamvnrtsvah-12010-sm-tvrkyz-yrvk-zvhr-tshvb-sgvl-viy3bu
+https://gurimbakfar.zappy5.app/product/st-kvlrpamvnrtsvah-12010-sm-tvrkyz-yrvk-zvhr-tshvb-sgvl-viy3bu
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### רצועה ניילון פרידוג מידה M
-https://example.com/product/rtsvah-nyylvn-prydvg-mydh-m-nj1ujy
+https://gurimbakfar.zappy5.app/product/rtsvah-nyylvn-prydvg-mydh-m-nj1ujy
 - Price: 33.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-1781771727666-z8uzk7.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781771727666-z8uzk7.webp
 
 ### רצועה ניילון פרידוג S15*120 בורדו
-https://example.com/product/rtsvah-nyylvn-prydvg-s15120-bvrdv-tvskj1
+https://gurimbakfar.zappy5.app/product/rtsvah-nyylvn-prydvg-s15120-bvrdv-tvskj1
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### רצועה ניילון פרידוג XS 10*120 ורוד, שחור, כחול, ירוק, אדום
-https://example.com/product/rtsvah-nyylvn-prydvg-xs-10120-vrvd-shchvr-kchvl-yrvk-advm-unwzuu
+https://gurimbakfar.zappy5.app/product/rtsvah-nyylvn-prydvg-xs-10120-vrvd-shchvr-kchvl-yrvk-advm-unwzuu
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
 
 ### גדר אילוף לכלבים
-https://example.com/product/gdr-aylvp-lklbym-l1aeyn
+https://gurimbakfar.zappy5.app/product/gdr-aylvp-lklbym-l1aeyn
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: כלובים וגדרות
-- Image: https://example.com/assets/product-1782159865970-28hekd.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1782159865970-28hekd.webp
 
 ### כלוב אילוף לכלבים
-https://example.com/product/klvb-aylvp-lklbym-0j2i5x
+https://gurimbakfar.zappy5.app/product/klvb-aylvp-lklbym-0j2i5x
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: כלובים וגדרות
-- Image: https://example.com/assets/product-1782157508007-mvdxj.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1782157508007-mvdxj.webp
 
 ### הנריס חמאת בוטנים טבעית
-https://example.com/product/hnrys-chmat-bvtnym-tbayt-yh6a9h
+https://gurimbakfar.zappy5.app/product/hnrys-chmat-bvtnym-tbayt-yh6a9h
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: חטיפים
-- Image: https://example.com/assets/product-enhanced-1782157095043-aufz4e.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782157095043-aufz4e.webp
 
 ### פדים לאימון גורים 50 יח'
-https://example.com/product/pdym-laymvn-gvrym-50-ych-vlukys
+https://gurimbakfar.zappy5.app/product/pdym-laymvn-gvrym-50-ych-vlukys
 - Price: 50.00 ILS
 - Availability: In stock
 - Category: בית
-- Image: https://example.com/assets/product-enhanced-1782842921160-7gzg2n.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782842921160-7gzg2n.webp
 
 ### פדים לאימון גורים 100 יח'
-https://example.com/product/pdym-laymvn-gvrym-100-ych-13o7el
+https://gurimbakfar.zappy5.app/product/pdym-laymvn-gvrym-100-ych-13o7el
 - Price: 100.00 ILS
 - Availability: In stock
 - Category: בית
-- Image: https://example.com/assets/product-enhanced-1782842985272-3fn9u.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782842985272-3fn9u.webp
 
 ### פדים לאימון גורים עם פחם פעיל 30 יח'
-https://example.com/product/pdym-laymvn-gvrym-am-pchm-payl-30-ych-o4ysvk
+https://gurimbakfar.zappy5.app/product/pdym-laymvn-gvrym-am-pchm-payl-30-ych-o4ysvk
 - Price: 40.00 ILS
 - Availability: In stock
 - Category: בית
-- Image: https://example.com/assets/product-1782843011411-h3sjg.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1782843011411-h3sjg.webp
 
 ### קרן אייל אדום 75-150 גר' M
-https://example.com/product/krn-ayyl-advm-75-150-gr-m-tajljj
+https://gurimbakfar.zappy5.app/product/krn-ayyl-advm-75-150-gr-m-tajljj
 - Price: 65.00 ILS
 - Availability: In stock
 - Category: חטיפים
-- Image: https://example.com/assets/product-enhanced-1782843117890-chyka6.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782843117890-chyka6.webp
 
 ### קרן אייל אדום 50-75 גר' S
-https://example.com/product/krn-ayyl-advm-50-75-gr-s-iwvv9k
+https://gurimbakfar.zappy5.app/product/krn-ayyl-advm-50-75-gr-s-iwvv9k
 - Price: 45.00 ILS
 - Availability: In stock
 - Category: חטיפים
-- Image: https://example.com/assets/product-enhanced-1782843225510-3v43pj.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782843225510-3v43pj.webp
 
 ### שימורי פרנדי 70% בשר עגל 400 ג"ר
-https://example.com/product/shymvry-prndy-70-bshr-agl-400-gr-omk02z
+https://gurimbakfar.zappy5.app/product/shymvry-prndy-70-bshr-agl-400-gr-omk02z
 - Price: 6.50 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: פרנדי שימור עגל לכלב. מזון רטוב מלא בטעמים, מכיל 70% בשר, כולל בשר עגל איכותי, ברוטב עשיר ומזין. הרוטב כולל ויטמינים ומינרלים התומכים בבריאות הכלב, עם דגש על חיזוק העצמות והמפרקים, שמירה על תפקוד תקין של הכליות, הלב והמערכת העצבית. המוצר מיוצר בפולין, עם מרכיבים טבעיים ואיכותיים בלבד, ללא תוספים מלאכותיים. מצוין עבור כלבים עם קיבה רגישה ומספק את כל הצרכים התזונתיים לאורך כל שלב התפתחות.
-- Image: https://example.com/assets/product-enhanced-1782304264349-hfbnnf.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782304264349-hfbnnf.webp
 
 ### שימורי פרנדי 70% בשר עוף 400 ג"ר
-https://example.com/product/shymvry-prndy-70-bshr-avp-400-gr-7wix9b
+https://gurimbakfar.zappy5.app/product/shymvry-prndy-70-bshr-avp-400-gr-7wix9b
 - Price: 6.50 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: פרנדי שימור עוף לכלב. מזון רטוב מלא בטעמים, מכיל 70% בשר, כולל נתחי עוף איכותי, ברוטב עשיר ומזין. הרוטב כולל ויטמינים ומינרלים התומכים בבריאות הכלב, עם דגש על חיזוק העצמות והמפרקים, שמירה על תפקוד תקין של הכליות, הלב והמערכת העצבית. המוצר מיוצר בפולין, עם מרכיבים טבעיים ואיכותיים בלבד, ללא תוספים מלאכותיים. מצוין עבור כלבים עם קיבה רגישה ומספק את כל הצרכים התזונתיים לאורך כל שלב התפתחות.
-- Image: https://example.com/assets/product-enhanced-1782304983674-qib28a.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782304983674-qib28a.webp
 
 ### מזון כלבים רטוב דוג איט צ'אנק בקר 375 גרם
-https://example.com/product/mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-k0ezsq
+https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-k0ezsq
 - Price: 5.00 ILS
 - Availability: In stock
 - Category: שימורים ומעדנים
 - Description: מרכיבים בקר, מים, עוף, כבד עוף, קמח קסאווה, ויטמינים
-- Image: https://example.com/assets/product-enhanced-1782900962242-hhjra.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782900962242-hhjra.webp
 
 ### צעצוע משיכה- כדור קשירה כפול עם חבל
-https://example.com/product/tsatsva-mshykh-kdvr-kshyrh-kpvl-am-chbl-fnuvlq
+https://gurimbakfar.zappy5.app/product/tsatsva-mshykh-kdvr-kshyrh-kpvl-am-chbl-fnuvlq
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-enhanced-1782843413460-2jv1q8.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782843413460-2jv1q8.webp
 
 ### ג'ל דנטלי לשיניים Histotree בטעם וניל
-https://example.com/product/gl-dntly-lshynyym-histotree-btam-vnyl-k4j86r
+https://gurimbakfar.zappy5.app/product/gl-dntly-lshynyym-histotree-btam-vnyl-k4j86r
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1782156961879-6fifnn.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782156961879-6fifnn.webp
 
 ### נוזל לניקוי אוזניים/עיניים petglow
-https://example.com/product/nvzl-lnykvy-avznyymaynyym-petglow-psqn25
+https://gurimbakfar.zappy5.app/product/nvzl-lnykvy-avznyymaynyym-petglow-psqn25
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1782843478731-dcwsf.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782843478731-dcwsf.webp
 
 ### אצבעון צחצוח שיניים זוג 
-https://example.com/product/atsbavn-tschtsvch-shynyym-zvg-w3h460
+https://gurimbakfar.zappy5.app/product/atsbavn-tschtsvch-shynyym-zvg-w3h460
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1782843594905-kfaqql.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782843594905-kfaqql.webp
 
 ### מרכך פרידוג
-https://example.com/product/mrkk-prydvg-lxqsn4
+https://gurimbakfar.zappy5.app/product/mrkk-prydvg-lxqsn4
 - Price: 54.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1782901133456-65svjn.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782901133456-65svjn.webp
 
 ### מנטרל ריחות שתן ומנקה כתמים למשטח הכלב
-https://example.com/product/mntrl-rychvt-shtn-vmnkh-ktmym-lmshtch-hklb-ri7xoz
+https://gurimbakfar.zappy5.app/product/mntrl-rychvt-shtn-vmnkh-ktmym-lmshtch-hklb-ri7xoz
 - Price: 86.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1782843762504-dr5cu.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782843762504-dr5cu.webp
 
 ### חטיפי בוש לכלבים בטעם עוף ומנגו 200 ג"ר
-https://example.com/product/chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-lj7jyk
+https://gurimbakfar.zappy5.app/product/chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-lj7jyk
 - Price: 25.00 ILS
 - Availability: In stock
 - Category: חטיפים
-- Image: https://example.com/assets/product-enhanced-1783282680679-hd4hae.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783282680679-hd4hae.webp
 
 ### כלוב נשיאה פתח קדמי 56*37*35
-https://example.com/product/klvb-nshyah-ptch-kdmy-563735-oo3tkt
+https://gurimbakfar.zappy5.app/product/klvb-nshyah-ptch-kdmy-563735-oo3tkt
 - Price: 180.00 ILS
 - Availability: In stock
 - Category: כלובים וגדרות
-- Image: https://example.com/assets/product-enhanced-1782844001809-17pnd6.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782844001809-17pnd6.webp
 
 ### משטח ליקוק 15 ס"מ
-https://example.com/product/mshtch-lykvk-15-sm-7x0k5z
+https://gurimbakfar.zappy5.app/product/mshtch-lykvk-15-sm-7x0k5z
 - Price: 18.00 ILS
 - Availability: In stock
 - Category: אביזרים
-- Image: https://example.com/assets/product-enhanced-1782844209853-mf97a9.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782844209853-mf97a9.webp
 
 ### פרידוג קולר ניילון בייסיק 66*38*25 
-https://example.com/product/prydvg-kvlr-nyylvn-byysyk-663825-8wdmws
+https://gurimbakfar.zappy5.app/product/prydvg-kvlr-nyylvn-byysyk-663825-8wdmws
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1782901972921-8hu9ms.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782901972921-8hu9ms.webp
 
 ### פרידוג קולר ניילון בייסיק 50*35*15
-https://example.com/product/prydvg-kvlr-nyylvn-byysyk-503515-h8427z
+https://gurimbakfar.zappy5.app/product/prydvg-kvlr-nyylvn-byysyk-503515-h8427z
 - Price: 25.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1782902364273-t18fr.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782902364273-t18fr.webp
 
 ### פרידוג קולר ניילון בייסיק 35*20*10
-https://example.com/product/prydvg-kvlr-nyylvn-byysyk-352010-s352e8
+https://gurimbakfar.zappy5.app/product/prydvg-kvlr-nyylvn-byysyk-352010-s352e8
 - Price: 18.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1782903118059-hsngqi.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782903118059-hsngqi.webp
 
 ### פרידוג קולר ניילון בייסיק 60*35*20
-https://example.com/product/prydvg-kvlr-nyylvn-byysyk-603520-1p2sex
+https://gurimbakfar.zappy5.app/product/prydvg-kvlr-nyylvn-byysyk-603520-1p2sex
 - Price: 28.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1783243481508-0iz5sa.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783243481508-0iz5sa.webp
 
 ### מזרן אורתופדי בונו קנל סלקט 119*74 ס"מ צבע אפור
-https://example.com/product/mzrn-avrtvpdy-bvnv-knl-slkt-11974-sm-tsba-apvr-3vbki9
+https://gurimbakfar.zappy5.app/product/mzrn-avrtvpdy-bvnv-knl-slkt-11974-sm-tsba-apvr-3vbki9
 - Price: 250.00 ILS
 - Availability: In stock
 - Category: מיטות ומזרונים
-- Image: https://example.com/assets/product-enhanced-1782844473770-7dse3.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782844473770-7dse3.webp
 
 ### מזרן אורתופדי בונו קנל סלקט 91*56 ס"מ צבע כחול
-https://example.com/product/mzrn-avrtvpdy-bvnv-knl-slkt-9156-sm-tsba-kchvl-wliqc9
+https://gurimbakfar.zappy5.app/product/mzrn-avrtvpdy-bvnv-knl-slkt-9156-sm-tsba-kchvl-wliqc9
 - Price: 220.00 ILS
 - Availability: In stock
 - Category: מיטות ומזרונים
-- Image: https://example.com/assets/product-enhanced-1783243682170-3wf1ct.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783243682170-3wf1ct.webp
 
 ### כלוב נשיאה פתח עליון ופתח קדמי 32*33.2 ס"מ 
-https://example.com/product/klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-951o0l
+https://gurimbakfar.zappy5.app/product/klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-951o0l
 - Price: 210.00 ILS
 - Availability: In stock
 - Category: כלובים וגדרות
-- Image: https://example.com/assets/product-enhanced-1783243777754-mdyhb0k.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783243777754-mdyhb0k.webp
 
 ### מיטה לכלבים PetsProject serenity
-https://example.com/product/myth-lklbym-petsproject-serenity-7b1fm3
+https://gurimbakfar.zappy5.app/product/myth-lklbym-petsproject-serenity-7b1fm3
 - Price: 179.00 ILS
 - Availability: In stock
 - Category: מיטות ומזרונים
-- Image: https://example.com/assets/product-1782844736214-0se6yn.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1782844736214-0se6yn.webp
 
 ### מיטה פלאפי לכלבים וחתולים קנל סלקט דגם לולה M חום
-https://example.com/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-m-chvm-doka3t
+https://gurimbakfar.zappy5.app/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-m-chvm-doka3t
 - Price: 250.00 ILS
 - Availability: In stock
 - Category: מיטות ומזרונים
-- Image: https://example.com/assets/product-enhanced-1783243873386-ov77aa.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783243873386-ov77aa.webp
 
 ### מיטה לכלבים PetsProject מידה S עשוי מבד עמיד דוחה מים וכיסוי נשלף
-https://example.com/product/myth-lklbym-petsproject-mydh-s-ashvy-mbd-amyd-dvchh-mym-vkysvy-nshlp-ubniy3
+https://gurimbakfar.zappy5.app/product/myth-lklbym-petsproject-mydh-s-ashvy-mbd-amyd-dvchh-mym-vkysvy-nshlp-ubniy3
 - Price: 189.00 ILS
 - Availability: In stock
 - Category: מיטות ומזרונים
-- Image: https://example.com/assets/product-enhanced-1783244034698-h07tqj.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783244034698-h07tqj.webp
 
 ### NATURE WILD נייצר גור בטעם ברווז והודו 12 ק”ג
-https://example.com/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-e30ply
+https://gurimbakfar.zappy5.app/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-e30ply
 - Price: 349.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: פורמולה הוליסטית ללא דגנים לגורי כלבים, בשר הודו, עוף, וברווז, הוא מתכון מובחר המספק מזון שלם ומאוזן העשוי מרכיבים טבעיים וטריים באיכות הגבוהה ביותר. 25% בשר הודו טרי | 14% בשר עוף מיובש | 5% בשר ברווז מיובש | 0% דגנים חלבונים באיכות גבוהה מקדמים יצירה ותחזוקה של מסת שריר, המספקים שומנים כמקור לאנרגיה. בשר טעים מאוד עם פרוטאינים בעל ערך ביולוגי גבוה העוזר לשמור על משקל בריא. חלבון בעל רמת נעכלות גבוהה, מספק חומצות אמינו נחוצות. חלבון תזונתי ברמה גבוהה.
-- Image: https://example.com/assets/product-1781772447524-lxbm2f.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781772447524-lxbm2f.webp
 
 ### מיטה פלאפי לכלבים וחתולים קנל סלקט דגם לולה S אפור
-https://example.com/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-s-apvr-j2fn43
+https://gurimbakfar.zappy5.app/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-s-apvr-j2fn43
 - Price: 180.00 ILS
 - Availability: In stock
 - Category: מיטות ומזרונים
-- Image: https://example.com/assets/product-enhanced-1783244174011-slaffg.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783244174011-slaffg.webp
 
 ### NATURE WILD נייצר בוגר בטעם בקר ודג 12 ק”ג
-https://example.com/product/nature-wild-nyytsr-bvgr-btam-bkr-vdg-12-kg-sgnyei
+https://gurimbakfar.zappy5.app/product/nature-wild-nyytsr-bvgr-btam-bkr-vdg-12-kg-sgnyei
 - Price: 339.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: מרכיבים: דג לבן טרי (30%), בשר בקר מיובש (18%), אפונה (15%), תפוחי אדמה (14%), שומן עוף (10%), בשר חזיר מיובש (8%), שעועית רחבה, פשתן (2%), עיסת סלק מיובש, שמרים, קמח אצות (0,3%), פרוקטו-אוליגוסכרידים (FOS 0,2%), מוצר שמרים (MOS 0,2%), יוקה schidigera (0,03%), שורש שן הארי אבקה (Taraxacum officinale W.) (0,02%), קליפת רימון מיובשת (Punica granatum) (0,02%), גזע אננס מיובש (Ananas sativus L.) (0,02%). רכיבים תזונתיים: לחות: 8,00%; חלבון גולמי: 30,00%; סיבים גולמיים: 2,40%; שומן גולמי: 19,00%; אפר…
-- Image: https://example.com/assets/product-1781772071865-fzxw3j.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781772071865-fzxw3j.webp
 
 ### NATURE WILD נייצר בוגר בטעם ברווז ודג 12 ק”ג
-https://example.com/product/nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-en6o8i
+https://gurimbakfar.zappy5.app/product/nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-en6o8i
 - Price: 339.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: חלבונים באיכות גבוהה מקדמים יצירה ותחזוקה של מסת שריר, המספקים שומנים כמקור לאנרגיה. חלבון תזונתי ברמה גבוהה, עוזר להקל על עצבי מערכת העיכול וגירוי בעור. חומצות שומניות אומגה -3 ואומגה 6 תורמות לרווחת העור והפרווה וגורם לפרווה מבריקה יותר. מזון הוליסטי. נקי מתוספים סינתטיים. שמורה באופן טבעי.
-- Image: https://example.com/assets/product-1781772692584-e8iw2l.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781772692584-e8iw2l.webp
 
 ### NATURE נייצר סלמון 70% בשר 12 ק”ג
-https://example.com/product/nature-nyytsr-slmvn-70-bshr-12-kg-4gmezc
+https://gurimbakfar.zappy5.app/product/nature-nyytsr-slmvn-70-bshr-12-kg-4gmezc
 - Price: 339.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: פורמולה שפותחה כדי לשפר את בריאות הכלב שלך ולתת לו את התזונה הטובה ביותר. Nature בשר דג סלמון לכלבים בוגרים מכל הגזעים מבית Satisfaction עשוי ממתכונים בלעדיים המספקים תזונה מלאה ומאוזנת. לייצור המזון נבחרו מרכיבים טבעיים איכותיים בלבד. התוצאה מדהימה : מזון היפואלרגני, הוליסטי ללא דגנים, המכיל 70% בשר איכותי טעים מאוד ובדרגת עיכול גבוהה אשר יהפוך את בעל החיים שלכם למאושר ובריא.
-- Image: https://example.com/assets/product-1781774146935-iiyoru.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781774146935-iiyoru.webp
 
 ### סטיספקשיין בוגר גזע גדול עוף 20 ק"ג
-https://example.com/product/styspkshyyn-bvgr-gza-gdvl-avp-20-kg-mfkoli
+https://gurimbakfar.zappy5.app/product/styspkshyyn-bvgr-gza-gdvl-avp-20-kg-mfkoli
 - Price: 369.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: פורמולת סטיספקשן Satisfaction Regular Maxi פותחה במיוחד לכלבים בוגרים (מגיל שנתיים עד 7 שנים) של גזעים גדולים (מעל 25 ק”ג בבגרות). עם בשר עוף ואורז טרי, מרכיבים הניתנים לעיכול גבוה ומעוררי תיאבון, זהו האוכל האידיאלי לתזונה בריאה ומאוזנת. הכופתיות הגדולות הם בגודל אידיאלי ללסתות של כלבים גדולים יותר.
-- Image: https://example.com/assets/product-1781513956786-o20cwl.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781513956786-o20cwl.webp
 
 ### סטיספקשן גורים גזע גדול עוף 20 ק"ג
-https://example.com/product/styspkshn-gvrym-gza-gdvl-avp-20-kg-7zlc3z
+https://gurimbakfar.zappy5.app/product/styspkshn-gvrym-gza-gdvl-avp-20-kg-7zlc3z
 - Price: 379.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: המזון מתאים במיוחד עבור כלבים גורים (1 עד 24 חודשים) מגזע גדול (מעל 25 ק”ג משקל כלב בוגר). במהלך תקופת הגדילה משתנות הדרישות התזונתיות לא רק עבור גזעים שונים אלא גם בקבוצות גיל שונות.
-- Image: https://example.com/assets/product-1781514173535-069fj.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781514173535-069fj.webp
 
 ### סטיספקשן בוגר גזע קטן עוף 3 ק"ג
-https://example.com/product/styspkshn-bvgr-gza-ktn-avp-3-kg-hmsiba
+https://gurimbakfar.zappy5.app/product/styspkshn-bvgr-gza-ktn-avp-3-kg-hmsiba
 - Price: 109.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: נוסחה מיוחדת מאת סטיספקשן לכלבים בוגרים של גזעים קטנים. כלבים מגזעים קטנים חיים זמן רב יותר, חשוב להקפיד במיוחד על האוכל שלהם לאורך חייהם, ולספק להם את האנרגיה הדרושה לאופי הטבעי והמאוד פעיל שלהם ולמנוע השמנת יתר אפשרית. הכופתיות לעיסה קטנות יותר ואידיאליות עבור הלסתות והפה של גזעים קטנים. אורז ובשר עוף עשיר וטרי מספק תזונה בריאה, מזינה, ומאוזנת המסייעת לשמור על השרירים והעצמות של הכלב במצב מושלם. ללא רכיבים מהונדסים גנטית GMO FREE.
-- Image: https://example.com/assets/product-1781514303749-2galm3.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781514303749-2galm3.webp
 
 ### סטיספקשן בוגר גזע בינוני עוף 20 ק"ג
-https://example.com/product/styspkshn-bvgr-gza-bynvny-avp-20-kg-afjbzy
+https://gurimbakfar.zappy5.app/product/styspkshn-bvgr-gza-bynvny-avp-20-kg-afjbzy
 - Price: 369.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: חשוב מאוד שכלבים יגדלו ללא משקל עודף בכדי להימנע מהם השמנת יתר פוטנציאלית בעתיד. ל-קרניטין עוזר להמיר שומן לאנרגיה, והימנעות מכל הצטברות שומן אפשרית. הוא מכיל ביוטין (ויטמין H) כדי לשמור על פרוות הכלב שלך מבריקה ובריאה. הטאורין עוזר להבטיח לב בריא וראיה טובה. תמצית היוקה מפחיתה משמעותית את ריח צואת הכלב. הביופלבנואידים, נוגדי חמצון תאיים (ויטמינים C ו- E) המגיעים מפירות הדר, מעודד פיתוח של מערכת חיסונית חזקה ובריאה.
-- Image: https://example.com/assets/product-1781514431160-evfgpf.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781514431160-evfgpf.webp
 
 ### סטיספקשן לגורים מכל הגזעים וכלבות בסוף ההריון ובמהלך ההנקה עוף 20 ק"ג
-https://example.com/product/styspkshn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-bs0huv
+https://gurimbakfar.zappy5.app/product/styspkshn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-bs0huv
 - Price: 379.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: המזון עם תכולת חלבון עשירה (24% עוף טרי וביצה מבושלת) ואנרגיה (חלבוני עופות מיובשים, שומן עוף ואורז) וצריכה מאוזנת של סידן וזרחן. גודלם של הכופתיות קטן מספיק כדי להיתפס על ידי לסתות קטנות, אבל גם לא קטן מדי בשביל לעיסה. סטיספקשן מגדלים לגורים PRO PUPPY START: מבטיח את רמת העיכול וספיגת המרכיבים הגבוה ביותר במהלך התקופה העדינה ביותר של חיי הכלב: גמילה
-- Image: https://example.com/assets/product-1781513646418-vx59ij.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1781513646418-vx59ij.webp
 
 ### קערת נירוסטה 26 ס"מ 
-https://example.com/product/kart-nyrvsth-26-sm-g6id7n
+https://gurimbakfar.zappy5.app/product/kart-nyrvsth-26-sm-g6id7n
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Image: https://example.com/assets/product-enhanced-1782845042294-3uzxo.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782845042294-3uzxo.webp
 
 ### סטיספקשן סלמון ואורז כלבים בוגרים
-https://example.com/product/styspkshn-slmvn-vavrz-klbym-bvgrym-2jhp60
+https://gurimbakfar.zappy5.app/product/styspkshn-slmvn-vavrz-klbym-bvgrym-2jhp60
 - Price: 125.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: סטיספקשן סלמון מספק תזונה מלאה, מזינה ומאוזנת, התורמת להתפתחות תקינה של מסת שריר ושלד חזק ובריא
-- Image: https://example.com/assets/product-enhanced-1781524710954-wapm8b.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781524710954-wapm8b.webp
 
 ### סטיספקשן סלמון ואורז כלבים גורים
-https://example.com/product/styspkshn-slmvn-vavrz-klbym-gvrym-w9w5q0
+https://gurimbakfar.zappy5.app/product/styspkshn-slmvn-vavrz-klbym-gvrym-w9w5q0
 - Price: 125.00 ILS
 - Availability: In stock
 - Category: מזון יבש
 - Description: מתאים לכל סוגי הכלבים. SATISFACTION SALMÓN מספק תזונה מלאה, מזינה ומאוזנת, התורמת להתפתחות תקינה של מסת השריר ושלד חזק וברי
-- Image: https://example.com/assets/product-1782305625475-m2z2b7q.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1782305625475-m2z2b7q.webp
 
 ### קערות נירוסטה פס גומי
-https://example.com/product/karvt-nyrvsth-ps-gvmy-ufqlu5
+https://gurimbakfar.zappy5.app/product/karvt-nyrvsth-ps-gvmy-ufqlu5
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Image: https://example.com/assets/product-enhanced-1782845191642-5r6l2l.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782845191642-5r6l2l.webp
 
 ### סטנד+ 2 קערות אוכל מים 15 ס"מ 
-https://example.com/product/stnd-2-karvt-avkl-mym-15-sm-sk0x3s
+https://gurimbakfar.zappy5.app/product/stnd-2-karvt-avkl-mym-15-sm-sk0x3s
 - Price: 45.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Image: https://example.com/assets/product-enhanced-1782845464192-ymem9k.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782845464192-ymem9k.webp
 
 ### מתקן משולב למים/מזון 1.5 ליטר VIOLA
-https://example.com/product/mtkn-mshvlb-lmymmzvn-15-lytr-viola-x76i76
+https://gurimbakfar.zappy5.app/product/mtkn-mshvlb-lmymmzvn-15-lytr-viola-x76i76
 - Price: 55.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Image: https://example.com/assets/product-enhanced-1782845605064-qs1c8y.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782845605064-qs1c8y.webp
 
 ### קופסת אחסון אקרילית 1.8 L
-https://example.com/product/kvpst-achsvn-akrylyt-18-l-rm2olr
+https://gurimbakfar.zappy5.app/product/kvpst-achsvn-akrylyt-18-l-rm2olr
 - Price: 34.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Image: https://example.com/assets/product-enhanced-1783278334293-kco42w.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783278334293-kco42w.webp
 
 ### סטנד+ 2 קערות אוכל מים 19 ס"מ 
-https://example.com/product/stnd-2-karvt-avkl-mym-19-sm-qv2fdo
+https://gurimbakfar.zappy5.app/product/stnd-2-karvt-avkl-mym-19-sm-qv2fdo
 - Price: 65.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Image: https://example.com/assets/product-enhanced-1782845723920-y5lx8.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782845723920-y5lx8.webp
 
 ### מתקן מים אוטומטי למניעת רטיבות הפרווה 1 L
-https://example.com/product/mtkn-mym-avtvmty-lmnyat-rtybvt-hprvvh-1-l-ydizvi
+https://gurimbakfar.zappy5.app/product/mtkn-mym-avtvmty-lmnyat-rtybvt-hprvvh-1-l-ydizvi
 - Price: 100.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Image: https://example.com/assets/product-enhanced-1782741962139-tot54i.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782741962139-tot54i.webp
 
 ### מסרק אפור ברי קינג
-https://example.com/product/msrk-apvr-bry-kyng-c09wv1
+https://gurimbakfar.zappy5.app/product/msrk-apvr-bry-kyng-c09wv1
 - Price: 45.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1782845790033-tghzp.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782845790033-tghzp.webp
 
 ### שרשרת חנק 65 ס"מ שחור
-https://example.com/product/shrshrt-chnk-65-sm-shchvr-7hhrl8
+https://gurimbakfar.zappy5.app/product/shrshrt-chnk-65-sm-shchvr-7hhrl8
 - Price: 70.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1783278434288-328jgr.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783278434288-328jgr.webp
 
 ### הנריס אזני באפלו חתוכות
-https://example.com/product/hnrys-azny-baplv-chtvkvt-xk1hoh
+https://gurimbakfar.zappy5.app/product/hnrys-azny-baplv-chtvkvt-xk1hoh
 - Price: 26.00 ILS
 - Availability: In stock
 - Category: חטיפים
-- Image: https://example.com/assets/product-enhanced-1783278674555-kf4ic.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783278674555-kf4ic.webp
 
 ### מסרק פרמינטור M
-https://example.com/product/msrk-prmyntvr-m-vubdfo
+https://gurimbakfar.zappy5.app/product/msrk-prmyntvr-m-vubdfo
 - Price: 85.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-1782210960032-yvn0ah.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1782210960032-yvn0ah.webp
 
 ### הנריס קוביות עוף עם בלוברי
-https://example.com/product/hnrys-kvbyvt-avp-am-blvbry-2npic1
+https://gurimbakfar.zappy5.app/product/hnrys-kvbyvt-avp-am-blvbry-2npic1
 - Price: 21.00 ILS
 - Availability: In stock
 - Category: חטיפים
-- Image: https://example.com/assets/product-enhanced-1783278813367-whohfk.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783278813367-whohfk.webp
 
 ### משטח ליקוק 17.7*16.3 ס"מ freedog
-https://example.com/product/mshtch-lykvk-177163-sm-freedog-f3ap8m
+https://gurimbakfar.zappy5.app/product/mshtch-lykvk-177163-sm-freedog-f3ap8m
 - Price: 50.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Image: https://example.com/assets/product-enhanced-1782210671516-1dfw9u.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782210671516-1dfw9u.webp
 
 ### משטח ליקוק 20*20 ס"מ freedog
-https://example.com/product/mshtch-lykvk-2020-sm-freedog-h3rdn0
+https://gurimbakfar.zappy5.app/product/mshtch-lykvk-2020-sm-freedog-h3rdn0
 - Price: 50.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Image: https://example.com/assets/product-enhanced-1782209880627-k08s5i.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782209880627-k08s5i.webp
 
 ### צעצוע לעיסה צמיג חבל
-https://example.com/product/tsatsva-laysh-tsmyg-chbl-a4z8by
+https://gurimbakfar.zappy5.app/product/tsatsva-laysh-tsmyg-chbl-a4z8by
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-enhanced-1783278887184-p4jyfb.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783278887184-p4jyfb.webp
 
 ### פאפי רול
-https://example.com/product/papy-rvl-k835l8
+https://gurimbakfar.zappy5.app/product/papy-rvl-k835l8
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-enhanced-1782209581919-mie7ia.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782209581919-mie7ia.webp
 
 ### קערת האכלה איטית לכלבים 18*18 ס"מ freedog
-https://example.com/product/kart-haklh-aytyt-lklbym-1818-sm-freedog-enrzlq
+https://gurimbakfar.zappy5.app/product/kart-haklh-aytyt-lklbym-1818-sm-freedog-enrzlq
 - Price: 60.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Image: https://example.com/assets/product-1782209145825-hncdfh.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1782209145825-hncdfh.webp
 
 ### משחק חבל כדור 7 ס"מ
-https://example.com/product/mshchk-chbl-kdvr-7-sm-wa81nt
+https://gurimbakfar.zappy5.app/product/mshchk-chbl-kdvr-7-sm-wa81nt
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-enhanced-1782208954402-u2j5e4.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782208954402-u2j5e4.webp
 
 ### תרנגול לטקס מצפצף
-https://example.com/product/trngvl-ltks-mtsptsp-nvv5yg
+https://gurimbakfar.zappy5.app/product/trngvl-ltks-mtsptsp-nvv5yg
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-1782208881783-bklzif.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1782208881783-bklzif.webp
 
 ### כדור חטיפים
-https://example.com/product/kdvr-chtypym-p2pje5
+https://gurimbakfar.zappy5.app/product/kdvr-chtypym-p2pje5
 - Price: 50.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-enhanced-1783279084478-p40yk6.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1783279084478-p40yk6.webp
 
 ### בקבוק שתייה נייד 400 מ"ל freedog
-https://example.com/product/bkbvk-shtyyh-nyyd-400-ml-freedog-q6b9a8
+https://gurimbakfar.zappy5.app/product/bkbvk-shtyyh-nyyd-400-ml-freedog-q6b9a8
 - Price: 45.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
 - Brand: freedog
 - Description: בקבוק שתייה נייד לכלב, אידאלי כאשר אתה יוצא לטיול או סיבוב עם הכלב שלך. מאפשר שתיה נוחה ומבטיח אספקת מים טרייה לחיית המחמד שלך.
-- Image: https://example.com/assets/product-1782208603069-q2we7.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-1782208603069-q2we7.webp
 
 ### צעצוע קטיפה זחל לחתול/כלב 
-https://example.com/product/tsatsva-ktyph-zchl-lchtvlklb-196757
+https://gurimbakfar.zappy5.app/product/tsatsva-ktyph-zchl-lchtvlklb-196757
 - Price: 25.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-enhanced-1782208360612-sk8ow.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782208360612-sk8ow.webp
 
 ### צעצוע תמנון מרשרש עם צפצפה
-https://example.com/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-5lwji6
+https://gurimbakfar.zappy5.app/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-5lwji6
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-enhanced-1782208144240-e0w6c3.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782208144240-e0w6c3.webp
 
 ### הנריס גידי באפלו
-https://example.com/product/hnrys-gydy-baplv-d1ih0e
+https://gurimbakfar.zappy5.app/product/hnrys-gydy-baplv-d1ih0e
 - Price: 26.00 ILS
 - Availability: In stock
 - Category: חטיפים
-- Image: https://example.com/assets/product-enhanced-1781440962153-7zaog1.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781440962153-7zaog1.webp
 
 ### בקבוק שתייה 500 ml 
-https://example.com/product/bkbvk-shtyyh-500-ml-ecykfa
+https://gurimbakfar.zappy5.app/product/bkbvk-shtyyh-500-ml-ecykfa
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Image: https://example.com/assets/product-enhanced-1781076602587-p4yobp.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781076602587-p4yobp.webp
 
 ### משחת שיניים
-https://example.com/product/mshcht-shynyym-y9dfph
+https://gurimbakfar.zappy5.app/product/mshcht-shynyym-y9dfph
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1780861055941-8fgmt6.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1780861055941-8fgmt6.webp
 
 ### ערכת צחצוח שיניים לכלבים כולל משחה בטעם חלב, מברשת ואצבעון
-https://example.com/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-btam-chlb-mbrsht-vatsbavn-o4dm9s
+https://gurimbakfar.zappy5.app/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-btam-chlb-mbrsht-vatsbavn-o4dm9s
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1781440923631-xbphrd.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781440923631-xbphrd.webp
 
 ### שמפו PETGLOW 
-https://example.com/product/shmpv-petglow-f4ozj3
+https://gurimbakfar.zappy5.app/product/shmpv-petglow-f4ozj3
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1780898271084-4ekxi.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1780898271084-4ekxi.webp
 
 ### כדור דנטלי עם חבל
-https://example.com/product/kdvr-dntly-am-chbl-r40ega
+https://gurimbakfar.zappy5.app/product/kdvr-dntly-am-chbl-r40ega
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-enhanced-1782207805344-g4fzh7h.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782207805344-g4fzh7h.webp
 
 ### הנריס גרונות עוף
-https://example.com/product/hnrys-grvnvt-avp-s062qs
+https://gurimbakfar.zappy5.app/product/hnrys-grvnvt-avp-s062qs
 - Price: 26.00 ILS
 - Availability: In stock
 - Category: חטיפים
 - Description: גרונות עוף 100% טבעי וללא תוספים מלאכותיים – חטיף בריא, טעים וללא חומרים משמרים. דל שומן, עשיר בחלבון וקל לעיכול.
-- Image: https://example.com/assets/product-enhanced-1782207242082-g9mbh.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782207242082-g9mbh.webp
 
 ### מברשת אובלית גדולה רקורד
-https://example.com/product/mbrsht-avblyt-gdvlh-rkvrd-arwmvw
+https://gurimbakfar.zappy5.app/product/mbrsht-avblyt-gdvlh-rkvrd-arwmvw
 - Price: 65.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1782206596414-a1xsdh.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782206596414-a1xsdh.webp
 
 ### צעצוע פריזבי לכלבים צבעי פסטל
-https://example.com/product/tsatsva-pryzby-lklbym-tsbay-pstl-m61xmb
+https://gurimbakfar.zappy5.app/product/tsatsva-pryzby-lklbym-tsbay-pstl-m61xmb
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-enhanced-1782206300223-agal8.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1782206300223-agal8.webp
 
 ### ערכת צחצוח שיניים לכלבים כולל משחה, מברשת ואצבעון
-https://example.com/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrsht-vatsbavn-q70cyp
+https://gurimbakfar.zappy5.app/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrsht-vatsbavn-q70cyp
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1781449239449-isaixh.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449239449-isaixh.webp
 
 ### סט צעצועי לעיסה לכלב 4 חלקים צבע ורוד
-https://example.com/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-4x70r9
+https://gurimbakfar.zappy5.app/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-4x70r9
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-enhanced-1781451482646-42qbvf.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781451482646-42qbvf.webp
 
 ### מזרקת מים חיצונית 1.4 ליטר Petstar
-https://example.com/product/mzrkt-mym-chytsvnyt-14-lytr-petstar-l954l1
+https://gurimbakfar.zappy5.app/product/mzrkt-mym-chytsvnyt-14-lytr-petstar-l954l1
 - Price: 85.00 ILS
 - Availability: In stock
 - Category: כלי אוכל ושתייה
-- Image: https://example.com/assets/product-enhanced-1780898660548-exsfsp.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1780898660548-exsfsp.webp
 
 ### כדור משחק אלסטי
-https://example.com/product/kdvr-mshchk-alsty-gauldp
+https://gurimbakfar.zappy5.app/product/kdvr-mshchk-alsty-gauldp
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-enhanced-1781449405837-ddn8wk.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449405837-ddn8wk.webp
 
 ### מברשת אוניברסלית קשה אדומה
-https://example.com/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr
+https://gurimbakfar.zappy5.app/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr
 - Price: 65.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1781449364410-36grpk.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449364410-36grpk.webp
 
 ### מברשת freedog
-https://example.com/product/mbrsht-freedog-ip8x9x
+https://gurimbakfar.zappy5.app/product/mbrsht-freedog-ip8x9x
 - Price: 55.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1781449317230-uuzxmq.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449317230-uuzxmq.webp
 
 ### משחת שיניים bioline
-https://example.com/product/mshcht-shynyym-bioline-d64o17
+https://gurimbakfar.zappy5.app/product/mshcht-shynyym-bioline-d64o17
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1781449468516-kivhhc.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449468516-kivhhc.webp
 
 ### כדור דנטלי קטן 
-https://example.com/product/kdvr-dntly-ktn-0lrc9s
+https://gurimbakfar.zappy5.app/product/kdvr-dntly-ktn-0lrc9s
 - Price: 25.00 ILS
 - Availability: In stock
 - Category: צעצועים
-- Image: https://example.com/assets/product-enhanced-1781449689716-lx9h3d.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449689716-lx9h3d.webp
 
 ### ערכת צחצוח שיניים לכלבים בטעם בקר
-https://example.com/product/arkt-tschtsvch-shynyym-lklbym-btam-bkr-cx1jij
+https://gurimbakfar.zappy5.app/product/arkt-tschtsvch-shynyym-lklbym-btam-bkr-cx1jij
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1781449730108-hbmwky.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449730108-hbmwky.webp
 
 ### רולר דבק 60 דפים
-https://example.com/product/rvlr-dbk-60-dpym-26gesj
+https://gurimbakfar.zappy5.app/product/rvlr-dbk-60-dpym-26gesj
 - Price: 25.00 ILS
 - Availability: In stock
 - Category: בית
-- Image: https://example.com/assets/product-enhanced-1781449768881-uyzpov.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449768881-uyzpov.webp
 
 ### מברשת שיניים דו צדדי
-https://example.com/product/mbrsht-shynyym-dv-tsddy-k21ph9
+https://gurimbakfar.zappy5.app/product/mbrsht-shynyym-dv-tsddy-k21ph9
 - Price: 17.00 ILS
 - Availability: In stock
 - Category: מוצרי טיפוח
-- Image: https://example.com/assets/product-enhanced-1781449807302-moy51e.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449807302-moy51e.webp
 
 ### רצועות פלקסי
-https://example.com/product/rtsvavt-plksy-jnoo9p
+https://gurimbakfar.zappy5.app/product/rtsvavt-plksy-jnoo9p
 - Price: 30.00 ILS
 - Availability: In stock
 - Category: קולרים ורצועות
-- Image: https://example.com/assets/product-enhanced-1780898526650-2onagi.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1780898526650-2onagi.webp
 
 ### חגורת בטיחות לכלב Record
-https://example.com/product/chgvrt-btychvt-lklb-record-wx66xy
+https://gurimbakfar.zappy5.app/product/chgvrt-btychvt-lklb-record-wx66xy
 - Price: 35.00 ILS
 - Availability: In stock
 - Category: אביזרים
-- Image: https://example.com/assets/product-enhanced-1781449877512-tzjlul.webp
+- Image: https://gurimbakfar.zappy5.app/assets/product-enhanced-1781449877512-tzjlul.webp
 
 ---
 
@@ -1556,8 +1556,8 @@ A multi-service pet business focused on dogs, offering a pet supply store, a dog
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://gurimbakfar.zappy5.app/sitemap.xml
+- Robots: https://gurimbakfar.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://gurimbakfar.zappy5.app/llms-full.txt
+- Products (JSON): https://gurimbakfar.zappy5.app/products.json
+- Products (Google Merchant RSS): https://gurimbakfar.zappy5.app/product-feed.xml

@@ -2,13 +2,13 @@
 
 A multi-service pet business focused on dogs, offering a pet supply store, a dog boarding facility (kennel), and a dog breeding operation with puppies available for sale. The business caters to dog owners and dog lovers, combining retail, hospitality for pets, and breeding under one roof.
 
-Source: https://example.com
+Source: https://gurimbakfar.zappy5.app
 
 ---
 
 ## גורים בכפר - הכל לכלב שלך במקום אחד
 
-URL: https://example.com
+URL: https://gurimbakfar.zappy5.app
 Description: חנות ציוד וגורים לאימוץ — גורים בכפר הוא היעד המושלם לכל בעל כלב. בואו לגלות עולם שלם של אהבה לכלבים. הצטרפו אלינו עוד היום!
 
 גורים בכפר - הכל לכלב שלך במקום אחד
@@ -517,7 +517,7 @@ Description: חנות ציוד וגורים לאימוץ — גורים בכפר
 
 ## גורים בכפר - הכל לכלב שלך במקום אחד
 
-URL: https://example.com/our-cubs
+URL: https://gurimbakfar.zappy5.app/our-cubs
 Description: בית גידול כלבים למכירה עם גורים בריאים, מחוסנים ומלאי אהבה. גורים בכפר מגדל בסטנדרטים הגבוהים ביותר כדי שהגור הבא שלכם יגיע אליכם מוכן ומאושר.
 
 גורים בכפר - הכל לכלב שלך במקום אחד
@@ -1039,7 +1039,7 @@ Description: בית גידול כלבים למכירה עם גורים בריא�
 
 ## מוצרים
 
-URL: https://example.com/products
+URL: https://gurimbakfar.zappy5.app/products
 Description: המוצרים שלנו - גורים בכפר
 
 מוצרים - גורים בכפר
@@ -1483,7 +1483,7 @@ Description: המוצרים שלנו - גורים בכפר
 
 ## עגלת קניות
 
-URL: https://example.com/cart
+URL: https://gurimbakfar.zappy5.app/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - גורים בכפר
@@ -1769,7 +1769,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://example.com/checkout
+URL: https://gurimbakfar.zappy5.app/checkout
 Description: תשלום
 
 תשלום - גורים בכפר
@@ -2241,7 +2241,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://example.com/login
+URL: https://gurimbakfar.zappy5.app/login
 Description: התחברות לקוחות
 
 התחברות - גורים בכפר
@@ -2534,7 +2534,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://example.com/account
+URL: https://gurimbakfar.zappy5.app/account
 Description: החשבון שלי
 
 החשבון שלי - גורים בכפר
@@ -2982,7 +2982,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://example.com/order-success
+URL: https://gurimbakfar.zappy5.app/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - גורים בכפר
@@ -3292,7 +3292,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://example.com/return-policy
+URL: https://gurimbakfar.zappy5.app/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - גורים בכפר
@@ -3631,7 +3631,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://example.com/product/:slug
+URL: https://gurimbakfar.zappy5.app/product/:slug
 Description: פרטי המוצר - גורים בכפר
 
 פרטי המוצר - גורים בכפר
@@ -3919,7 +3919,7 @@ Description: פרטי המוצר - גורים בכפר
 
 ## מוצרים
 
-URL: https://example.com/category/:slug
+URL: https://gurimbakfar.zappy5.app/category/:slug
 Description: מוצרים - גורים בכפר
 
 מוצרים - גורים בכפר
@@ -4231,7 +4231,7 @@ Description: מוצרים - גורים בכפר
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://gurimbakfar.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4708,7 +4708,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://gurimbakfar.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5196,7 +5196,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://gurimbakfar.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5735,7 +5735,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## מדריך לטיפול בגור חדש
 
-URL: https://example.com/new-resident-guide
+URL: https://gurimbakfar.zappy5.app/new-resident-guide
 Description: גורים בכפר - מדריך לטיפול בגור חדש
 
 מדריך לגור החדש
@@ -6368,7 +6368,7 @@ Description: גורים בכפר - מדריך לטיפול בגור חדש
 
 ## דברו איתנו — אנחנו כאן בשבילכם — גורים בכפר
 
-URL: https://example.com/contact
+URL: https://gurimbakfar.zappy5.app/contact
 Description: יש לכם שאלה על פנסיון כלבים, גורים למכירה או ציוד לכלב? צרו קשר עם צוות גורים בכפר ונשמח לעזור לכם למצוא בדיוק את מה שהכלב שלכם צריך. מחכים לשמוע מכם!
 
 דברו איתנו — אנחנו כאן בשבילכם — גורים בכפר
@@ -6634,8 +6634,8 @@ gurimbakfar@gmail.com
 
 
 
-קראתי ואני מסכים/ה ל   תנאי השימוש  |
-מדיניות החזרות     ול     מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש  |
+מדיניות החזרות    ול    מדיניות הפרטיות
 
 
 
@@ -6804,7 +6804,7 @@ gurimbakfar@gmail.com
 
 ## מדיניות המשלוחים
 
-URL: https://example.com/shipping-policy
+URL: https://gurimbakfar.zappy5.app/shipping-policy
 Description: מדיניות המשלוחים שלנו - זמני אספקה, עלויות ותנאי משלוח
 
 מדיניות המשלוחים
@@ -7045,7 +7045,7 @@ Description: מדיניות המשלוחים שלנו - זמני אספקה, ע�
 ## Product Catalog
 
 ### חטיף נובלוס ברבקיו שוק עוף 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-6przv4
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-brbkyv-shvk-avp-80-gr-6przv4
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7054,7 +7054,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס ברבקיו טיבון בקר 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-04cb3x
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-brbkyv-tybvn-bkr-80-gr-04cb3x
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7063,7 +7063,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס ברבקיו צלעות כבש 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-c3oqz2
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-brbkyv-tslavt-kbsh-80-gr-c3oqz2
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7072,7 +7072,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס דנטלי מברשות 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-bqal75
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-dntly-mbrshvt-80-gr-bqal75
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7081,7 +7081,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס עטיפות של ארנב במקל קלציום 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-jclb48
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-atypvt-shl-arnb-bmkl-kltsyvm-80-gr-jclb48
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7090,7 +7090,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס סושי ארנב 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-svshy-arnb-80-gr-rqdvw4
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-svshy-arnb-80-gr-rqdvw4
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7099,7 +7099,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס פילה ארנב 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-pylh-arnb-80-gr-2jn8ww
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-pylh-arnb-80-gr-2jn8ww
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7108,7 +7108,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס פילה דג קוד 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-ue0c5k
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-pylh-dg-kvd-80-gr-ue0c5k
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7117,7 +7117,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס סושי סלמון 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-svshy-slmvn-80-gr-ny6xt0
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-svshy-slmvn-80-gr-ny6xt0
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7126,7 +7126,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס פילה סלמון 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-pylh-slmvn-80-gr-30zl7d
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-pylh-slmvn-80-gr-30zl7d
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7135,7 +7135,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס פילה סלמון 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-pylh-slmvn-80-gr-qdr7n7
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-pylh-slmvn-80-gr-qdr7n7
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7144,7 +7144,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס נקניקיות כבש 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-nknykyvt-kbsh-80-gr-bkfo5t
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-nknykyvt-kbsh-80-gr-bkfo5t
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7153,7 +7153,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס פילה כבש 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-pylh-kbsh-80-gr-0wy8gt
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-pylh-kbsh-80-gr-0wy8gt
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7162,7 +7162,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס קוביות כבש אילוף 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-kvbyvt-kbsh-aylvp-80-gr-4u1ehe
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-kvbyvt-kbsh-aylvp-80-gr-4u1ehe
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7171,7 +7171,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס מקלות כבש 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-mklvt-kbsh-80-gr-ea5fob
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-mklvt-kbsh-80-gr-ea5fob
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7180,7 +7180,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס מקלות בקר ואורז 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-sw4el4
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-mklvt-bkr-vavrz-80-gr-sw4el4
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7189,7 +7189,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס סושי בקר
-URL: https://example.com/product/chtyp-nvblvs-svshy-bkr-1m4mq5
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-svshy-bkr-1m4mq5
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7198,7 +7198,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס נקניקיות ברווז 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-htoyfn
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-nknykyvt-brvvz-80-gr-htoyfn
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7207,7 +7207,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס מקל ברווז ואורז 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-qyh3w2
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-mkl-brvvz-vavrz-80-gr-qyh3w2
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7216,7 +7216,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס ברווז ודג קוד 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-08rwxp
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-brvvz-vdg-kvd-80-gr-08rwxp
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7225,7 +7225,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס ברווז סושי 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-brvvz-svshy-80-gr-7llw8h
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-brvvz-svshy-80-gr-7llw8h
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7234,7 +7234,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס רצועות ברווז רך 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-rtsvavt-brvvz-rk-80-gr-pqjma1
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-rtsvavt-brvvz-rk-80-gr-pqjma1
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7243,7 +7243,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס נגיסי ברווז 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-ngysy-brvvz-80-gr-nt62md
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-ngysy-brvvz-80-gr-nt62md
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7252,7 +7252,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס ברווז פילה רך 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-brvvz-pylh-rk-80-gr-2roy2p
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-brvvz-pylh-rk-80-gr-2roy2p
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7261,7 +7261,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס עוף קלציום 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-avp-kltsyvm-80-gr-554f5u
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-avp-kltsyvm-80-gr-554f5u
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7270,7 +7270,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס רצועות עוף רכות 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-rtsvavt-avp-rkvt-80-gr-j5zegw
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-rtsvavt-avp-rkvt-80-gr-j5zegw
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7279,7 +7279,7 @@ Availability: In stock
 ---
 
 ### חטיף נובלוס סושי עוף 80 גר'
-URL: https://example.com/product/chtyp-nvblvs-svshy-avp-80-gr-sx1myq
+URL: https://gurimbakfar.zappy5.app/product/chtyp-nvblvs-svshy-avp-80-gr-sx1myq
 Price: 12.50 ILS
 Availability: In stock
 
@@ -7288,35 +7288,35 @@ Availability: In stock
 ---
 
 ### מתקן מים/אוכל אוטומטי עם קערת נירוסטה
-URL: https://example.com/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-p6x15w
+URL: https://gurimbakfar.zappy5.app/product/mtkn-mymavkl-avtvmty-am-kart-nyrvsth-p6x15w
 Price: 110.00 ILS
 Availability: In stock
 
 ---
 
 ### מתקן מים אוטומטי
-URL: https://example.com/product/mtkn-mym-avtvmty-1iaijw
+URL: https://gurimbakfar.zappy5.app/product/mtkn-mym-avtvmty-1iaijw
 Price: 65.00 ILS
 Availability: In stock
 
 ---
 
 ### טריפל קראון לכלב בוגר גורמה כבש
-URL: https://example.com/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-0shq34
+URL: https://gurimbakfar.zappy5.app/product/trypl-kravn-lklb-bvgr-gvrmh-kbsh-0shq34
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### טריפל קראון לכלב בוגר גזע גדול עוף 14 ק"ג
-URL: https://example.com/product/trypl-kravn-lklb-bvgr-gza-gdvl-avp-14-kg-gmdwfg
+URL: https://gurimbakfar.zappy5.app/product/trypl-kravn-lklb-bvgr-gza-gdvl-avp-14-kg-gmdwfg
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### טריפל קראון לכלב פעיל 14 ק"ג
-URL: https://example.com/product/trypl-kravn-lklb-payl-14-kg-ddcs8w
+URL: https://gurimbakfar.zappy5.app/product/trypl-kravn-lklb-payl-14-kg-ddcs8w
 Price: 0.00 ILS
 Availability: In stock
 Brand: טריפל קראון
@@ -7324,7 +7324,7 @@ Brand: טריפל קראון
 ---
 
 ### סטיספקשן כבש
-URL: https://example.com/product/styspkshn-kbsh-c5kliz
+URL: https://gurimbakfar.zappy5.app/product/styspkshn-kbsh-c5kliz
 Price: 0.00 ILS
 Availability: In stock
 
@@ -7333,14 +7333,14 @@ Availability: In stock
 ---
 
 ### Brande מזון מלא לכלבים בוגרים
-URL: https://example.com/product/brande-mzvn-mla-lklbym-bvgrym-e95uog
+URL: https://gurimbakfar.zappy5.app/product/brande-mzvn-mla-lklbym-bvgrym-e95uog
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בוש לגורים מגזע גדול עוף
-URL: https://example.com/product/bvsh-lgvrym-mgza-gdvl-avp-m46wke
+URL: https://gurimbakfar.zappy5.app/product/bvsh-lgvrym-mgza-gdvl-avp-m46wke
 Price: 0.00 ILS
 Availability: In stock
 
@@ -7349,7 +7349,7 @@ Availability: In stock
 ---
 
 ### טריפל קראון סלמון היפואלרגני
-URL: https://example.com/product/trypl-kravn-slmvn-hypvalrgny-micau9
+URL: https://gurimbakfar.zappy5.app/product/trypl-kravn-slmvn-hypvalrgny-micau9
 Price: 0.00 ILS
 Availability: In stock
 
@@ -7358,112 +7358,112 @@ Availability: In stock
 ---
 
 ### טריפל קראון לכלב בוגר עוף
-URL: https://example.com/product/trypl-kravn-lklb-bvgr-avp-w6qiuk
+URL: https://gurimbakfar.zappy5.app/product/trypl-kravn-lklb-bvgr-avp-w6qiuk
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### רתמת Quick fit xxs
-URL: https://example.com/product/rtmt-quick-fit-xxs-nxv9xl
+URL: https://gurimbakfar.zappy5.app/product/rtmt-quick-fit-xxs-nxv9xl
 Price: 53.00 ILS
 Availability: In stock
 
 ---
 
 ### רצועה בייסיק 15 ממ - מידה S
-URL: https://example.com/product/rtsvah-byysyk-15-mm-mydh-s-hkzokq
+URL: https://gurimbakfar.zappy5.app/product/rtsvah-byysyk-15-mm-mydh-s-hkzokq
 Price: 32.00 ILS
 Availability: In stock
 
 ---
 
 ### רצועה בייסיק 10 ממ - מידה XS
-URL: https://example.com/product/rtsvah-byysyk-10-mm-mydh-xs-0ia52r
+URL: https://gurimbakfar.zappy5.app/product/rtsvah-byysyk-10-mm-mydh-xs-0ia52r
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### רצועה בד צבעוני 20 ממ - מידה M
-URL: https://example.com/product/rtsvah-bd-tsbavny-20-mm-mydh-m-xekwkf
+URL: https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-20-mm-mydh-m-xekwkf
 Price: 32.00 ILS
 Availability: In stock
 
 ---
 
 ### רצועה בד צבעוני 10 ממ - מידה XS
-URL: https://example.com/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0
+URL: https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### רצועה בד צבעוני 15 ממ - מידה S
-URL: https://example.com/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e
+URL: https://gurimbakfar.zappy5.app/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e
 Price: 32.00 ILS
 Availability: In stock
 
 ---
 
 ### Pets Project קולר בייסיק לכלב במגוון מידות
-URL: https://example.com/product/pets-project-kvlr-byysyk-lklb-bmgvvn-mydvt-k0kpfl
+URL: https://gurimbakfar.zappy5.app/product/pets-project-kvlr-byysyk-lklb-bmgvvn-mydvt-k0kpfl
 Price: 18.00 ILS
 Availability: In stock
 
 ---
 
 ### סט רתמה ורצועה לכלב גדול צבעוני מעויינים
-URL: https://example.com/product/st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-2nry5q
+URL: https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-gdvl-tsbavny-mavyynym-2nry5q
 Price: 70.00 ILS
 Availability: In stock
 
 ---
 
 ### סט רתמה ורצועה לכלב גדול GD
-URL: https://example.com/product/st-rtmh-vrtsvah-lklb-gdvl-gd-wfny7b
+URL: https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-gdvl-gd-wfny7b
 Price: 85.00 ILS
 Availability: In stock
 
 ---
 
 ### סט רתמה ורצועה לכלב קטן/ בינוני צבע סגול
-URL: https://example.com/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-sgvl-qm267w
+URL: https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-sgvl-qm267w
 Price: 59.00 ILS
 Availability: In stock
 
 ---
 
 ### סט רתמה ורצועה לכלב קטן/ בינוני צבע טורקיז
-URL: https://example.com/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-tvrkyz-f65g44
+URL: https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-tvrkyz-f65g44
 Price: 59.00 ILS
 Availability: In stock
 
 ---
 
 ### סט רתמה ורצועה לכלב קטן/ בינוני צבע כתום
-URL: https://example.com/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-ktvm-wi4662
+URL: https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-ktvm-wi4662
 Price: 59.00 ILS
 Availability: In stock
 
 ---
 
 ### סט רתמה ורצועה לכלב קטן/ בינוני צבע אדום
-URL: https://example.com/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-advm-rxnoau
+URL: https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-advm-rxnoau
 Price: 59.00 ILS
 Availability: In stock
 
 ---
 
 ### סט רתמה ורצועה לכלב קטן / בינוני צבע חום
-URL: https://example.com/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-chvm-rinog6
+URL: https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-chvm-rinog6
 Price: 59.00 ILS
 Availability: In stock
 
 ---
 
 ### מזון כלבים Bitesy בוגר ברווז אורז ובטטה 12 ק"ג
-URL: https://example.com/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-zatepw
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-bitesy-bvgr-brvvz-avrz-vbtth-12-kg-zatepw
 Price: 309.00 ILS
 Availability: In stock
 Brand: bitesy
@@ -7473,7 +7473,7 @@ Brand: bitesy
 ---
 
 ### מזון כלבים Bitesy גורים סלמון 12 ק"ג
-URL: https://example.com/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf
 Price: 309.00 ILS
 Availability: In stock
 
@@ -7482,7 +7482,7 @@ Availability: In stock
 ---
 
 ### סמס פילד/Sam's Field בוגרים גזע קטן עוף 8 ק"ג
-URL: https://example.com/product/sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-wuntm2
+URL: https://gurimbakfar.zappy5.app/product/sms-pyldsams-field-bvgrym-gza-ktn-avp-8-kg-wuntm2
 Price: 200.00 ILS
 Availability: In stock
 Brand: סם פילד
@@ -7492,14 +7492,14 @@ Brand: סם פילד
 ---
 
 ### סמס פילד/Sam's Field בוגר כבש 13 ק"ג
-URL: https://example.com/product/sms-pyldsams-field-bvgr-kbsh-13-kg-xzepqv
+URL: https://gurimbakfar.zappy5.app/product/sms-pyldsams-field-bvgr-kbsh-13-kg-xzepqv
 Price: 299.00 ILS
 Availability: In stock
 
 ---
 
 ### סמס פילד/Sam's Field סניור לייט 13 ק"ג
-URL: https://example.com/product/sms-pyldsams-field-snyvr-lyyt-13-kg-19wjj8
+URL: https://gurimbakfar.zappy5.app/product/sms-pyldsams-field-snyvr-lyyt-13-kg-19wjj8
 Price: 299.00 ILS
 Availability: In stock
 Brand: סמס פילד
@@ -7507,7 +7507,7 @@ Brand: סמס פילד
 ---
 
 ### אדיקשן כבש כלב בוגר 15 ק"ג
-URL: https://example.com/product/adykshn-kbsh-klb-bvgr-15-kg-j2gjwb
+URL: https://gurimbakfar.zappy5.app/product/adykshn-kbsh-klb-bvgr-15-kg-j2gjwb
 Price: 299.00 ILS
 Availability: In stock
 Brand: אדיקשן
@@ -7517,7 +7517,7 @@ Brand: אדיקשן
 ---
 
 ### מיטה LAXURY לכלב ולחתול
-URL: https://example.com/product/myth-laxury-lklb-vlchtvl-eqse1f
+URL: https://gurimbakfar.zappy5.app/product/myth-laxury-lklb-vlchtvl-eqse1f
 Price: 379.00 ILS
 Availability: In stock
 
@@ -7526,7 +7526,7 @@ Availability: In stock
 ---
 
 ### אדיקשן גור 15 ק"ג
-URL: https://example.com/product/adykshn-gvr-15-kg-l3ysjz
+URL: https://gurimbakfar.zappy5.app/product/adykshn-gvr-15-kg-l3ysjz
 Price: 299.00 ILS
 Availability: In stock
 Brand: אדיקשן
@@ -7536,7 +7536,7 @@ Brand: אדיקשן
 ---
 
 ### אדיקשן סלמון כלב בוגר 15 ק"ג
-URL: https://example.com/product/adykshn-slmvn-klb-bvgr-15-kg-8r43ic
+URL: https://gurimbakfar.zappy5.app/product/adykshn-slmvn-klb-bvgr-15-kg-8r43ic
 Price: 309.00 ILS
 Availability: In stock
 
@@ -7545,56 +7545,56 @@ Availability: In stock
 ---
 
 ### חטיף רצועות אצות ים M/L
-URL: https://example.com/product/chtyp-rtsvavt-atsvt-ym-ml-pxnl9q
+URL: https://gurimbakfar.zappy5.app/product/chtyp-rtsvavt-atsvt-ym-ml-pxnl9q
 Price: 16.90 ILS
 Availability: In stock
 
 ---
 
 ### חטיף רצועות אצות ים S/M
-URL: https://example.com/product/chtyp-rtsvavt-atsvt-ym-sm-78epuv
+URL: https://gurimbakfar.zappy5.app/product/chtyp-rtsvavt-atsvt-ym-sm-78epuv
 Price: 16.90 ILS
 Availability: In stock
 
 ---
 
 ### חטיף מקל אצות ים M/L
-URL: https://example.com/product/chtyp-mkl-atsvt-ym-ml-jf7s2s
+URL: https://gurimbakfar.zappy5.app/product/chtyp-mkl-atsvt-ym-ml-jf7s2s
 Price: 16.90 ILS
 Availability: In stock
 
 ---
 
 ### צעצוע פעילות אינטראקטיבי TIROTTO לכלבים
-URL: https://example.com/product/tsatsva-paylvt-ayntraktyby-tirotto-lklbym-rvdprt
+URL: https://gurimbakfar.zappy5.app/product/tsatsva-paylvt-ayntraktyby-tirotto-lklbym-rvdprt
 Price: 59.00 ILS
 Availability: In stock
 
 ---
 
 ### חטיף מקל אצות ים S/M
-URL: https://example.com/product/chtyp-mkl-atsvt-ym-sm-je15dh
+URL: https://gurimbakfar.zappy5.app/product/chtyp-mkl-atsvt-ym-sm-je15dh
 Price: 16.90 ILS
 Availability: In stock
 
 ---
 
 ### צעצוע לעיסה Masticosso להיגיינת השיניים לכלבים
-URL: https://example.com/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-agdj25
+URL: https://gurimbakfar.zappy5.app/product/tsatsva-laysh-masticosso-lhygyynt-hshynyym-lklbym-agdj25
 Price: 29.00 ILS
 Availability: In stock
 
 ---
 
 ### מעמד מוגבה לקערות אוכל ושתייה לכלבים
-URL: https://example.com/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-5dem3v
+URL: https://gurimbakfar.zappy5.app/product/mamd-mvgbh-lkarvt-avkl-vshtyyh-lklbym-5dem3v
 Price: 115.00 ILS
 Availability: In stock
 
 ---
 
 ### מזון כלבים רטוב איסגרים ארוחת ברווז ולבבות עוף לכלב 410 גרם
-URL: https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-6mu7fy
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-6mu7fy
 Price: 19.90 ILS
 Availability: In stock
 
@@ -7603,14 +7603,14 @@ Isegrim Roots מספקת את התזונה המקורית של האב הקדמו
 ---
 
 ### מזון כלבים רטוב איסגרים ארוחת אייל וציד לכלב 410 גרם
-URL: https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-c933sf
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-ayyl-vtsyd-lklb-410-grm-c933sf
 Price: 19.90 ILS
 Availability: In stock
 
 ---
 
 ### מזון כלבים רטוב איסגרים ארוחת הודו לכלב 410 גרם
-URL: https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-gkm428
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-gkm428
 Price: 19.90 ILS
 Availability: In stock
 
@@ -7619,7 +7619,7 @@ Isegrim Roots מספקת את התזונה המקורית של האב הקדמו
 ---
 
 ### מזון כלבים רטוב איסגרים ארוחת סלמון ופורל לכלב 410 גרם
-URL: https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-pdkox0
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-pdkox0
 Price: 19.90 ILS
 Availability: In stock
 
@@ -7628,7 +7628,7 @@ Isegrim Roots מספקת את התזונה המקורית של האב הקדמו
 ---
 
 ### מזון כלבים רטוב איסגרים ארוחת חזיר בר לכלב 410 גרם
-URL: https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-chzyr-br-lklb-410-grm-s493zh
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-chzyr-br-lklb-410-grm-s493zh
 Price: 19.90 ILS
 Availability: In stock
 
@@ -7637,7 +7637,7 @@ Isegrim Roots מספקת את התזונה המקורית של האב הקדמו
 ---
 
 ### סמס פילד/Sam's Field סלומון ותפוח אדמה 13 ק"ג
-URL: https://example.com/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-sakpwn
+URL: https://gurimbakfar.zappy5.app/product/sms-pyldsams-field-slvmvn-vtpvch-admh-13-kg-sakpwn
 Price: 299.00 ILS
 Availability: In stock
 
@@ -7646,7 +7646,7 @@ Availability: In stock
 ---
 
 ### חבל דנטלי 4 קשרים
-URL: https://example.com/product/chbl-dntly-4-kshrym-a173qr
+URL: https://gurimbakfar.zappy5.app/product/chbl-dntly-4-kshrym-a173qr
 Price: 37.00 ILS
 Availability: In stock
 
@@ -7655,7 +7655,7 @@ Availability: In stock
 ---
 
 ### קערת האכלה איטית 
-URL: https://example.com/product/kart-haklh-aytyt-b7084j
+URL: https://gurimbakfar.zappy5.app/product/kart-haklh-aytyt-b7084j
 Price: 40.00 ILS
 Availability: In stock
 
@@ -7664,14 +7664,14 @@ Availability: In stock
 ---
 
 ### קופסה לאחסון למזון
-URL: https://example.com/product/kvpsh-lachsvn-lmzvn-oghxsu
+URL: https://gurimbakfar.zappy5.app/product/kvpsh-lachsvn-lmzvn-oghxsu
 Price: 130.00 ILS
 Availability: In stock
 
 ---
 
 ### קערות מים/אוכל נירוסטה 
-URL: https://example.com/product/karvt-mymavkl-nyrvsth-lwwkou
+URL: https://gurimbakfar.zappy5.app/product/karvt-mymavkl-nyrvsth-lwwkou
 Price: 59.00 ILS
 Availability: In stock
 
@@ -7680,21 +7680,21 @@ Availability: In stock
 ---
 
 ### דלי מים נירוסטה 7 ליטר
-URL: https://example.com/product/dly-mym-nyrvsth-7-lytr-m51gqr
+URL: https://gurimbakfar.zappy5.app/product/dly-mym-nyrvsth-7-lytr-m51gqr
 Price: 79.00 ILS
 Availability: In stock
 
 ---
 
 ### סט רתמה ורצועה לכלב קטן בינוני אדום
-URL: https://example.com/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-advm-s1yspk
+URL: https://gurimbakfar.zappy5.app/product/st-rtmh-vrtsvah-lklb-ktn-bynvny-advm-s1yspk
 Price: 59.00 ILS
 Availability: In stock
 
 ---
 
 ### מזון כלבים רטוב איסגרים ארוחת הודו ובקר לגור כלב 410 גרם
-URL: https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-uof84d
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-vbkr-lgvr-klb-410-grm-uof84d
 Price: 19.90 ILS
 Availability: In stock
 
@@ -7703,7 +7703,7 @@ Availability: In stock
 ---
 
 ### מזון כלבים רטוב אלפא דוג פטה עוף - 375 גרם
-URL: https://example.com/product/mzvn-klbym-rtvb-alpa-dvg-pth-avp-375-grm-o60qjb
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-alpa-dvg-pth-avp-375-grm-o60qjb
 Price: 6.50 ILS
 Availability: In stock
 
@@ -7712,7 +7712,7 @@ Availability: In stock
 ---
 
 ### מזון כלבים רטוב אלפא דוג פטה בקר - 375 גרם
-URL: https://example.com/product/mzvn-klbym-rtvb-alpa-dvg-pth-bkr-375-grm-ujal9u
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-alpa-dvg-pth-bkr-375-grm-ujal9u
 Price: 6.50 ILS
 Availability: In stock
 
@@ -7721,7 +7721,7 @@ Availability: In stock
 ---
 
 ### מזון כלבים רטוב אלפא דוג פטה טלה - 375 גרם
-URL: https://example.com/product/mzvn-klbym-rtvb-alpa-dvg-pth-tlh-375-grm-gzzl5q
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-alpa-dvg-pth-tlh-375-grm-gzzl5q
 Price: 6.50 ILS
 Availability: In stock
 
@@ -7730,7 +7730,7 @@ Availability: In stock
 ---
 
 ### שימורי פרנדי 70% בשר בקר 400 ג"ר
-URL: https://example.com/product/shymvry-prndy-70-bshr-bkr-400-gr-96f100
+URL: https://gurimbakfar.zappy5.app/product/shymvry-prndy-70-bshr-bkr-400-gr-96f100
 Price: 6.50 ILS
 Availability: In stock
 
@@ -7739,7 +7739,7 @@ Availability: In stock
 ---
 
 ### מזון כלבים רטוב נואבו סניור כבש ובקר עם פתיתי שיבולת שועל 400 ג"ר
-URL: https://example.com/product/mzvn-klbym-rtvb-nvabv-snyvr-kbsh-vbkr-am-ptyty-shybvlt-shval-400-gr-nigq9d
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-nvabv-snyvr-kbsh-vbkr-am-ptyty-shybvlt-shval-400-gr-nigq9d
 Price: 15.00 ILS
 Availability: In stock
 
@@ -7748,7 +7748,7 @@ Availability: In stock
 ---
 
 ### מזון כלבים רטוב נואבו בשר צבי עם אטריות ופירות יער 400 ג"ר
-URL: https://example.com/product/mzvn-klbym-rtvb-nvabv-bshr-tsby-am-atryvt-vpyrvt-yar-400-gr-jhpo4v
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-nvabv-bshr-tsby-am-atryvt-vpyrvt-yar-400-gr-jhpo4v
 Price: 15.00 ILS
 Availability: In stock
 
@@ -7757,7 +7757,7 @@ Availability: In stock
 ---
 
 ### מזון כלבים רטוב נואבו כבש ותפוח אדמה 400 ג"ר
-URL: https://example.com/product/mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-odtehg
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-nvabv-kbsh-vtpvch-admh-400-gr-odtehg
 Price: 15.00 ILS
 Availability: In stock
 
@@ -7766,7 +7766,7 @@ Availability: In stock
 ---
 
 ### מזון כלבים רטוב נואבו בקר 400 ג"ר
-URL: https://example.com/product/mzvn-klbym-rtvb-nvabv-bkr-400-gr-e0rw2t
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-nvabv-bkr-400-gr-e0rw2t
 Price: 15.00 ILS
 Availability: In stock
 
@@ -7775,7 +7775,7 @@ Availability: In stock
 ---
 
 ### מזון כלבים רטוב נואבו גורים עוף ובקר עם אורז + סידן 400 ג"ר
-URL: https://example.com/product/mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-400-gr-svlgci
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-nvabv-gvrym-avp-vbkr-am-avrz-sydn-400-gr-svlgci
 Price: 15.00 ILS
 Availability: In stock
 
@@ -7784,7 +7784,7 @@ Availability: In stock
 ---
 
 ### מזון כלבים רטוב נואבו עוף 400 ג"ר
-URL: https://example.com/product/mzvn-klbym-rtvb-nvabv-avp-400-gr-kvkf9f
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-nvabv-avp-400-gr-kvkf9f
 Price: 15.00 ILS
 Availability: In stock
 
@@ -7793,7 +7793,7 @@ Availability: In stock
 ---
 
 ### אדיקשן בוגר כבש (קיבה רגישה) 15 ק”ג
-URL: https://example.com/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-sellpm
+URL: https://gurimbakfar.zappy5.app/product/adykshn-bvgr-kbsh-kybh-rgyshh-15-kg-sellpm
 Price: 290.00 ILS
 Availability: In stock
 
@@ -7802,217 +7802,217 @@ Availability: In stock
 ---
 
 ### תרסיס מרכך ללא שטיפה מיועד לעידוד צמיחת פרווה TAURO
-URL: https://example.com/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-b2adp3
+URL: https://gurimbakfar.zappy5.app/product/trsys-mrkk-lla-shtyph-myvad-laydvd-tsmycht-prvvh-tauro-b2adp3
 Price: 95.00 ILS
 Availability: In stock
 
 ---
 
 ### תרסיס מרכך ללא שטיפה לשיקום וצמיחה של הפרווה TAURO
-URL: https://example.com/product/trsys-mrkk-lla-shtyph-lshykvm-vtsmychh-shl-hprvvh-tauro-6rfitj
+URL: https://gurimbakfar.zappy5.app/product/trsys-mrkk-lla-shtyph-lshykvm-vtsmychh-shl-hprvvh-tauro-6rfitj
 Price: 125.00 ILS
 Availability: In stock
 
 ---
 
 ### שרשרת מפצלת ל2 כלבים 50 ס"מ
-URL: https://example.com/product/shrshrt-mptslt-l2-klbym-50-sm-jqqo58
+URL: https://gurimbakfar.zappy5.app/product/shrshrt-mptslt-l2-klbym-50-sm-jqqo58
 Price: 60.00 ILS
 Availability: In stock
 
 ---
 
 ### קולר קוצים לאילוף - 50 ס"מ עובי 3 מ"מ
-URL: https://example.com/product/kvlr-kvtsym-laylvp-50-sm-avby-3-mm-451t09
+URL: https://gurimbakfar.zappy5.app/product/kvlr-kvtsym-laylvp-50-sm-avby-3-mm-451t09
 Price: 50.00 ILS
 Availability: In stock
 
 ---
 
 ### שרשרת קוצים לאילוף - ניקל- 60 ס"מ עובי 4 מ"מ
-URL: https://example.com/product/shrshrt-kvtsym-laylvp-nykl-60-sm-avby-4-mm-rtcdsd
+URL: https://gurimbakfar.zappy5.app/product/shrshrt-kvtsym-laylvp-nykl-60-sm-avby-4-mm-rtcdsd
 Price: 55.00 ILS
 Availability: In stock
 
 ---
 
 ### שרשרת קוצים לאילוף - שחור- 50 ס"מ , עובי 4 מ"מ
-URL: https://example.com/product/shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-zazbrb
+URL: https://gurimbakfar.zappy5.app/product/shrshrt-kvtsym-laylvp-shchvr-50-sm-avby-4-mm-zazbrb
 Price: 55.00 ILS
 Availability: In stock
 
 ---
 
 ### שרשרת אילוף 55 ס"מ עובי 2.5 מ"מ
-URL: https://example.com/product/shrshrt-aylvp-55-sm-avby-25-mm-l5tx2t
+URL: https://gurimbakfar.zappy5.app/product/shrshrt-aylvp-55-sm-avby-25-mm-l5tx2t
 Price: 65.00 ILS
 Availability: In stock
 
 ---
 
 ### שרשרת אילוף 65 ס"מ עובי 3.5 מ"מ
-URL: https://example.com/product/shrshrt-aylvp-65-sm-avby-35-mm-vzf1th
+URL: https://gurimbakfar.zappy5.app/product/shrshrt-aylvp-65-sm-avby-35-mm-vzf1th
 Price: 75.00 ILS
 Availability: In stock
 
 ---
 
 ### שרשרת אילוף 60 ס"מ עובי 3 מ"מ 
-URL: https://example.com/product/shrshrt-aylvp-60-sm-avby-3-mm-0ld6q9
+URL: https://gurimbakfar.zappy5.app/product/shrshrt-aylvp-60-sm-avby-3-mm-0ld6q9
 Price: 75.00 ILS
 Availability: In stock
 
 ---
 
 ### רצועה 125*20 ס"מ צבע בז'-חום
-URL: https://example.com/product/rtsvah-12520-sm-tsba-bz-chvm-k3vq58
+URL: https://gurimbakfar.zappy5.app/product/rtsvah-12520-sm-tsba-bz-chvm-k3vq58
 Price: 25.00 ILS
 Availability: In stock
 
 ---
 
 ### כבל קשירה לכלב עם קפיץ petsproject עובי 5 מ"מ , אורך 3 מטר
-URL: https://example.com/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-3-mtr-3ae80s
+URL: https://gurimbakfar.zappy5.app/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-3-mtr-3ae80s
 Price: 55.00 ILS
 Availability: In stock
 
 ---
 
 ### כבל קשירה לכלב petsproject עובי 5 ממ אורך 9 מטר
-URL: https://example.com/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-mtr-3bufdb
+URL: https://gurimbakfar.zappy5.app/product/kbl-kshyrh-lklb-petsproject-avby-5-mm-avrk-9-mtr-3bufdb
 Price: 75.00 ILS
 Availability: In stock
 
 ---
 
 ### כבל קשירה לכלב עם קפיץ petsproject עובי 5 מ"מ , אורך 4.5 מטר
-URL: https://example.com/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-45-mtr-hc7hm6
+URL: https://gurimbakfar.zappy5.app/product/kbl-kshyrh-lklb-am-kpyts-petsproject-avby-5-mm-avrk-45-mtr-hc7hm6
 Price: 65.00 ILS
 Availability: In stock
 
 ---
 
 ### חטיף סייבר דוג לכלב בטעם ברווז
-URL: https://example.com/product/chtyp-syybr-dvg-lklb-btam-brvvz-yx6hxh
+URL: https://gurimbakfar.zappy5.app/product/chtyp-syybr-dvg-lklb-btam-brvvz-yx6hxh
 Price: 8.00 ILS
 Availability: In stock
 
 ---
 
 ### חטיף סייבר דוג לכלב בטעם סלמון
-URL: https://example.com/product/chtyp-syybr-dvg-lklb-btam-slmvn-6sr4y9
+URL: https://gurimbakfar.zappy5.app/product/chtyp-syybr-dvg-lklb-btam-slmvn-6sr4y9
 Price: 8.00 ILS
 Availability: In stock
 
 ---
 
 ### חטיף סייבר דוג לכלב בטעם ארנבת
-URL: https://example.com/product/chtyp-syybr-dvg-lklb-btam-arnbt-x3nacr
+URL: https://gurimbakfar.zappy5.app/product/chtyp-syybr-dvg-lklb-btam-arnbt-x3nacr
 Price: 8.00 ILS
 Availability: In stock
 
 ---
 
 ### סט קולר+רצועה הדפסים שונים L (קולר 63*38 ס"מ - רצועה 150*25 ס"מ)
-URL: https://example.com/product/st-kvlrrtsvah-hdpsym-shvnym-l-kvlr-6338-sm-rtsvah-15025-sm-p8wmsa
+URL: https://gurimbakfar.zappy5.app/product/st-kvlrrtsvah-hdpsym-shvnym-l-kvlr-6338-sm-rtsvah-15025-sm-p8wmsa
 Price: 60.00 ILS
 Availability: In stock
 
 ---
 
 ### סט קולר+רצועה הדפסים שונים M (קולר 42*27 ס"מ - רצועה 150*20 ס"מ)
-URL: https://example.com/product/st-kvlrrtsvah-hdpsym-shvnym-m-kvlr-4227-sm-rtsvah-15020-sm-d4epyy
+URL: https://gurimbakfar.zappy5.app/product/st-kvlrrtsvah-hdpsym-shvnym-m-kvlr-4227-sm-rtsvah-15020-sm-d4epyy
 Price: 60.00 ILS
 Availability: In stock
 
 ---
 
 ### סט קולר+פעמון+רצועה 120*10 ס"מ טורקיז, ירוק זוהר, צהוב, סגול
-URL: https://example.com/product/st-kvlrpamvnrtsvah-12010-sm-tvrkyz-yrvk-zvhr-tshvb-sgvl-viy3bu
+URL: https://gurimbakfar.zappy5.app/product/st-kvlrpamvnrtsvah-12010-sm-tvrkyz-yrvk-zvhr-tshvb-sgvl-viy3bu
 Price: 20.00 ILS
 Availability: In stock
 
 ---
 
 ### רצועה ניילון פרידוג מידה M
-URL: https://example.com/product/rtsvah-nyylvn-prydvg-mydh-m-nj1ujy
+URL: https://gurimbakfar.zappy5.app/product/rtsvah-nyylvn-prydvg-mydh-m-nj1ujy
 Price: 33.00 ILS
 Availability: In stock
 
 ---
 
 ### רצועה ניילון פרידוג S15*120 בורדו
-URL: https://example.com/product/rtsvah-nyylvn-prydvg-s15120-bvrdv-tvskj1
+URL: https://gurimbakfar.zappy5.app/product/rtsvah-nyylvn-prydvg-s15120-bvrdv-tvskj1
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### רצועה ניילון פרידוג XS 10*120 ורוד, שחור, כחול, ירוק, אדום
-URL: https://example.com/product/rtsvah-nyylvn-prydvg-xs-10120-vrvd-shchvr-kchvl-yrvk-advm-unwzuu
+URL: https://gurimbakfar.zappy5.app/product/rtsvah-nyylvn-prydvg-xs-10120-vrvd-shchvr-kchvl-yrvk-advm-unwzuu
 Price: 20.00 ILS
 Availability: In stock
 
 ---
 
 ### גדר אילוף לכלבים
-URL: https://example.com/product/gdr-aylvp-lklbym-l1aeyn
+URL: https://gurimbakfar.zappy5.app/product/gdr-aylvp-lklbym-l1aeyn
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### כלוב אילוף לכלבים
-URL: https://example.com/product/klvb-aylvp-lklbym-0j2i5x
+URL: https://gurimbakfar.zappy5.app/product/klvb-aylvp-lklbym-0j2i5x
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### הנריס חמאת בוטנים טבעית
-URL: https://example.com/product/hnrys-chmat-bvtnym-tbayt-yh6a9h
+URL: https://gurimbakfar.zappy5.app/product/hnrys-chmat-bvtnym-tbayt-yh6a9h
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### פדים לאימון גורים 50 יח'
-URL: https://example.com/product/pdym-laymvn-gvrym-50-ych-vlukys
+URL: https://gurimbakfar.zappy5.app/product/pdym-laymvn-gvrym-50-ych-vlukys
 Price: 50.00 ILS
 Availability: In stock
 
 ---
 
 ### פדים לאימון גורים 100 יח'
-URL: https://example.com/product/pdym-laymvn-gvrym-100-ych-13o7el
+URL: https://gurimbakfar.zappy5.app/product/pdym-laymvn-gvrym-100-ych-13o7el
 Price: 100.00 ILS
 Availability: In stock
 
 ---
 
 ### פדים לאימון גורים עם פחם פעיל 30 יח'
-URL: https://example.com/product/pdym-laymvn-gvrym-am-pchm-payl-30-ych-o4ysvk
+URL: https://gurimbakfar.zappy5.app/product/pdym-laymvn-gvrym-am-pchm-payl-30-ych-o4ysvk
 Price: 40.00 ILS
 Availability: In stock
 
 ---
 
 ### קרן אייל אדום 75-150 גר' M
-URL: https://example.com/product/krn-ayyl-advm-75-150-gr-m-tajljj
+URL: https://gurimbakfar.zappy5.app/product/krn-ayyl-advm-75-150-gr-m-tajljj
 Price: 65.00 ILS
 Availability: In stock
 
 ---
 
 ### קרן אייל אדום 50-75 גר' S
-URL: https://example.com/product/krn-ayyl-advm-50-75-gr-s-iwvv9k
+URL: https://gurimbakfar.zappy5.app/product/krn-ayyl-advm-50-75-gr-s-iwvv9k
 Price: 45.00 ILS
 Availability: In stock
 
 ---
 
 ### שימורי פרנדי 70% בשר עגל 400 ג"ר
-URL: https://example.com/product/shymvry-prndy-70-bshr-agl-400-gr-omk02z
+URL: https://gurimbakfar.zappy5.app/product/shymvry-prndy-70-bshr-agl-400-gr-omk02z
 Price: 6.50 ILS
 Availability: In stock
 
@@ -8021,7 +8021,7 @@ Availability: In stock
 ---
 
 ### שימורי פרנדי 70% בשר עוף 400 ג"ר
-URL: https://example.com/product/shymvry-prndy-70-bshr-avp-400-gr-7wix9b
+URL: https://gurimbakfar.zappy5.app/product/shymvry-prndy-70-bshr-avp-400-gr-7wix9b
 Price: 6.50 ILS
 Availability: In stock
 
@@ -8030,7 +8030,7 @@ Availability: In stock
 ---
 
 ### מזון כלבים רטוב דוג איט צ'אנק בקר 375 גרם
-URL: https://example.com/product/mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-k0ezsq
+URL: https://gurimbakfar.zappy5.app/product/mzvn-klbym-rtvb-dvg-ayt-tsank-bkr-375-grm-k0ezsq
 Price: 5.00 ILS
 Availability: In stock
 
@@ -8039,154 +8039,154 @@ Availability: In stock
 ---
 
 ### צעצוע משיכה- כדור קשירה כפול עם חבל
-URL: https://example.com/product/tsatsva-mshykh-kdvr-kshyrh-kpvl-am-chbl-fnuvlq
+URL: https://gurimbakfar.zappy5.app/product/tsatsva-mshykh-kdvr-kshyrh-kpvl-am-chbl-fnuvlq
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### ג'ל דנטלי לשיניים Histotree בטעם וניל
-URL: https://example.com/product/gl-dntly-lshynyym-histotree-btam-vnyl-k4j86r
+URL: https://gurimbakfar.zappy5.app/product/gl-dntly-lshynyym-histotree-btam-vnyl-k4j86r
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### נוזל לניקוי אוזניים/עיניים petglow
-URL: https://example.com/product/nvzl-lnykvy-avznyymaynyym-petglow-psqn25
+URL: https://gurimbakfar.zappy5.app/product/nvzl-lnykvy-avznyymaynyym-petglow-psqn25
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### אצבעון צחצוח שיניים זוג 
-URL: https://example.com/product/atsbavn-tschtsvch-shynyym-zvg-w3h460
+URL: https://gurimbakfar.zappy5.app/product/atsbavn-tschtsvch-shynyym-zvg-w3h460
 Price: 20.00 ILS
 Availability: In stock
 
 ---
 
 ### מרכך פרידוג
-URL: https://example.com/product/mrkk-prydvg-lxqsn4
+URL: https://gurimbakfar.zappy5.app/product/mrkk-prydvg-lxqsn4
 Price: 54.00 ILS
 Availability: In stock
 
 ---
 
 ### מנטרל ריחות שתן ומנקה כתמים למשטח הכלב
-URL: https://example.com/product/mntrl-rychvt-shtn-vmnkh-ktmym-lmshtch-hklb-ri7xoz
+URL: https://gurimbakfar.zappy5.app/product/mntrl-rychvt-shtn-vmnkh-ktmym-lmshtch-hklb-ri7xoz
 Price: 86.00 ILS
 Availability: In stock
 
 ---
 
 ### חטיפי בוש לכלבים בטעם עוף ומנגו 200 ג"ר
-URL: https://example.com/product/chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-lj7jyk
+URL: https://gurimbakfar.zappy5.app/product/chtypy-bvsh-lklbym-btam-avp-vmngv-200-gr-lj7jyk
 Price: 25.00 ILS
 Availability: In stock
 
 ---
 
 ### כלוב נשיאה פתח קדמי 56*37*35
-URL: https://example.com/product/klvb-nshyah-ptch-kdmy-563735-oo3tkt
+URL: https://gurimbakfar.zappy5.app/product/klvb-nshyah-ptch-kdmy-563735-oo3tkt
 Price: 180.00 ILS
 Availability: In stock
 
 ---
 
 ### משטח ליקוק 15 ס"מ
-URL: https://example.com/product/mshtch-lykvk-15-sm-7x0k5z
+URL: https://gurimbakfar.zappy5.app/product/mshtch-lykvk-15-sm-7x0k5z
 Price: 18.00 ILS
 Availability: In stock
 
 ---
 
 ### פרידוג קולר ניילון בייסיק 66*38*25 
-URL: https://example.com/product/prydvg-kvlr-nyylvn-byysyk-663825-8wdmws
+URL: https://gurimbakfar.zappy5.app/product/prydvg-kvlr-nyylvn-byysyk-663825-8wdmws
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### פרידוג קולר ניילון בייסיק 50*35*15
-URL: https://example.com/product/prydvg-kvlr-nyylvn-byysyk-503515-h8427z
+URL: https://gurimbakfar.zappy5.app/product/prydvg-kvlr-nyylvn-byysyk-503515-h8427z
 Price: 25.00 ILS
 Availability: In stock
 
 ---
 
 ### פרידוג קולר ניילון בייסיק 35*20*10
-URL: https://example.com/product/prydvg-kvlr-nyylvn-byysyk-352010-s352e8
+URL: https://gurimbakfar.zappy5.app/product/prydvg-kvlr-nyylvn-byysyk-352010-s352e8
 Price: 18.00 ILS
 Availability: In stock
 
 ---
 
 ### פרידוג קולר ניילון בייסיק 60*35*20
-URL: https://example.com/product/prydvg-kvlr-nyylvn-byysyk-603520-1p2sex
+URL: https://gurimbakfar.zappy5.app/product/prydvg-kvlr-nyylvn-byysyk-603520-1p2sex
 Price: 28.00 ILS
 Availability: In stock
 
 ---
 
 ### מזרן אורתופדי בונו קנל סלקט 119*74 ס"מ צבע אפור
-URL: https://example.com/product/mzrn-avrtvpdy-bvnv-knl-slkt-11974-sm-tsba-apvr-3vbki9
+URL: https://gurimbakfar.zappy5.app/product/mzrn-avrtvpdy-bvnv-knl-slkt-11974-sm-tsba-apvr-3vbki9
 Price: 250.00 ILS
 Availability: In stock
 
 ---
 
 ### מזרן אורתופדי בונו קנל סלקט 91*56 ס"מ צבע כחול
-URL: https://example.com/product/mzrn-avrtvpdy-bvnv-knl-slkt-9156-sm-tsba-kchvl-wliqc9
+URL: https://gurimbakfar.zappy5.app/product/mzrn-avrtvpdy-bvnv-knl-slkt-9156-sm-tsba-kchvl-wliqc9
 Price: 220.00 ILS
 Availability: In stock
 
 ---
 
 ### כלוב נשיאה פתח עליון ופתח קדמי 32*33.2 ס"מ 
-URL: https://example.com/product/klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-951o0l
+URL: https://gurimbakfar.zappy5.app/product/klvb-nshyah-ptch-alyvn-vptch-kdmy-32332-sm-951o0l
 Price: 210.00 ILS
 Availability: In stock
 
 ---
 
 ### מיטה לכלבים PetsProject serenity
-URL: https://example.com/product/myth-lklbym-petsproject-serenity-7b1fm3
+URL: https://gurimbakfar.zappy5.app/product/myth-lklbym-petsproject-serenity-7b1fm3
 Price: 179.00 ILS
 Availability: In stock
 
 ---
 
 ### מיטה פלאפי לכלבים וחתולים קנל סלקט דגם לולה M חום
-URL: https://example.com/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-m-chvm-doka3t
+URL: https://gurimbakfar.zappy5.app/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-m-chvm-doka3t
 Price: 250.00 ILS
 Availability: In stock
 
 ---
 
 ### מיטה לכלבים PetsProject מידה S עשוי מבד עמיד דוחה מים וכיסוי נשלף
-URL: https://example.com/product/myth-lklbym-petsproject-mydh-s-ashvy-mbd-amyd-dvchh-mym-vkysvy-nshlp-ubniy3
+URL: https://gurimbakfar.zappy5.app/product/myth-lklbym-petsproject-mydh-s-ashvy-mbd-amyd-dvchh-mym-vkysvy-nshlp-ubniy3
 Price: 189.00 ILS
 Availability: In stock
 
 ---
 
 ### NATURE WILD נייצר גור בטעם ברווז והודו 12 ק”ג
-URL: https://example.com/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-e30ply
+URL: https://gurimbakfar.zappy5.app/product/nature-wild-nyytsr-gvr-btam-brvvz-vhvdv-12-kg-e30ply
 Price: 349.00 ILS
 Availability: In stock
 
 ---
 
 ### מיטה פלאפי לכלבים וחתולים קנל סלקט דגם לולה S אפור
-URL: https://example.com/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-s-apvr-j2fn43
+URL: https://gurimbakfar.zappy5.app/product/myth-plapy-lklbym-vchtvlym-knl-slkt-dgm-lvlh-s-apvr-j2fn43
 Price: 180.00 ILS
 Availability: In stock
 
 ---
 
 ### NATURE WILD נייצר בוגר בטעם בקר ודג 12 ק”ג
-URL: https://example.com/product/nature-wild-nyytsr-bvgr-btam-bkr-vdg-12-kg-sgnyei
+URL: https://gurimbakfar.zappy5.app/product/nature-wild-nyytsr-bvgr-btam-bkr-vdg-12-kg-sgnyei
 Price: 339.00 ILS
 Availability: In stock
 
@@ -8195,7 +8195,7 @@ Availability: In stock
 ---
 
 ### NATURE WILD נייצר בוגר בטעם ברווז ודג 12 ק”ג
-URL: https://example.com/product/nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-en6o8i
+URL: https://gurimbakfar.zappy5.app/product/nature-wild-nyytsr-bvgr-btam-brvvz-vdg-12-kg-en6o8i
 Price: 339.00 ILS
 Availability: In stock
 
@@ -8204,7 +8204,7 @@ Availability: In stock
 ---
 
 ### NATURE נייצר סלמון 70% בשר 12 ק”ג
-URL: https://example.com/product/nature-nyytsr-slmvn-70-bshr-12-kg-4gmezc
+URL: https://gurimbakfar.zappy5.app/product/nature-nyytsr-slmvn-70-bshr-12-kg-4gmezc
 Price: 339.00 ILS
 Availability: In stock
 
@@ -8213,7 +8213,7 @@ Availability: In stock
 ---
 
 ### סטיספקשיין בוגר גזע גדול עוף 20 ק"ג
-URL: https://example.com/product/styspkshyyn-bvgr-gza-gdvl-avp-20-kg-mfkoli
+URL: https://gurimbakfar.zappy5.app/product/styspkshyyn-bvgr-gza-gdvl-avp-20-kg-mfkoli
 Price: 369.00 ILS
 Availability: In stock
 
@@ -8222,7 +8222,7 @@ Availability: In stock
 ---
 
 ### סטיספקשן גורים גזע גדול עוף 20 ק"ג
-URL: https://example.com/product/styspkshn-gvrym-gza-gdvl-avp-20-kg-7zlc3z
+URL: https://gurimbakfar.zappy5.app/product/styspkshn-gvrym-gza-gdvl-avp-20-kg-7zlc3z
 Price: 379.00 ILS
 Availability: In stock
 
@@ -8231,7 +8231,7 @@ Availability: In stock
 ---
 
 ### סטיספקשן בוגר גזע קטן עוף 3 ק"ג
-URL: https://example.com/product/styspkshn-bvgr-gza-ktn-avp-3-kg-hmsiba
+URL: https://gurimbakfar.zappy5.app/product/styspkshn-bvgr-gza-ktn-avp-3-kg-hmsiba
 Price: 109.00 ILS
 Availability: In stock
 
@@ -8240,7 +8240,7 @@ Availability: In stock
 ---
 
 ### סטיספקשן בוגר גזע בינוני עוף 20 ק"ג
-URL: https://example.com/product/styspkshn-bvgr-gza-bynvny-avp-20-kg-afjbzy
+URL: https://gurimbakfar.zappy5.app/product/styspkshn-bvgr-gza-bynvny-avp-20-kg-afjbzy
 Price: 369.00 ILS
 Availability: In stock
 
@@ -8249,7 +8249,7 @@ Availability: In stock
 ---
 
 ### סטיספקשן לגורים מכל הגזעים וכלבות בסוף ההריון ובמהלך ההנקה עוף 20 ק"ג
-URL: https://example.com/product/styspkshn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-bs0huv
+URL: https://gurimbakfar.zappy5.app/product/styspkshn-lgvrym-mkl-hgzaym-vklbvt-bsvp-hhryvn-vbmhlk-hhnkh-avp-20-kg-bs0huv
 Price: 379.00 ILS
 Availability: In stock
 
@@ -8258,14 +8258,14 @@ Availability: In stock
 ---
 
 ### קערת נירוסטה 26 ס"מ 
-URL: https://example.com/product/kart-nyrvsth-26-sm-g6id7n
+URL: https://gurimbakfar.zappy5.app/product/kart-nyrvsth-26-sm-g6id7n
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### סטיספקשן סלמון ואורז כלבים בוגרים
-URL: https://example.com/product/styspkshn-slmvn-vavrz-klbym-bvgrym-2jhp60
+URL: https://gurimbakfar.zappy5.app/product/styspkshn-slmvn-vavrz-klbym-bvgrym-2jhp60
 Price: 125.00 ILS
 Availability: In stock
 
@@ -8274,7 +8274,7 @@ Availability: In stock
 ---
 
 ### סטיספקשן סלמון ואורז כלבים גורים
-URL: https://example.com/product/styspkshn-slmvn-vavrz-klbym-gvrym-w9w5q0
+URL: https://gurimbakfar.zappy5.app/product/styspkshn-slmvn-vavrz-klbym-gvrym-w9w5q0
 Price: 125.00 ILS
 Availability: In stock
 
@@ -8283,140 +8283,140 @@ Availability: In stock
 ---
 
 ### קערות נירוסטה פס גומי
-URL: https://example.com/product/karvt-nyrvsth-ps-gvmy-ufqlu5
+URL: https://gurimbakfar.zappy5.app/product/karvt-nyrvsth-ps-gvmy-ufqlu5
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### סטנד+ 2 קערות אוכל מים 15 ס"מ 
-URL: https://example.com/product/stnd-2-karvt-avkl-mym-15-sm-sk0x3s
+URL: https://gurimbakfar.zappy5.app/product/stnd-2-karvt-avkl-mym-15-sm-sk0x3s
 Price: 45.00 ILS
 Availability: In stock
 
 ---
 
 ### מתקן משולב למים/מזון 1.5 ליטר VIOLA
-URL: https://example.com/product/mtkn-mshvlb-lmymmzvn-15-lytr-viola-x76i76
+URL: https://gurimbakfar.zappy5.app/product/mtkn-mshvlb-lmymmzvn-15-lytr-viola-x76i76
 Price: 55.00 ILS
 Availability: In stock
 
 ---
 
 ### קופסת אחסון אקרילית 1.8 L
-URL: https://example.com/product/kvpst-achsvn-akrylyt-18-l-rm2olr
+URL: https://gurimbakfar.zappy5.app/product/kvpst-achsvn-akrylyt-18-l-rm2olr
 Price: 34.00 ILS
 Availability: In stock
 
 ---
 
 ### סטנד+ 2 קערות אוכל מים 19 ס"מ 
-URL: https://example.com/product/stnd-2-karvt-avkl-mym-19-sm-qv2fdo
+URL: https://gurimbakfar.zappy5.app/product/stnd-2-karvt-avkl-mym-19-sm-qv2fdo
 Price: 65.00 ILS
 Availability: In stock
 
 ---
 
 ### מתקן מים אוטומטי למניעת רטיבות הפרווה 1 L
-URL: https://example.com/product/mtkn-mym-avtvmty-lmnyat-rtybvt-hprvvh-1-l-ydizvi
+URL: https://gurimbakfar.zappy5.app/product/mtkn-mym-avtvmty-lmnyat-rtybvt-hprvvh-1-l-ydizvi
 Price: 100.00 ILS
 Availability: In stock
 
 ---
 
 ### מסרק אפור ברי קינג
-URL: https://example.com/product/msrk-apvr-bry-kyng-c09wv1
+URL: https://gurimbakfar.zappy5.app/product/msrk-apvr-bry-kyng-c09wv1
 Price: 45.00 ILS
 Availability: In stock
 
 ---
 
 ### שרשרת חנק 65 ס"מ שחור
-URL: https://example.com/product/shrshrt-chnk-65-sm-shchvr-7hhrl8
+URL: https://gurimbakfar.zappy5.app/product/shrshrt-chnk-65-sm-shchvr-7hhrl8
 Price: 70.00 ILS
 Availability: In stock
 
 ---
 
 ### הנריס אזני באפלו חתוכות
-URL: https://example.com/product/hnrys-azny-baplv-chtvkvt-xk1hoh
+URL: https://gurimbakfar.zappy5.app/product/hnrys-azny-baplv-chtvkvt-xk1hoh
 Price: 26.00 ILS
 Availability: In stock
 
 ---
 
 ### מסרק פרמינטור M
-URL: https://example.com/product/msrk-prmyntvr-m-vubdfo
+URL: https://gurimbakfar.zappy5.app/product/msrk-prmyntvr-m-vubdfo
 Price: 85.00 ILS
 Availability: In stock
 
 ---
 
 ### הנריס קוביות עוף עם בלוברי
-URL: https://example.com/product/hnrys-kvbyvt-avp-am-blvbry-2npic1
+URL: https://gurimbakfar.zappy5.app/product/hnrys-kvbyvt-avp-am-blvbry-2npic1
 Price: 21.00 ILS
 Availability: In stock
 
 ---
 
 ### משטח ליקוק 17.7*16.3 ס"מ freedog
-URL: https://example.com/product/mshtch-lykvk-177163-sm-freedog-f3ap8m
+URL: https://gurimbakfar.zappy5.app/product/mshtch-lykvk-177163-sm-freedog-f3ap8m
 Price: 50.00 ILS
 Availability: In stock
 
 ---
 
 ### משטח ליקוק 20*20 ס"מ freedog
-URL: https://example.com/product/mshtch-lykvk-2020-sm-freedog-h3rdn0
+URL: https://gurimbakfar.zappy5.app/product/mshtch-lykvk-2020-sm-freedog-h3rdn0
 Price: 50.00 ILS
 Availability: In stock
 
 ---
 
 ### צעצוע לעיסה צמיג חבל
-URL: https://example.com/product/tsatsva-laysh-tsmyg-chbl-a4z8by
+URL: https://gurimbakfar.zappy5.app/product/tsatsva-laysh-tsmyg-chbl-a4z8by
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פאפי רול
-URL: https://example.com/product/papy-rvl-k835l8
+URL: https://gurimbakfar.zappy5.app/product/papy-rvl-k835l8
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### קערת האכלה איטית לכלבים 18*18 ס"מ freedog
-URL: https://example.com/product/kart-haklh-aytyt-lklbym-1818-sm-freedog-enrzlq
+URL: https://gurimbakfar.zappy5.app/product/kart-haklh-aytyt-lklbym-1818-sm-freedog-enrzlq
 Price: 60.00 ILS
 Availability: In stock
 
 ---
 
 ### משחק חבל כדור 7 ס"מ
-URL: https://example.com/product/mshchk-chbl-kdvr-7-sm-wa81nt
+URL: https://gurimbakfar.zappy5.app/product/mshchk-chbl-kdvr-7-sm-wa81nt
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### תרנגול לטקס מצפצף
-URL: https://example.com/product/trngvl-ltks-mtsptsp-nvv5yg
+URL: https://gurimbakfar.zappy5.app/product/trngvl-ltks-mtsptsp-nvv5yg
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### כדור חטיפים
-URL: https://example.com/product/kdvr-chtypym-p2pje5
+URL: https://gurimbakfar.zappy5.app/product/kdvr-chtypym-p2pje5
 Price: 50.00 ILS
 Availability: In stock
 
 ---
 
 ### בקבוק שתייה נייד 400 מ"ל freedog
-URL: https://example.com/product/bkbvk-shtyyh-nyyd-400-ml-freedog-q6b9a8
+URL: https://gurimbakfar.zappy5.app/product/bkbvk-shtyyh-nyyd-400-ml-freedog-q6b9a8
 Price: 45.00 ILS
 Availability: In stock
 Brand: freedog
@@ -8424,420 +8424,420 @@ Brand: freedog
 ---
 
 ### צעצוע קטיפה זחל לחתול/כלב 
-URL: https://example.com/product/tsatsva-ktyph-zchl-lchtvlklb-196757
+URL: https://gurimbakfar.zappy5.app/product/tsatsva-ktyph-zchl-lchtvlklb-196757
 Price: 25.00 ILS
 Availability: In stock
 
 ---
 
 ### צעצוע תמנון מרשרש עם צפצפה
-URL: https://example.com/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-5lwji6
+URL: https://gurimbakfar.zappy5.app/product/tsatsva-tmnvn-mrshrsh-am-tsptsph-5lwji6
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### הנריס גידי באפלו
-URL: https://example.com/product/hnrys-gydy-baplv-d1ih0e
+URL: https://gurimbakfar.zappy5.app/product/hnrys-gydy-baplv-d1ih0e
 Price: 26.00 ILS
 Availability: In stock
 
 ---
 
 ### בקבוק שתייה 500 ml 
-URL: https://example.com/product/bkbvk-shtyyh-500-ml-ecykfa
+URL: https://gurimbakfar.zappy5.app/product/bkbvk-shtyyh-500-ml-ecykfa
 Price: 20.00 ILS
 Availability: In stock
 
 ---
 
 ### משחת שיניים
-URL: https://example.com/product/mshcht-shynyym-y9dfph
+URL: https://gurimbakfar.zappy5.app/product/mshcht-shynyym-y9dfph
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### ערכת צחצוח שיניים לכלבים כולל משחה בטעם חלב, מברשת ואצבעון
-URL: https://example.com/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-btam-chlb-mbrsht-vatsbavn-o4dm9s
+URL: https://gurimbakfar.zappy5.app/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-btam-chlb-mbrsht-vatsbavn-o4dm9s
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### שמפו PETGLOW 
-URL: https://example.com/product/shmpv-petglow-f4ozj3
+URL: https://gurimbakfar.zappy5.app/product/shmpv-petglow-f4ozj3
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### כדור דנטלי עם חבל
-URL: https://example.com/product/kdvr-dntly-am-chbl-r40ega
+URL: https://gurimbakfar.zappy5.app/product/kdvr-dntly-am-chbl-r40ega
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### הנריס גרונות עוף
-URL: https://example.com/product/hnrys-grvnvt-avp-s062qs
+URL: https://gurimbakfar.zappy5.app/product/hnrys-grvnvt-avp-s062qs
 Price: 26.00 ILS
 Availability: In stock
 
 ---
 
 ### מברשת אובלית גדולה רקורד
-URL: https://example.com/product/mbrsht-avblyt-gdvlh-rkvrd-arwmvw
+URL: https://gurimbakfar.zappy5.app/product/mbrsht-avblyt-gdvlh-rkvrd-arwmvw
 Price: 65.00 ILS
 Availability: In stock
 
 ---
 
 ### צעצוע פריזבי לכלבים צבעי פסטל
-URL: https://example.com/product/tsatsva-pryzby-lklbym-tsbay-pstl-m61xmb
+URL: https://gurimbakfar.zappy5.app/product/tsatsva-pryzby-lklbym-tsbay-pstl-m61xmb
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### ערכת צחצוח שיניים לכלבים כולל משחה, מברשת ואצבעון
-URL: https://example.com/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrsht-vatsbavn-q70cyp
+URL: https://gurimbakfar.zappy5.app/product/arkt-tschtsvch-shynyym-lklbym-kvll-mshchh-mbrsht-vatsbavn-q70cyp
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### סט צעצועי לעיסה לכלב 4 חלקים צבע ורוד
-URL: https://example.com/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-4x70r9
+URL: https://gurimbakfar.zappy5.app/product/st-tsatsvay-laysh-lklb-4-chlkym-tsba-vrvd-4x70r9
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### מזרקת מים חיצונית 1.4 ליטר Petstar
-URL: https://example.com/product/mzrkt-mym-chytsvnyt-14-lytr-petstar-l954l1
+URL: https://gurimbakfar.zappy5.app/product/mzrkt-mym-chytsvnyt-14-lytr-petstar-l954l1
 Price: 85.00 ILS
 Availability: In stock
 
 ---
 
 ### כדור משחק אלסטי
-URL: https://example.com/product/kdvr-mshchk-alsty-gauldp
+URL: https://gurimbakfar.zappy5.app/product/kdvr-mshchk-alsty-gauldp
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### מברשת אוניברסלית קשה אדומה
-URL: https://example.com/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr
+URL: https://gurimbakfar.zappy5.app/product/mbrsht-avnybrslyt-kshh-advmh-hylkbr
 Price: 65.00 ILS
 Availability: In stock
 
 ---
 
 ### מברשת freedog
-URL: https://example.com/product/mbrsht-freedog-ip8x9x
+URL: https://gurimbakfar.zappy5.app/product/mbrsht-freedog-ip8x9x
 Price: 55.00 ILS
 Availability: In stock
 
 ---
 
 ### משחת שיניים bioline
-URL: https://example.com/product/mshcht-shynyym-bioline-d64o17
+URL: https://gurimbakfar.zappy5.app/product/mshcht-shynyym-bioline-d64o17
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### כדור דנטלי קטן 
-URL: https://example.com/product/kdvr-dntly-ktn-0lrc9s
+URL: https://gurimbakfar.zappy5.app/product/kdvr-dntly-ktn-0lrc9s
 Price: 25.00 ILS
 Availability: In stock
 
 ---
 
 ### ערכת צחצוח שיניים לכלבים בטעם בקר
-URL: https://example.com/product/arkt-tschtsvch-shynyym-lklbym-btam-bkr-cx1jij
+URL: https://gurimbakfar.zappy5.app/product/arkt-tschtsvch-shynyym-lklbym-btam-bkr-cx1jij
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### רולר דבק 60 דפים
-URL: https://example.com/product/rvlr-dbk-60-dpym-26gesj
+URL: https://gurimbakfar.zappy5.app/product/rvlr-dbk-60-dpym-26gesj
 Price: 25.00 ILS
 Availability: In stock
 
 ---
 
 ### מברשת שיניים דו צדדי
-URL: https://example.com/product/mbrsht-shynyym-dv-tsddy-k21ph9
+URL: https://gurimbakfar.zappy5.app/product/mbrsht-shynyym-dv-tsddy-k21ph9
 Price: 17.00 ILS
 Availability: In stock
 
 ---
 
 ### רצועות פלקסי
-URL: https://example.com/product/rtsvavt-plksy-jnoo9p
+URL: https://gurimbakfar.zappy5.app/product/rtsvavt-plksy-jnoo9p
 Price: 30.00 ILS
 Availability: In stock
 
 ---
 
 ### חגורת בטיחות לכלב Record
-URL: https://example.com/product/chgvrt-btychvt-lklb-record-wx66xy
+URL: https://gurimbakfar.zappy5.app/product/chgvrt-btychvt-lklb-record-wx66xy
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### שמן בישום לבעלי חיים petglow
-URL: https://example.com/product/shmn-byshvm-lbaly-chyym-petglow-3jcamm
+URL: https://gurimbakfar.zappy5.app/product/shmn-byshvm-lbaly-chyym-petglow-3jcamm
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### שמן בישום לבעלי חיים PURE
-URL: https://example.com/product/shmn-byshvm-lbaly-chyym-pure-dkdfjf
+URL: https://gurimbakfar.zappy5.app/product/shmn-byshvm-lbaly-chyym-pure-dkdfjf
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### קוצץ ציפורניים Petsproject
-URL: https://example.com/product/kvtsts-tsypvrnyym-petsproject-zvyroj
+URL: https://gurimbakfar.zappy5.app/product/kvtsts-tsypvrnyym-petsproject-zvyroj
 Price: 79.00 ILS
 Availability: In stock
 
 ---
 
 ### טבעת לאימון כלבים
-URL: https://example.com/product/tbat-laymvn-klbym-4g5jxq
+URL: https://gurimbakfar.zappy5.app/product/tbat-laymvn-klbym-4g5jxq
 Price: 25.00 ILS
 Availability: In stock
 
 ---
 
 ### משקולת גומי דנטלית
-URL: https://example.com/product/mshkvlt-gvmy-dntlyt-i3kjv5
+URL: https://gurimbakfar.zappy5.app/product/mshkvlt-gvmy-dntlyt-i3kjv5
 Price: 25.00 ILS
 Availability: In stock
 
 ---
 
 ### צעצוע תמנון קטיפה מרשרש עם צפצפה
-URL: https://example.com/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp
+URL: https://gurimbakfar.zappy5.app/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### כיסוי מושב אחורי לכלב
-URL: https://example.com/product/kysvy-mvshb-achvry-lklb-v70yuy
+URL: https://gurimbakfar.zappy5.app/product/kysvy-mvshb-achvry-lklb-v70yuy
 Price: 180.00 ILS
 Availability: In stock
 
 ---
 
 ### שמפו לגורים bioline
-URL: https://example.com/product/shmpv-lgvrym-bioline-ubep0o
+URL: https://gurimbakfar.zappy5.app/product/shmpv-lgvrym-bioline-ubep0o
 Price: 40.00 ILS
 Availability: In stock
 
 ---
 
 ### חבל XS
-URL: https://example.com/product/chbl-xs-fxzwb0
+URL: https://gurimbakfar.zappy5.app/product/chbl-xs-fxzwb0
 Price: 5.00 ILS
 Availability: In stock
 
 ---
 
 ### כדור דנטלי קטן רך
-URL: https://example.com/product/kdvr-dntly-ktn-rk-9tv9b5
+URL: https://gurimbakfar.zappy5.app/product/kdvr-dntly-ktn-rk-9tv9b5
 Price: 10.00 ILS
 Availability: In stock
 
 ---
 
 ### משחק האכלה מתגלגל
-URL: https://example.com/product/mshchk-haklh-mtglgl-4izint
+URL: https://gurimbakfar.zappy5.app/product/mshchk-haklh-mtglgl-4izint
 Price: 55.00 ILS
 Availability: In stock
 
 ---
 
 ### מברשת אובלית קטנה רקורד
-URL: https://example.com/product/mbrsht-avblyt-ktnh-rkvrd-4q0chf
+URL: https://gurimbakfar.zappy5.app/product/mbrsht-avblyt-ktnh-rkvrd-4q0chf
 Price: 65.00 ILS
 Availability: In stock
 
 ---
 
 ### תרסיס בישום petglow
-URL: https://example.com/product/trsys-byshvm-petglow-8o1uv3
+URL: https://gurimbakfar.zappy5.app/product/trsys-byshvm-petglow-8o1uv3
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### הנריס בולי סטיק
-URL: https://example.com/product/hnrys-bvly-styk-vp0jgi
+URL: https://gurimbakfar.zappy5.app/product/hnrys-bvly-styk-vp0jgi
 Price: 39.00 ILS
 Availability: In stock
 
 ---
 
 ### בובות לכלבים צוואר חבל חיות
-URL: https://example.com/product/bvbvt-lklbym-tsvvar-chbl-chyvt-2akabn
+URL: https://gurimbakfar.zappy5.app/product/bvbvt-lklbym-tsvvar-chbl-chyvt-2akabn
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### הנריס דגים שלמים
-URL: https://example.com/product/hnrys-dgym-shlmym-jc6752
+URL: https://gurimbakfar.zappy5.app/product/hnrys-dgym-shlmym-jc6752
 Price: 26.00 ILS
 Availability: In stock
 
 ---
 
 ### צעצוע לעיסה דנטלי
-URL: https://example.com/product/tsatsva-laysh-dntly-teoo4v
+URL: https://gurimbakfar.zappy5.app/product/tsatsva-laysh-dntly-teoo4v
 Price: 25.00 ILS
 Availability: In stock
 
 ---
 
 ### ערכת צחצוח שיניים לכלבים בטעם עוף
-URL: https://example.com/product/arkt-tschtsvch-shynyym-lklbym-btam-avp-jqa7h1
+URL: https://gurimbakfar.zappy5.app/product/arkt-tschtsvch-shynyym-lklbym-btam-avp-jqa7h1
 Price: 42.00 ILS
 Availability: In stock
 
 ---
 
 ### חבל S
-URL: https://example.com/product/chbl-s-vx7dpr
+URL: https://gurimbakfar.zappy5.app/product/chbl-s-vx7dpr
 Price: 7.00 ILS
 Availability: In stock
 
 ---
 
 ### ברווז מצפצף M
-URL: https://example.com/product/brvvz-mtsptsp-m-o4vroa
+URL: https://gurimbakfar.zappy5.app/product/brvvz-mtsptsp-m-o4vroa
 Price: 40.00 ILS
 Availability: In stock
 
 ---
 
 ### מגש פדים לאילוף כלבים
-URL: https://example.com/product/mgsh-pdym-laylvp-klbym-nas8ox
+URL: https://gurimbakfar.zappy5.app/product/mgsh-pdym-laylvp-klbym-nas8ox
 Price: 100.00 ILS
 Availability: In stock
 
 ---
 
 ### צעצוע משיכה
-URL: https://example.com/product/tsatsva-mshykh-09d80q
+URL: https://gurimbakfar.zappy5.app/product/tsatsva-mshykh-09d80q
 Price: 25.00 ILS
 Availability: In stock
 
 ---
 
 ### צעצוע אווז מצפצף
-URL: https://example.com/product/tsatsva-avvz-mtsptsp-qha35i
+URL: https://gurimbakfar.zappy5.app/product/tsatsva-avvz-mtsptsp-qha35i
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### הנריס פרסות באפלו
-URL: https://example.com/product/hnrys-prsvt-baplv-7hz9nc
+URL: https://gurimbakfar.zappy5.app/product/hnrys-prsvt-baplv-7hz9nc
 Price: 26.00 ILS
 Availability: In stock
 
 ---
 
 ### מסרק גבהים משתנים רקורד
-URL: https://example.com/product/msrk-gbhym-mshtnym-rkvrd-yemjg2
+URL: https://gurimbakfar.zappy5.app/product/msrk-gbhym-mshtnym-rkvrd-yemjg2
 Price: 48.00 ILS
 Availability: In stock
 
 ---
 
 ### הנריס בולי סטיק צמה
-URL: https://example.com/product/hnrys-bvly-styk-tsmh-7bbhly
+URL: https://gurimbakfar.zappy5.app/product/hnrys-bvly-styk-tsmh-7bbhly
 Price: 60.00 ILS
 Availability: In stock
 
 ---
 
 ### קוצץ ציפורניים ופצירה
-URL: https://example.com/product/kvtsts-tsypvrnyym-vptsyrh-866o1z
+URL: https://gurimbakfar.zappy5.app/product/kvtsts-tsypvrnyym-vptsyrh-866o1z
 Price: 25.00 ILS
 Availability: In stock
 
 ---
 
 ### מסרק צפוף רקורד
-URL: https://example.com/product/msrk-tspvp-rkvrd-5m6pep
+URL: https://gurimbakfar.zappy5.app/product/msrk-tspvp-rkvrd-5m6pep
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### תמנון זרועות מסולסלות עם צפצפה
-URL: https://example.com/product/tmnvn-zrvavt-msvlslvt-am-tsptsph-slx0ja
+URL: https://gurimbakfar.zappy5.app/product/tmnvn-zrvavt-msvlslvt-am-tsptsph-slx0ja
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### משגר כדור טניס freedog
-URL: https://example.com/product/mshgr-kdvr-tnys-freedog-swsjeh
+URL: https://gurimbakfar.zappy5.app/product/mshgr-kdvr-tnys-freedog-swsjeh
 Price: 57.00 ILS
 Availability: In stock
 
 ---
 
 ### ברווז מצפצף S
-URL: https://example.com/product/brvvz-mtsptsp-s-1kvaah
+URL: https://gurimbakfar.zappy5.app/product/brvvz-mtsptsp-s-1kvaah
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### הנריס קנה נשימה
-URL: https://example.com/product/hnrys-knh-nshymh-6xywvw
+URL: https://gurimbakfar.zappy5.app/product/hnrys-knh-nshymh-6xywvw
 Price: 25.00 ILS
 Availability: In stock
 
 ---
 
 ### משחק לכלב סקיני אריה
-URL: https://example.com/product/mshchk-lklb-skyny-aryh-zv4dt1
+URL: https://gurimbakfar.zappy5.app/product/mshchk-lklb-skyny-aryh-zv4dt1
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### הנריס קוביות סלמון
-URL: https://example.com/product/hnrys-kvbyvt-slmvn-2tj0rr
+URL: https://gurimbakfar.zappy5.app/product/hnrys-kvbyvt-slmvn-2tj0rr
 Price: 21.00 ILS
 Availability: In stock
 
 ---
 
 ### שמן בישום לחיות מחמד ANIMAUX
-URL: https://example.com/product/shmn-byshvm-lchyvt-mchmd-animaux-6znshc
+URL: https://gurimbakfar.zappy5.app/product/shmn-byshvm-lchyvt-mchmd-animaux-6znshc
 Price: 35.00 ILS
 Availability: In stock
 
 ---
 
 ### תרסיס מרכך ללא שטיפה להתרת קשרים TAURO
-URL: https://example.com/product/trsys-mrkk-lla-shtyph-lhtrt-kshrym-tauro-599y1n
+URL: https://gurimbakfar.zappy5.app/product/trsys-mrkk-lla-shtyph-lhtrt-kshrym-tauro-599y1n
 Price: 70.00 ILS
 Availability: In stock
 
