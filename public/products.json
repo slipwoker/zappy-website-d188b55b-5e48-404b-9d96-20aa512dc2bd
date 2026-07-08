@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T10:53:27.658Z",
+  "generated_at": "2026-07-08T12:02:08.467Z",
   "base_url": "https://example.com",
   "currency": "ILS",
   "count": 236,
@@ -1139,32 +1139,6 @@
       "updated_at": "2026-07-07T08:22:52.504Z"
     },
     {
-      "id": "b899f0ca-0b92-4147-abb3-9c3dcd46217f",
-      "slug": "rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e",
-      "name": "רצועה בד צבעוני 15 ממ - מידה S",
-      "name_translations": {
-        "en": "Colorful Fabric Leash 15mm - Size S",
-        "he": "רצועה בד צבעוני 15 ממ - מידה S",
-        "ru": "Тканевый цветной поводок 15 мм - размер S"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 32,
-      "base_price": 32,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://example.com/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e",
-      "categories": [
-        "קולרים ורצועות"
-      ],
-      "updated_at": "2026-07-07T08:22:53.146Z"
-    },
-    {
       "id": "639e4392-5a8c-4037-a331-c38fec05b62d",
       "slug": "rtsvah-bd-tsbavny-10-mm-mydh-xs-ff72g0",
       "name": "רצועה בד צבעוני 10 ממ - מידה XS",
@@ -1189,6 +1163,32 @@
         "קולרים ורצועות"
       ],
       "updated_at": "2026-07-07T08:22:54.507Z"
+    },
+    {
+      "id": "b899f0ca-0b92-4147-abb3-9c3dcd46217f",
+      "slug": "rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e",
+      "name": "רצועה בד צבעוני 15 ממ - מידה S",
+      "name_translations": {
+        "en": "Colorful Fabric Leash 15mm - Size S",
+        "he": "רצועה בד צבעוני 15 ממ - מידה S",
+        "ru": "Тканевый цветной поводок 15 мм - размер S"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 32,
+      "base_price": 32,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/rtsvah-bd-tsbavny-15-mm-mydh-s-6a7j4e",
+      "categories": [
+        "קולרים ורצועות"
+      ],
+      "updated_at": "2026-07-07T08:22:53.146Z"
     },
     {
       "id": "54c9ca92-397c-43d9-956c-31decb42b621",
@@ -1216,7 +1216,7 @@
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-08T10:06:11.634Z"
+      "updated_at": "2026-07-08T11:32:46.766Z"
     },
     {
       "id": "faf1683c-6bfb-4cc9-81d0-1153702fcb48",
@@ -1382,34 +1382,6 @@
       "updated_at": "2026-07-07T08:22:49.248Z"
     },
     {
-      "id": "6fe8ad28-4377-4ee9-87ed-89247ffcfbde",
-      "slug": "mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf",
-      "name": "מזון כלבים Bitesy גורים סלמון 12 ק\"ג",
-      "name_translations": {
-        "en": "Bitesy Puppy Salmon Dog Food 12 kg",
-        "he": "מזון כלבים Bitesy גורים סלמון 12 ק\"ג",
-        "ru": "Корм для собак Bitesy щенки лосось 12 кг"
-      },
-      "description": "<p><strong>רכיבים :</strong></p><p>סלמון מיובש (34%), אורז (14%), בטטה מיובשת (12%), שומן הודו (12%), אפונה מיובשת, עיסת סלק מיובשת (5%), חלבון אפונה, רוטב ירקות (2%), שמן סלמון (1%), שמרים (1%) מינרלים, פרה-ביוטיקה משורש עולש (0.034%), פרה-ביוטיקה (MOS) (0.025%), גלוקוזמין (0.012%), MSM (תוסף תזונה) (0.011%), כונדרויטין (0.01%), שורש מניהוט (יוקה), חמוציות, אצות, כורכום, עגבניה, פטרוזיליה (0.005%).</p><p><br></p><p><strong>ערכים תזונתיים :</strong></p><p>חלבון גולמי: 32%, סיבים תזונתיים 2.5%, שומן גולמי: 19%, אפר גולמי: 7.5%, סידן: 7.5%, זרחן: 1.5%, אומגה 3: 1%, אומגה 6: 1.1%, לחות:&nbsp;7.5%</p>",
-      "short_description": "מזון לגורי כלבים בייטסי bitesy חלבון יחיד סלמון, תומך בהתפתחות אופטימלית של הגור\nמכיל בשר סלמון  (34% ) עם אורז לתזונה מאוזנת.\nאורז ובטטה – פחמימות איכותיות קלות לעיכול, פטרוזיליה ואצות לתזונה עשירה בחומרים מזינים.\nעם שמן סלמון – מסייע לעור בריא ופרווה מבריקה, טאורין – מסייע לבריאות הלב\nכולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים\nתוצרת איטליה.",
-      "sku": null,
-      "brand": null,
-      "price": 309,
-      "base_price": 309,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://example.com/assets/product-enhanced-1783426203173-esm6je.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://example.com/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf",
-      "categories": [
-        "מזון יבש"
-      ],
-      "updated_at": "2026-07-07T12:12:09.637Z"
-    },
-    {
       "id": "969b9fe6-434a-465a-b51f-6255d11bf01e",
       "slug": "st-rtmh-vrtsvah-lklb-ktn-bynvny-tsba-chvm-rinog6",
       "name": "סט רתמה ורצועה לכלב קטן / בינוני צבע חום",
@@ -1462,6 +1434,34 @@
         "מזון יבש"
       ],
       "updated_at": "2026-07-07T12:12:50.887Z"
+    },
+    {
+      "id": "6fe8ad28-4377-4ee9-87ed-89247ffcfbde",
+      "slug": "mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf",
+      "name": "מזון כלבים Bitesy גורים סלמון 12 ק\"ג",
+      "name_translations": {
+        "en": "Bitesy Puppy Salmon Dog Food 12 kg",
+        "he": "מזון כלבים Bitesy גורים סלמון 12 ק\"ג",
+        "ru": "Корм для собак Bitesy щенки лосось 12 кг"
+      },
+      "description": "<p><strong>רכיבים :</strong></p><p>סלמון מיובש (34%), אורז (14%), בטטה מיובשת (12%), שומן הודו (12%), אפונה מיובשת, עיסת סלק מיובשת (5%), חלבון אפונה, רוטב ירקות (2%), שמן סלמון (1%), שמרים (1%) מינרלים, פרה-ביוטיקה משורש עולש (0.034%), פרה-ביוטיקה (MOS) (0.025%), גלוקוזמין (0.012%), MSM (תוסף תזונה) (0.011%), כונדרויטין (0.01%), שורש מניהוט (יוקה), חמוציות, אצות, כורכום, עגבניה, פטרוזיליה (0.005%).</p><p><br></p><p><strong>ערכים תזונתיים :</strong></p><p>חלבון גולמי: 32%, סיבים תזונתיים 2.5%, שומן גולמי: 19%, אפר גולמי: 7.5%, סידן: 7.5%, זרחן: 1.5%, אומגה 3: 1%, אומגה 6: 1.1%, לחות:&nbsp;7.5%</p>",
+      "short_description": "מזון לגורי כלבים בייטסי bitesy חלבון יחיד סלמון, תומך בהתפתחות אופטימלית של הגור\nמכיל בשר סלמון  (34% ) עם אורז לתזונה מאוזנת.\nאורז ובטטה – פחמימות איכותיות קלות לעיכול, פטרוזיליה ואצות לתזונה עשירה בחומרים מזינים.\nעם שמן סלמון – מסייע לעור בריא ופרווה מבריקה, טאורין – מסייע לבריאות הלב\nכולל ויטמינים, מינרלים ונוגדי חמצון חיוניים לחיוניות. גלוקוזמין – מסייע בהתפתחות בריאה של המפרקים\nתוצרת איטליה.",
+      "sku": null,
+      "brand": null,
+      "price": 309,
+      "base_price": 309,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1783426203173-esm6je.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mzvn-klbym-bitesy-gvrym-slmvn-12-kg-x8x2zf",
+      "categories": [
+        "מזון יבש"
+      ],
+      "updated_at": "2026-07-07T12:12:09.637Z"
     },
     {
       "id": "bf85879d-d5d5-4e24-b8af-347d3ee601c1",
@@ -1857,62 +1857,6 @@
       "updated_at": "2026-07-07T11:29:42.212Z"
     },
     {
-      "id": "0b011fc7-738b-4563-abf2-ca5f0df5e489",
-      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-gkm428",
-      "name": "מזון כלבים רטוב איסגרים ארוחת הודו לכלב 410 גרם",
-      "name_translations": {
-        "en": "Wet Dog Food Isegrim Turkey Meal for Dogs 410g",
-        "he": "מזון כלבים רטוב איסגרים ארוחת הודו לכלב 410 גרם",
-        "ru": "Влажный корм для собак Isegrim ужин из индейки для собак 410 грамм"
-      },
-      "description": "<p>Isegrim Roots מספקת את התזונה המקורית של האב הקדמון של כל הכלבים - הזאב. שימורי סופר פרימיום המציעים טעם ללא תחרות בזכות: מרכיבים טבעיים, 70% תכולת בשר, מגוון ירקות עשירים בויטמינים, שמנים מזינים ועשבי בר מובחרים.</p><p>נטול דגנים וגלוטן!</p><p>מכיל בשר הודו בלבד - היפואלרגני!</p><p>97% בשר וציר בשר!</p><p>3% ירקות, שמנים ועשבי בר.</p><p>מגיע באריזת פאווץ מהודרת ונוחה לאיחסון.</p><p><strong>רכיבים עיקריים:</strong></p><p>70% הודו, 27% ציר, 10% לבבות עוף, 1.5% צמח זקן תיש סגול, 1% מינרלים, 0.3% עשבי הרים, 0.2% שמן זרעי חמניות.</p>",
-      "short_description": "שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס הודו.",
-      "sku": null,
-      "brand": null,
-      "price": 19.9,
-      "base_price": 19.9,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://example.com/assets/product-enhanced-1783413446882-ivvbxq.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-gkm428",
-      "categories": [
-        "שימורים ומעדנים"
-      ],
-      "updated_at": "2026-07-07T08:38:34.343Z"
-    },
-    {
-      "id": "0a0ad4ef-7737-4921-8be9-8da260a9cb32",
-      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-pdkox0",
-      "name": "מזון כלבים רטוב איסגרים ארוחת סלמון ופורל לכלב 410 גרם",
-      "name_translations": {
-        "en": "Isegrim Wet Dog Food Salmon and Trout Meal for Dogs 410g",
-        "he": "מזון כלבים רטוב איסגרים ארוחת סלמון ופורל לכלב 410 גרם",
-        "ru": "Влажный корм для собак Isegrim ужин с лососем и форелью для собак 410 грамм"
-      },
-      "description": "<p>Isegrim Roots מספקת את התזונה המקורית של האב הקדמון של כל הכלבים – הזאב. שימורי סופר פרימיום המציעים טעם ללא תחרות בזכות: מרכיבים טבעיים, 70% תכולת בשר, מגוון ירקות עשירים בויטמינים, שמנים מזינים ועשבי בר מובחרים.</p><p>נטול דגנים וגלוטן!</p><p>97% בשר וציר בשר!</p><p>3% ירקות, שמנים ועשבי בר.</p><p>מגיע באריזת פאווץ מהודרת ונוחה לאיחסון.</p><p><strong>רכיבים עיקריים:</strong></p><p>35% עוף, 27.5% ציר, 20% סלמון, 14.5% פורל, 1.5% ארטישוק ירושלמי, 1% מינרלים, 0.3% עשבי נחלים, 0.2% שמן חריע.</p>",
-      "short_description": "שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס עוף, דגי סלמון ופורל.",
-      "sku": null,
-      "brand": null,
-      "price": 19.9,
-      "base_price": 19.9,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://example.com/assets/product-enhanced-1783413605251-8qatrk.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-pdkox0",
-      "categories": [
-        "שימורים ומעדנים"
-      ],
-      "updated_at": "2026-07-07T08:42:18.576Z"
-    },
-    {
       "id": "6983411c-940c-4158-bdd4-49385d1d89ba",
       "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-brvvz-vlbbvt-avp-lklb-410-grm-6mu7fy",
       "name": "מזון כלבים רטוב איסגרים ארוחת ברווז ולבבות עוף לכלב 410 גרם",
@@ -1967,6 +1911,62 @@
         "שימורים ומעדנים"
       ],
       "updated_at": "2026-07-07T08:47:59.314Z"
+    },
+    {
+      "id": "0b011fc7-738b-4563-abf2-ca5f0df5e489",
+      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-gkm428",
+      "name": "מזון כלבים רטוב איסגרים ארוחת הודו לכלב 410 גרם",
+      "name_translations": {
+        "en": "Wet Dog Food Isegrim Turkey Meal for Dogs 410g",
+        "he": "מזון כלבים רטוב איסגרים ארוחת הודו לכלב 410 גרם",
+        "ru": "Влажный корм для собак Isegrim ужин из индейки для собак 410 грамм"
+      },
+      "description": "<p>Isegrim Roots מספקת את התזונה המקורית של האב הקדמון של כל הכלבים - הזאב. שימורי סופר פרימיום המציעים טעם ללא תחרות בזכות: מרכיבים טבעיים, 70% תכולת בשר, מגוון ירקות עשירים בויטמינים, שמנים מזינים ועשבי בר מובחרים.</p><p>נטול דגנים וגלוטן!</p><p>מכיל בשר הודו בלבד - היפואלרגני!</p><p>97% בשר וציר בשר!</p><p>3% ירקות, שמנים ועשבי בר.</p><p>מגיע באריזת פאווץ מהודרת ונוחה לאיחסון.</p><p><strong>רכיבים עיקריים:</strong></p><p>70% הודו, 27% ציר, 10% לבבות עוף, 1.5% צמח זקן תיש סגול, 1% מינרלים, 0.3% עשבי הרים, 0.2% שמן זרעי חמניות.</p>",
+      "short_description": "שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס הודו.",
+      "sku": null,
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1783413446882-ivvbxq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-hvdv-lklb-410-grm-gkm428",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-07-07T08:38:34.343Z"
+    },
+    {
+      "id": "0a0ad4ef-7737-4921-8be9-8da260a9cb32",
+      "slug": "mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-pdkox0",
+      "name": "מזון כלבים רטוב איסגרים ארוחת סלמון ופורל לכלב 410 גרם",
+      "name_translations": {
+        "en": "Isegrim Wet Dog Food Salmon and Trout Meal for Dogs 410g",
+        "he": "מזון כלבים רטוב איסגרים ארוחת סלמון ופורל לכלב 410 גרם",
+        "ru": "Влажный корм для собак Isegrim ужин с лососем и форелью для собак 410 грамм"
+      },
+      "description": "<p>Isegrim Roots מספקת את התזונה המקורית של האב הקדמון של כל הכלבים – הזאב. שימורי סופר פרימיום המציעים טעם ללא תחרות בזכות: מרכיבים טבעיים, 70% תכולת בשר, מגוון ירקות עשירים בויטמינים, שמנים מזינים ועשבי בר מובחרים.</p><p>נטול דגנים וגלוטן!</p><p>97% בשר וציר בשר!</p><p>3% ירקות, שמנים ועשבי בר.</p><p>מגיע באריזת פאווץ מהודרת ונוחה לאיחסון.</p><p><strong>רכיבים עיקריים:</strong></p><p>35% עוף, 27.5% ציר, 20% סלמון, 14.5% פורל, 1.5% ארטישוק ירושלמי, 1% מינרלים, 0.3% עשבי נחלים, 0.2% שמן חריע.</p>",
+      "short_description": "שימורים, לכלבים בוגרים מכל הגזעים, מהאיכות הגבוהה ביותר של המותג Isegrim Roots על בסיס עוף, דגי סלמון ופורל.",
+      "sku": null,
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1783413605251-8qatrk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mzvn-klbym-rtvb-aysgrym-arvcht-slmvn-vpvrl-lklb-410-grm-pdkox0",
+      "categories": [
+        "שימורים ומעדנים"
+      ],
+      "updated_at": "2026-07-07T08:42:18.576Z"
     },
     {
       "id": "db1f0a04-a891-4319-8979-1981a86df151",
@@ -3529,34 +3529,6 @@
       "updated_at": "2026-06-30T18:18:11.838Z"
     },
     {
-      "id": "91334a10-8c4c-4e04-a25c-9a61b19d96d1",
-      "slug": "mrkk-prydvg-lxqsn4",
-      "name": "מרכך פרידוג",
-      "name_translations": {
-        "en": "Fridog Conditioner",
-        "he": "מרכך פרידוג",
-        "ru": "Кондиционер Fridog"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 54,
-      "base_price": 54,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://example.com/assets/product-enhanced-1782901133456-65svjn.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://example.com/product/mrkk-prydvg-lxqsn4",
-      "categories": [
-        "מוצרי טיפוח"
-      ],
-      "updated_at": "2026-07-01T10:21:29.168Z"
-    },
-    {
       "id": "63b1c06c-2922-495e-9b2c-2699c1a6e57d",
       "slug": "atsbavn-tschtsvch-shynyym-zvg-w3h460",
       "name": "אצבעון צחצוח שיניים זוג ",
@@ -3583,6 +3555,34 @@
         "מוצרי טיפוח"
       ],
       "updated_at": "2026-06-30T18:20:08.651Z"
+    },
+    {
+      "id": "91334a10-8c4c-4e04-a25c-9a61b19d96d1",
+      "slug": "mrkk-prydvg-lxqsn4",
+      "name": "מרכך פרידוג",
+      "name_translations": {
+        "en": "Fridog Conditioner",
+        "he": "מרכך פרידוג",
+        "ru": "Кондиционер Fridog"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 54,
+      "base_price": 54,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782901133456-65svjn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mrkk-prydvg-lxqsn4",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-07-01T10:21:29.168Z"
     },
     {
       "id": "327a6c9f-582e-4787-9305-761fd8ba2da8",
@@ -4720,34 +4720,6 @@
       "updated_at": "2026-06-23T10:30:00.051Z"
     },
     {
-      "id": "de42506b-f7f1-41a2-8d11-5807ad04556d",
-      "slug": "papy-rvl-k835l8",
-      "name": "פאפי רול",
-      "name_translations": {
-        "en": "Puppy Roll",
-        "he": "פאפי רול",
-        "ru": "Паппи Ролл"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://example.com/assets/product-enhanced-1782209581919-mie7ia.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://example.com/product/papy-rvl-k835l8",
-      "categories": [
-        "צעצועים"
-      ],
-      "updated_at": "2026-06-23T10:16:40.923Z"
-    },
-    {
       "id": "dc06ccdf-1644-4c11-99bc-2552265c3714",
       "slug": "tsatsva-laysh-tsmyg-chbl-a4z8by",
       "name": "צעצוע לעיסה צמיג חבל",
@@ -4774,6 +4746,34 @@
         "צעצועים"
       ],
       "updated_at": "2026-07-05T19:15:03.269Z"
+    },
+    {
+      "id": "de42506b-f7f1-41a2-8d11-5807ad04556d",
+      "slug": "papy-rvl-k835l8",
+      "name": "פאפי רול",
+      "name_translations": {
+        "en": "Puppy Roll",
+        "he": "פאפי רול",
+        "ru": "Паппи Ролл"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782209581919-mie7ia.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/papy-rvl-k835l8",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-23T10:16:40.923Z"
     },
     {
       "id": "9b5dceef-85a4-4c10-be66-86a7686f537b",
@@ -5338,34 +5338,6 @@
       "updated_at": "2026-06-14T15:03:36.815Z"
     },
     {
-      "id": "2706f091-5920-4d10-ac30-163b0e0bb7c1",
-      "slug": "mbrsht-freedog-ip8x9x",
-      "name": "מברשת freedog",
-      "name_translations": {
-        "en": "freedog brush",
-        "he": "מברשת freedog",
-        "ru": "Щетка freedog"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 55,
-      "base_price": 55,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://example.com/assets/product-enhanced-1781449317230-uuzxmq.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://example.com/product/mbrsht-freedog-ip8x9x",
-      "categories": [
-        "מוצרי טיפוח"
-      ],
-      "updated_at": "2026-06-14T15:02:06.732Z"
-    },
-    {
       "id": "8af26b3d-22c7-48af-90fc-97587dc9d9ee",
       "slug": "mbrsht-avnybrslyt-kshh-advmh-hylkbr",
       "name": "מברשת אוניברסלית קשה אדומה",
@@ -5392,6 +5364,34 @@
         "מוצרי טיפוח"
       ],
       "updated_at": "2026-06-14T15:02:53.848Z"
+    },
+    {
+      "id": "2706f091-5920-4d10-ac30-163b0e0bb7c1",
+      "slug": "mbrsht-freedog-ip8x9x",
+      "name": "מברשת freedog",
+      "name_translations": {
+        "en": "freedog brush",
+        "he": "מברשת freedog",
+        "ru": "Щетка freedog"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 55,
+      "base_price": 55,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1781449317230-uuzxmq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mbrsht-freedog-ip8x9x",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-14T15:02:06.732Z"
     },
     {
       "id": "a619289a-6a90-4584-9c9d-ec99981f89ae",
@@ -5702,34 +5702,6 @@
       "updated_at": "2026-06-14T15:23:22.191Z"
     },
     {
-      "id": "b22cf394-a54d-420e-bda6-48c36e80b737",
-      "slug": "tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp",
-      "name": "צעצוע תמנון קטיפה מרשרש עם צפצפה",
-      "name_translations": {
-        "en": "Plush Octopus Toy with Rattle and Squeaker",
-        "he": "צעצוע תמנון קטיפה מרשרש עם צפצפה",
-        "ru": "Игрушка осьминог из плюша шуршащий со свистком"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 35,
-      "base_price": 35,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://example.com/assets/product-enhanced-1781450720393-qzfqi8.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://example.com/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp",
-      "categories": [
-        "צעצועים"
-      ],
-      "updated_at": "2026-06-14T15:28:02.019Z"
-    },
-    {
       "id": "04f98057-5611-4484-8b76-f76188ee9eb8",
       "slug": "mshkvlt-gvmy-dntlyt-i3kjv5",
       "name": "משקולת גומי דנטלית",
@@ -5756,6 +5728,34 @@
         "צעצועים"
       ],
       "updated_at": "2026-06-14T15:24:51.942Z"
+    },
+    {
+      "id": "b22cf394-a54d-420e-bda6-48c36e80b737",
+      "slug": "tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp",
+      "name": "צעצוע תמנון קטיפה מרשרש עם צפצפה",
+      "name_translations": {
+        "en": "Plush Octopus Toy with Rattle and Squeaker",
+        "he": "צעצוע תמנון קטיפה מרשרש עם צפצפה",
+        "ru": "Игрушка осьминог из плюша шуршащий со свистком"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1781450720393-qzfqi8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/tsatsva-tmnvn-ktyph-mrshrsh-am-tsptsph-osq2dp",
+      "categories": [
+        "צעצועים"
+      ],
+      "updated_at": "2026-06-14T15:28:02.019Z"
     },
     {
       "id": "168352e4-a301-43e9-ab24-c6db287b1b00",
@@ -5898,6 +5898,34 @@
       "updated_at": "2026-06-14T15:31:58.015Z"
     },
     {
+      "id": "c85e3317-99c8-412e-a4c1-d15b484de434",
+      "slug": "mbrsht-avblyt-ktnh-rkvrd-4q0chf",
+      "name": "מברשת אובלית קטנה רקורד",
+      "name_translations": {
+        "en": "Record Small Oval Brush",
+        "he": "מברשת אובלית קטנה רקורד",
+        "ru": "Маленькая овальная щетка Рекорд"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 65,
+      "base_price": 65,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1781449198949-fg4h4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mbrsht-avblyt-ktnh-rkvrd-4q0chf",
+      "categories": [
+        "מוצרי טיפוח"
+      ],
+      "updated_at": "2026-06-14T15:00:08.345Z"
+    },
+    {
       "id": "dade4b69-861a-4be6-b96c-7b119c87b221",
       "slug": "trsys-byshvm-petglow-8o1uv3",
       "name": "תרסיס בישום petglow",
@@ -5924,6 +5952,34 @@
         "מוצרי טיפוח"
       ],
       "updated_at": "2026-06-14T15:36:54.907Z"
+    },
+    {
+      "id": "54bb2e21-89a1-4b92-998d-737349b6d7d3",
+      "slug": "hnrys-bvly-styk-vp0jgi",
+      "name": "הנריס בולי סטיק",
+      "name_translations": {
+        "en": "Harris Bully Stick",
+        "he": "הנריס בולי סטיק",
+        "ru": "Хэррис Булли Стик"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 39,
+      "base_price": 39,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1781449138802-xuj7sa.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/hnrys-bvly-styk-vp0jgi",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-14T14:59:07.948Z"
     },
     {
       "id": "5c015209-539c-435e-9c6f-7030327222d8",
@@ -5955,62 +6011,6 @@
         "צעצועים"
       ],
       "updated_at": "2026-06-10T19:18:02.705Z"
-    },
-    {
-      "id": "54bb2e21-89a1-4b92-998d-737349b6d7d3",
-      "slug": "hnrys-bvly-styk-vp0jgi",
-      "name": "הנריס בולי סטיק",
-      "name_translations": {
-        "en": "Harris Bully Stick",
-        "he": "הנריס בולי סטיק",
-        "ru": "Хэррис Булли Стик"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 39,
-      "base_price": 39,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://example.com/assets/product-enhanced-1781449138802-xuj7sa.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://example.com/product/hnrys-bvly-styk-vp0jgi",
-      "categories": [
-        "חטיפים"
-      ],
-      "updated_at": "2026-06-14T14:59:07.948Z"
-    },
-    {
-      "id": "c85e3317-99c8-412e-a4c1-d15b484de434",
-      "slug": "mbrsht-avblyt-ktnh-rkvrd-4q0chf",
-      "name": "מברשת אובלית קטנה רקורד",
-      "name_translations": {
-        "en": "Record Small Oval Brush",
-        "he": "מברשת אובלית קטנה רקורד",
-        "ru": "Маленькая овальная щетка Рекорд"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 65,
-      "base_price": 65,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://example.com/assets/product-enhanced-1781449198949-fg4h4.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://example.com/product/mbrsht-avblyt-ktnh-rkvrd-4q0chf",
-      "categories": [
-        "מוצרי טיפוח"
-      ],
-      "updated_at": "2026-06-14T15:00:08.345Z"
     },
     {
       "id": "48d3c3ef-c991-47ce-afb6-582db357da1d",
@@ -6265,34 +6265,6 @@
       "updated_at": "2026-06-14T10:43:05.397Z"
     },
     {
-      "id": "8a4866e3-bc55-4cc3-9bb7-f651e69443c5",
-      "slug": "hnrys-bvly-styk-tsmh-7bbhly",
-      "name": "הנריס בולי סטיק צמה",
-      "name_translations": {
-        "en": "Harris Bully Stick Braid",
-        "he": "הנריס בולי סטיק צמה",
-        "ru": "Henris Bully Stick коса"
-      },
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 60,
-      "base_price": 60,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://example.com/assets/product-enhanced-1781433698700-b9ysz.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://example.com/product/hnrys-bvly-styk-tsmh-7bbhly",
-      "categories": [
-        "חטיפים"
-      ],
-      "updated_at": "2026-06-14T10:41:50.594Z"
-    },
-    {
       "id": "be1b1020-d102-46a2-9b0d-2b155a575768",
       "slug": "msrk-gbhym-mshtnym-rkvrd-yemjg2",
       "name": "מסרק גבהים משתנים רקורד",
@@ -6319,6 +6291,34 @@
         "מוצרי טיפוח"
       ],
       "updated_at": "2026-06-14T10:42:25.527Z"
+    },
+    {
+      "id": "8a4866e3-bc55-4cc3-9bb7-f651e69443c5",
+      "slug": "hnrys-bvly-styk-tsmh-7bbhly",
+      "name": "הנריס בולי סטיק צמה",
+      "name_translations": {
+        "en": "Harris Bully Stick Braid",
+        "he": "הנריס בולי סטיק צמה",
+        "ru": "Henris Bully Stick коса"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 60,
+      "base_price": 60,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1781433698700-b9ysz.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/hnrys-bvly-styk-tsmh-7bbhly",
+      "categories": [
+        "חטיפים"
+      ],
+      "updated_at": "2026-06-14T10:41:50.594Z"
     },
     {
       "id": "e093d300-0023-48df-afa2-1de7713d3f91",
