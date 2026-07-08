@@ -1453,6 +1453,8 @@ window.onload = function() {
 ;
 
 ;
+
+;
 /* ==ZAPPY E-COMMERCE JS START== */
 // E-commerce functionality
 (function() {
@@ -4182,10 +4184,12 @@ function stripHtmlToText(html) {
       .then(function(data) {
         if (data && data.success && data.data) {
           var full = data.data;
-          // Keep card_variants (richer for the card) but take gallery/desc/price from full.
-          qvState.product = Object.assign({}, full, cardProduct ? { card_variants: cardProduct.card_variants } : {});
+          var fullCardVariants = full.card_variants || (cardProduct && cardProduct.card_variants) || null;
+          // Take gallery/desc/price from full and use the freshest normalized
+          // variant payload available so image/split swatches match the PDP.
+          qvState.product = Object.assign({}, full, fullCardVariants ? { card_variants: fullCardVariants } : {});
           qvState.step = parseFloat(full.quantity_step) || 1;
-          if (!qvState.cv && full.card_variants) qvState.cv = full.card_variants;
+          if (fullCardVariants) qvState.cv = fullCardVariants;
         }
         // modal might have been closed while fetching
         if (!qvEl('zappy-qv-modal') || qvEl('zappy-qv-modal').hidden) return;
@@ -11508,29 +11512,49 @@ function renderProductDetail(container, product, t) {
   // Build variant selector HTML if product has variants
   let variantSelectorHtml = '';
   if (hasVariants) {
-    // Group variants by attribute type to create selection options
+    // Prefer the normalized card_variants option payload when available. It is
+    // already ordered by the merchant's variant_config and carries custom
+    // split/image swatch metadata. Falling back to raw variants is kept for
+    // older/detail-only payloads that do not include card_variants.
+    const normalizedVariantOptions = product.card_variants && Array.isArray(product.card_variants.options)
+      ? product.card_variants.options
+      : [];
     const attributeGroups = {};
     const attributeDisplayMap = {};
-    variants.forEach(variant => {
-      if (variant.attributes && variant.is_active !== false) {
-        Object.entries(variant.attributes).forEach(([key, value]) => {
-          if (!attributeGroups[key]) {
-            attributeGroups[key] = new Set();
-          }
-          attributeGroups[key].add(value);
-          if (!attributeDisplayMap[key]) {
-            attributeDisplayMap[key] = {};
-          }
-          const displayValue =
-            variant.attributes_display && Object.prototype.hasOwnProperty.call(variant.attributes_display, key)
-              ? variant.attributes_display[key]
-              : value;
-          if (!attributeDisplayMap[key][value]) {
-            attributeDisplayMap[key][value] = displayValue;
-          }
+    if (normalizedVariantOptions.length) {
+      normalizedVariantOptions.forEach(option => {
+        if (!option || !option.key) return;
+        if (!attributeGroups[option.key]) attributeGroups[option.key] = new Set();
+        if (!attributeDisplayMap[option.key]) attributeDisplayMap[option.key] = {};
+        (option.values || []).forEach(valueEntry => {
+          const rawValue = valueEntry && typeof valueEntry === 'object' ? valueEntry.value : valueEntry;
+          if (rawValue == null || rawValue === '') return;
+          attributeGroups[option.key].add(rawValue);
+          attributeDisplayMap[option.key][rawValue] = (valueEntry && valueEntry.label) || rawValue;
         });
-      }
-    });
+      });
+    } else {
+      variants.forEach(variant => {
+        if (variant.attributes && variant.is_active !== false) {
+          Object.entries(variant.attributes).forEach(([key, value]) => {
+            if (!attributeGroups[key]) {
+              attributeGroups[key] = new Set();
+            }
+            attributeGroups[key].add(value);
+            if (!attributeDisplayMap[key]) {
+              attributeDisplayMap[key] = {};
+            }
+            const displayValue =
+              variant.attributes_display && Object.prototype.hasOwnProperty.call(variant.attributes_display, key)
+                ? variant.attributes_display[key]
+                : value;
+            if (!attributeDisplayMap[key][value]) {
+              attributeDisplayMap[key][value] = displayValue;
+            }
+          });
+        }
+      });
+    }
     
     // Attribute label translations, including saved labels for custom options.
     const attrLabels = window.getVariantAttributeLabels
@@ -11546,6 +11570,7 @@ function renderProductDetail(container, product, t) {
     // Build variant groups HTML
     const groupsHtml = hasAttributeGroups
       ? Object.entries(attributeGroups).map(([attrKey, values]) => {
+        const normalizedOption = normalizedVariantOptions.find(option => option && option.key === attrKey) || null;
         const label = getAttrLabel(attrKey);
         const sizeOrder = {'xxxs':0,'xxs':1,'xs':2,'s':3,'m':4,'l':5,'xl':6,'xxl':7,'2xl':7,'xxxl':8,'3xl':8,'4xl':9,'5xl':10};
         const valuesArray = Array.from(values).sort((a, b) => {
@@ -11564,9 +11589,21 @@ function renderProductDetail(container, product, t) {
         const optionsHtml = valuesArray.map(value => {
           const displayValue =
             (attributeDisplayMap[attrKey] && attributeDisplayMap[attrKey][value]) || value;
+          const normalizedValue = normalizedOption && Array.isArray(normalizedOption.values)
+            ? normalizedOption.values.find(entry => entry && entry.value === value)
+            : null;
           // For color attribute, prefer configured hex and fall back for older sites.
           if (isColorAttr) {
             var swatchMeta = window.getConfiguredColorSwatchMeta(product, attrKey, value) || {};
+            if (normalizedValue && typeof normalizedValue === 'object') {
+              swatchMeta = Object.assign({}, swatchMeta, {
+                hex: normalizedValue.hex || swatchMeta.hex,
+                hex2: normalizedValue.hex2 || swatchMeta.hex2,
+                swatchImage: normalizedValue.swatchImage || normalizedValue.image || swatchMeta.swatchImage,
+                imagePosition: normalizedValue.imagePosition || swatchMeta.imagePosition,
+                imageSize: normalizedValue.imageSize || swatchMeta.imageSize
+              });
+            }
             var bgColor = swatchMeta.hex || window.getLegacyColorSwatchHex(value);
             var swatchTitle = typeof zappyCardSwatchLabel === 'function'
               ? (zappyCardSwatchLabel({ value: value, label: displayValue, hex: bgColor, hex2: swatchMeta.hex2, swatchImage: swatchMeta.swatchImage, imagePosition: swatchMeta.imagePosition, imageSize: swatchMeta.imageSize }) || displayValue)
