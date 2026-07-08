@@ -1457,6 +1457,8 @@ window.onload = function() {
 ;
 
 ;
+
+;
 /* ==ZAPPY E-COMMERCE JS START== */
 // E-commerce functionality
 (function() {
@@ -11538,6 +11540,7 @@ function renderProductDetail(container, product, t) {
       price: row.price != null ? row.price : existing.price,
       image: row.image || existing.image,
       sku: row.sku || existing.sku,
+      custom_fields: existing.custom_fields || existing.customFields || row.custom_fields || row.customFields || {},
       available: typeof row.available === 'boolean' ? row.available : existing.available,
       is_active: existing.is_active !== false
     });
@@ -11545,6 +11548,10 @@ function renderProductDetail(container, product, t) {
   const variants = Object.values(variantById);
   const hasVariants = variants.length > 0;
   const activeVariants = variants.filter(variant => variant.is_active !== false);
+  const initialSpecifications = getEffectiveProductSpecifications(null, product);
+  const hasAnySpecifications =
+    initialSpecifications.length > 0 ||
+    activeVariants.some(variant => getVariantSpecifications(variant).length > 0);
   const variantPrices = activeVariants
     .map(variant => {
       if (variant.price !== null && variant.price !== undefined) {
@@ -11958,24 +11965,15 @@ function renderProductDetail(container, product, t) {
           </div>
         </div>
         ` : ''}
-        ${(product.custom_fields?.specifications?.length > 0) ? `
-        <div class="product-details-accordion collapsed">
+        ${hasAnySpecifications ? `
+        <div id="product-specifications-accordion" class="product-details-accordion collapsed" ${initialSpecifications.length > 0 ? '' : 'style="display:none;"'}>
           <div class="product-details-divider"></div>
           <button type="button" class="product-details-header" onclick="toggleProductDetails(this)">
             <span>${product.custom_fields?.specificationsTitle || additionalJsSpecificationsSectionTitle || getEcomText('specifications', t.specifications || 'Specifications')}</span>
             <span class="product-details-toggle">+</span>
           </button>
-          <div class="product-details-body">
-            <div class="product-specifications">
-              <table class="specs-table">
-                ${product.custom_fields.specifications.map(spec => `
-                  <tr>
-                    <th dir="auto">${spec.key}</th>
-                    <td dir="auto">${(spec.value || '').replace(/\\,/g, ',')}</td>
-                  </tr>
-                `).join('')}
-              </table>
-            </div>
+          <div class="product-details-body" id="product-specifications-body">
+            ${renderProductSpecificationsHtml(initialSpecifications)}
           </div>
         </div>
         ` : ''}
@@ -12296,6 +12294,80 @@ function toggleProductDetails(header) {
   }
 }
 
+function productSpecsEscapeHtml(value) {
+  return String(value == null ? '' : value)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function normalizeProductSpecifications(specifications) {
+  if (!Array.isArray(specifications)) return [];
+  return specifications
+    .map(function(spec) {
+      return {
+        key: String((spec && spec.key) || '').trim(),
+        value: String((spec && spec.value) || '').trim()
+      };
+    })
+    .filter(function(spec) { return spec.key && spec.value; });
+}
+
+function getVariantCustomFields(variant) {
+  if (!variant) return {};
+  var customFields = variant.custom_fields || variant.customFields || {};
+  if (typeof customFields === 'string') {
+    try {
+      customFields = JSON.parse(customFields);
+    } catch (e) {
+      customFields = {};
+    }
+  }
+  return customFields && typeof customFields === 'object' && !Array.isArray(customFields) ? customFields : {};
+}
+
+function getVariantSpecifications(variant) {
+  return normalizeProductSpecifications(getVariantCustomFields(variant).specifications);
+}
+
+function getProductSpecifications(product) {
+  return normalizeProductSpecifications(product && product.custom_fields && product.custom_fields.specifications);
+}
+
+function getEffectiveProductSpecifications(variant, product) {
+  var variantSpecs = getVariantSpecifications(variant);
+  if (variantSpecs.length > 0) return variantSpecs;
+  return getProductSpecifications(product);
+}
+
+function renderProductSpecificationsHtml(specifications) {
+  var specs = normalizeProductSpecifications(specifications);
+  if (specs.length === 0) return '';
+  return '<div class="product-specifications"><table class="specs-table">' +
+    specs.map(function(spec) {
+      return '<tr><th dir="auto">' + productSpecsEscapeHtml(spec.key) + '</th><td dir="auto">' +
+        productSpecsEscapeHtml(String(spec.value || '').replace(/\\,/g, ',')) +
+        '</td></tr>';
+    }).join('') +
+    '</table></div>';
+}
+
+function updateProductSpecificationsForVariant(variant, product) {
+  var accordion = document.getElementById('product-specifications-accordion');
+  var body = document.getElementById('product-specifications-body');
+  if (!accordion || !body) return;
+  var specs = getEffectiveProductSpecifications(variant, product);
+  if (specs.length === 0) {
+    accordion.style.display = 'none';
+    body.innerHTML = '';
+    return;
+  }
+  accordion.style.display = '';
+  body.innerHTML = renderProductSpecificationsHtml(specs);
+}
+
 /** True when variant cannot be purchased (explicit OOS, finite qty ≤ 0, inactive, or legacy stock_quantity).
  *  NULL/absent inventory quantity = unlimited stock (still available when active / in_stock).
  *  Keep aligned with server/utils/ecommerceVariantStorefrontAvailability.js */
@@ -12557,6 +12629,7 @@ function updateVariantUI(variant, product, t, selectedAttributes) {
   const hasVariantPriceRange = window.productHasVariantPriceRange;
   const variantMinPrice = window.productVariantMinPrice;
   const startingAtLabel = getEcomText('startingAt', t.startingAt || 'Starting at');
+  updateProductSpecificationsForVariant(variant, product);
   
   // Store original main image on first call
   if (mainImage && !window._originalMainImageSrc) {
