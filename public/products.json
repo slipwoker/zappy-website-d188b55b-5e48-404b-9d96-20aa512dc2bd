@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-08T09:37:51.078Z",
+  "generated_at": "2026-07-08T10:09:24.357Z",
   "base_url": "https://example.com",
   "currency": "ILS",
   "count": 236,
@@ -1216,7 +1216,7 @@
       "categories": [
         "קולרים ורצועות"
       ],
-      "updated_at": "2026-07-08T09:33:41.469Z"
+      "updated_at": "2026-07-08T10:06:11.634Z"
     },
     {
       "id": "faf1683c-6bfb-4cc9-81d0-1153702fcb48",

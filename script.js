@@ -1451,6 +1451,8 @@ window.onload = function() {
 ;
 
 ;
+
+;
 /* ==ZAPPY E-COMMERCE JS START== */
 // E-commerce functionality
 (function() {
@@ -2237,9 +2239,9 @@ function stripHtmlToText(html) {
       labels[key] = attrLabels[key] || attrLabels[String(key).toLowerCase()] || key;
 
       var isColor = String(key).toLowerCase() === 'color' || String(key).toLowerCase().includes('color');
-      if (isColor && typeof window.getConfiguredColorSwatchHex === 'function') {
+      if (isColor && typeof window.getConfiguredColorSwatchMeta === 'function') {
         if (!colorSwatches[key]) colorSwatches[key] = {};
-        colorSwatches[key][String(value)] = window.getConfiguredColorSwatchHex(item, key, value);
+        colorSwatches[key][String(value)] = window.getConfiguredColorSwatchMeta(item, key, value);
       }
     });
 
@@ -3163,7 +3165,7 @@ function stripHtmlToText(html) {
   function zappyCardSwatchStyle(val) {
     if (val && val.swatchImage) {
       var resolver = window.resolveProductImageUrl || function(x) { return x; };
-      return 'background-image:url("' + zappyCardCssUrl(resolver(val.swatchImage)) + '");background-size:cover;background-position:' + zappyCardEscAttr(val.imagePosition || '50% 50%') + ';';
+      return 'background-image:url("' + zappyCardCssUrl(resolver(val.swatchImage)) + '");background-size:' + zappyCardEscAttr(val.imageSize || 'cover') + ';background-position:' + zappyCardEscAttr(val.imagePosition || '50% 50%') + ';';
     }
     if (val && val.hex2) {
       return 'background:linear-gradient(90deg,' + zappyCardCssColor(val.hex || val.value) + ' 0 50%,' + zappyCardCssColor(val.hex2) + ' 50% 100%);';
@@ -3172,8 +3174,8 @@ function stripHtmlToText(html) {
   }
   function zappyCardSwatchLabel(val) {
     var label = String((val && val.label) || '').trim();
-    if (val && val.swatchImage) return label ? label + ' · image swatch' : 'Image swatch';
-    if (val && val.hex2) return label + ': ' + (val.hex || '') + ' + ' + val.hex2;
+    if (val && val.swatchImage) return label || 'Image swatch';
+    if (val && val.hex2) return label;
     return label;
   }
   function zappyCardSelAttrs(cv, sel) {
@@ -4297,7 +4299,8 @@ function stripHtmlToText(html) {
               hex: compactValue.hex || window.getLegacyColorSwatchHex(colorValue),
               hex2: compactValue.hex2 || '',
               swatchImage: compactValue.swatchImage || compactValue.image || '',
-              imagePosition: compactValue.imagePosition || '50% 50%'
+              imagePosition: compactValue.imagePosition || '50% 50%',
+              imageSize: compactValue.imageSize || ''
             };
           }
           return { hex: compactValue };
@@ -4329,7 +4332,8 @@ function stripHtmlToText(html) {
           hex: match.hex || window.getLegacyColorSwatchHex(colorValue),
           hex2: match.hex2 || '',
           swatchImage: match.image || match.swatchImage || '',
-          imagePosition: match.imagePosition || '50% 50%'
+          imagePosition: match.imagePosition || '50% 50%',
+          imageSize: match.imageSize || ''
         };
       }
     }
@@ -4585,8 +4589,11 @@ function stripHtmlToText(html) {
             var label = attrLabels[key] || attrLabels[key.toLowerCase()] || key;
             var isColor = key.toLowerCase() === 'color' || key.toLowerCase().includes('color');
             if (isColor) {
-              var bgColor = window.getConfiguredColorSwatchHex(item, key, value);
-              parts.push('<span class="cart-item-attr"><span class="cart-item-attr-label">' + label + ':</span> <span class="cart-item-color-swatch" title="' + displayValue + '" style="display:inline-block;width:14px;height:14px;border-radius:50%;background-color:' + bgColor + ';border:1px solid rgba(0,0,0,0.15);vertical-align:middle;margin-' + (document.documentElement.dir === 'rtl' ? 'right' : 'left') + ':4px;"></span></span>');
+              var swatchMeta = window.getConfiguredColorSwatchMeta(item, key, value) || {};
+              var swatchStyle = typeof zappyCardSwatchStyle === 'function'
+                ? zappyCardSwatchStyle({ value: value, label: displayValue, hex: swatchMeta.hex, hex2: swatchMeta.hex2, swatchImage: swatchMeta.swatchImage, imagePosition: swatchMeta.imagePosition, imageSize: swatchMeta.imageSize })
+                : 'background-color:' + (swatchMeta.hex || window.getLegacyColorSwatchHex(value)) + ';';
+              parts.push('<span class="cart-item-attr"><span class="cart-item-attr-label">' + label + ':</span> <span class="cart-item-color-swatch" title="' + displayValue + '" style="display:inline-block;width:14px;height:14px;border-radius:50%;' + swatchStyle + 'border:1px solid rgba(0,0,0,0.15);vertical-align:middle;margin-' + (document.documentElement.dir === 'rtl' ? 'right' : 'left') + ':4px;"></span></span>');
             } else {
               parts.push('<span class="cart-item-attr"><span class="cart-item-attr-label">' + label + ':</span> ' + displayValue + '</span>');
             }
@@ -11460,7 +11467,29 @@ function renderProductDetail(container, product, t) {
   const showPrice = product.custom_fields?.showPrice !== false;
   
   // Check if product has variants
-  const variants = product.variants || [];
+  const rawVariants = product.variants || [];
+  const cardMatrix = product.card_variants && Array.isArray(product.card_variants.matrix)
+    ? product.card_variants.matrix
+    : [];
+  const variantById = {};
+  rawVariants.forEach(function(variant) {
+    if (!variant || !variant.id) return;
+    variantById[String(variant.id)] = variant;
+  });
+  cardMatrix.forEach(function(row) {
+    if (!row || !row.id) return;
+    var existing = variantById[String(row.id)] || {};
+    variantById[String(row.id)] = Object.assign({}, existing, {
+      id: row.id,
+      attributes: row.attributes || existing.attributes || {},
+      price: row.price != null ? row.price : existing.price,
+      image: row.image || existing.image,
+      sku: row.sku || existing.sku,
+      available: typeof row.available === 'boolean' ? row.available : existing.available,
+      is_active: existing.is_active !== false
+    });
+  });
+  const variants = Object.values(variantById);
   const hasVariants = variants.length > 0;
   const activeVariants = variants.filter(variant => variant.is_active !== false);
   const variantPrices = activeVariants
@@ -11539,11 +11568,11 @@ function renderProductDetail(container, product, t) {
           if (isColorAttr) {
             var swatchMeta = window.getConfiguredColorSwatchMeta(product, attrKey, value) || {};
             var bgColor = swatchMeta.hex || window.getLegacyColorSwatchHex(value);
-            var swatchTitle = swatchMeta.swatchImage
-              ? displayValue + ' · image swatch'
-              : (swatchMeta.hex2 ? displayValue + ': ' + bgColor + ' + ' + swatchMeta.hex2 : displayValue);
+            var swatchTitle = typeof zappyCardSwatchLabel === 'function'
+              ? (zappyCardSwatchLabel({ value: value, label: displayValue, hex: bgColor, hex2: swatchMeta.hex2, swatchImage: swatchMeta.swatchImage, imagePosition: swatchMeta.imagePosition, imageSize: swatchMeta.imageSize }) || displayValue)
+              : displayValue;
             var swatchStyle = typeof zappyCardSwatchStyle === 'function'
-              ? zappyCardSwatchStyle({ value: value, label: displayValue, hex: bgColor, hex2: swatchMeta.hex2, swatchImage: swatchMeta.swatchImage, imagePosition: swatchMeta.imagePosition })
+              ? zappyCardSwatchStyle({ value: value, label: displayValue, hex: bgColor, hex2: swatchMeta.hex2, swatchImage: swatchMeta.swatchImage, imagePosition: swatchMeta.imagePosition, imageSize: swatchMeta.imageSize })
               : 'background-color: ' + _eA(bgColor) + ';';
             return '<button type="button" class="variant-option color-swatch" data-attr="' + _eA(attrKey) + '" data-value="' + _eA(value) + '" data-display-value="' + _eA(displayValue) + '" data-color-hex="' + _eA(bgColor) + '" style="' + _eA(swatchStyle) + '" title="' + _eA(swatchTitle) + '"></button>';
           }
