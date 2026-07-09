@@ -8,6 +8,9 @@
   function hasCriticalCommerceDom() {
     return !!document.querySelector('#zappy-product-grid,#zappy-product-detail,#cart-items,#checkout-form,.checkout-page,.cart-page,.order-success-page,[data-product-id],.product-detail-page');
   }
+  function getHomepageDynamicCommerceTargets() {
+    return Array.prototype.slice.call(document.querySelectorAll('#zappy-featured-products,#zappy-featured-categories'));
+  }
   function shouldLoadImmediately() {
     return immediatePath.test(window.location.pathname || '/') || hasCriticalCommerceDom();
   }
@@ -21,18 +24,86 @@
         existing.addEventListener('error', reject, { once: true });
         return;
       }
+      var restoreDOMContentLoaded = installLateDOMContentLoadedReplay();
       var script = document.createElement('script');
       script.src = runtimeSrc;
       script.defer = true;
       script.setAttribute('data-zappy-storefront-runtime', 'true');
-      script.onload = function() { runtimeLoaded = true; resolve(); };
-      script.onerror = reject;
+      script.onload = function() {
+        restoreDOMContentLoaded();
+        runtimeLoaded = true;
+        resolve();
+      };
+      script.onerror = function(error) {
+        restoreDOMContentLoaded();
+        reject(error);
+      };
       document.head.appendChild(script);
     }).catch(function(error) {
       runtimePromise = null;
       throw error;
     });
     return runtimePromise;
+  }
+  function installLateDOMContentLoadedReplay() {
+    if (document.readyState === 'loading') return function() {};
+    var original = document.addEventListener;
+    var restored = false;
+    document.addEventListener = function(type, listener, options) {
+      if (type === 'DOMContentLoaded' && listener) {
+        setTimeout(function() {
+          try {
+            if (typeof listener === 'function') {
+              listener.call(document, new Event('DOMContentLoaded'));
+            } else if (listener && typeof listener.handleEvent === 'function') {
+              listener.handleEvent(new Event('DOMContentLoaded'));
+            }
+          } catch (error) {
+            setTimeout(function() { throw error; }, 0);
+          }
+        }, 0);
+        return;
+      }
+      return original.call(document, type, listener, options);
+    };
+    return function() {
+      if (!restored) {
+        restored = true;
+        document.addEventListener = original;
+      }
+    };
+  }
+  function scheduleHomepageDynamicRuntimeLoad() {
+    if (runtimeLoaded || runtimePromise) return false;
+    var targets = getHomepageDynamicCommerceTargets();
+    if (!targets.length) return false;
+    var triggered = false;
+    var observer = null;
+    var trigger = function() {
+      if (triggered || runtimeLoaded || runtimePromise) return;
+      triggered = true;
+      if (observer) observer.disconnect();
+      targets.forEach(function(target) {
+        ['pointerenter', 'focusin', 'touchstart', 'pointerdown'].forEach(function(eventName) {
+          target.removeEventListener(eventName, trigger);
+        });
+      });
+      loadRuntime();
+    };
+    if ('IntersectionObserver' in window) {
+      observer = new IntersectionObserver(function(entries) {
+        if (entries.some(function(entry) { return entry.isIntersecting; })) trigger();
+      }, { rootMargin: '300px 0px' });
+      targets.forEach(function(target) { observer.observe(target); });
+    } else {
+      setTimeout(trigger, 1200);
+    }
+    targets.forEach(function(target) {
+      ['pointerenter', 'focusin', 'touchstart', 'pointerdown'].forEach(function(eventName) {
+        target.addEventListener(eventName, trigger, { once: true, passive: true });
+      });
+    });
+    return true;
   }
   function replayAfterLoad(event) {
     var target = event.target;
@@ -46,12 +117,17 @@
     });
   }
   window.__zappyLoadStorefrontRuntime = loadRuntime;
+  function onReady() {
+    if (shouldLoadImmediately()) {
+      loadRuntime();
+    } else {
+      scheduleHomepageDynamicRuntimeLoad();
+    }
+  }
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() {
-      if (shouldLoadImmediately()) loadRuntime();
-    }, { once: true });
-  } else if (shouldLoadImmediately()) {
-    loadRuntime();
+    document.addEventListener('DOMContentLoaded', onReady, { once: true });
+  } else {
+    onReady();
   }
   ['click', 'focusin', 'pointerdown', 'touchstart', 'keydown'].forEach(function(eventName) {
     document.addEventListener(eventName, replayAfterLoad, { capture: true, passive: eventName !== 'click' && eventName !== 'keydown' });
