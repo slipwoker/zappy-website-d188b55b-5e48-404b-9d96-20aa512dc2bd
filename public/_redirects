@@ -1,68 +1,11 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-07-09T11:51:34.098Z
-# NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
-# This file is kept for reference only
-
-/our-cubs  /our-cubs.html  200!
-/products  /products.html  200!
-/cart  /cart.html  200!
-/checkout  /checkout.html  200!
-/login  /login.html  200!
-/account  /account.html  200!
-/order-success  /order-success.html  200!
-/return-policy  /return-policy.html  200!
-/privacy  /privacy.html  200!
-/accessibility  /accessibility.html  200!
-/terms  /terms.html  200!
-/new-resident-guide  /new-resident-guide.html  200!
-/contact  /contact.html  200!
-/shipping-policy  /shipping-policy.html  200!
-
-# Language slug rewrites for SEO
-/en  /en/index.html  200!
-/en/our-cubs  /en/our-cubs.html  200!
-/en/products  /en/products.html  200!
-/en/cart  /en/cart.html  200!
-/en/checkout  /en/checkout.html  200!
-/en/login  /en/login.html  200!
-/en/account  /en/account.html  200!
-/en/order-success  /en/order-success.html  200!
-/en/return-policy  /en/return-policy.html  200!
-/en/privacy  /en/privacy.html  200!
-/en/accessibility  /en/accessibility.html  200!
-/en/terms  /en/terms.html  200!
-/en/new-resident-guide  /en/new-resident-guide.html  200!
-/en/contact  /en/contact.html  200!
-/en/shipping-policy  /en/shipping-policy.html  200!
-/en  /en/index.html  200!
-/ru  /ru/index.html  200!
-/ru/our-cubs  /ru/our-cubs.html  200!
-/ru/products  /ru/products.html  200!
-/ru/cart  /ru/cart.html  200!
-/ru/checkout  /ru/checkout.html  200!
-/ru/login  /ru/login.html  200!
-/ru/account  /ru/account.html  200!
-/ru/order-success  /ru/order-success.html  200!
-/ru/return-policy  /ru/return-policy.html  200!
-/ru/privacy  /ru/privacy.html  200!
-/ru/accessibility  /ru/accessibility.html  200!
-/ru/terms  /ru/terms.html  200!
-/ru/new-resident-guide  /ru/new-resident-guide.html  200!
-/ru/contact  /ru/contact.html  200!
-/ru/shipping-policy  /ru/shipping-policy.html  200!
-/ru  /ru/index.html  200!
-
-# Legal pages - redirect old .html URLs to friendly URLs
-/privacy.html  /privacy  301
-/accessibility.html  /accessibility  301
-/terms.html  /terms  301
-
-/  /index.html  200!
+# Generated: 2026-07-09T11:54:31.762Z
+# Generated during publish asset refresh
 
 # Dynamic routes - serve dedicated HTML templates for dynamic paths
 /product/*  /product.html  200!
 /category/*  /category.html  200!
-/en/product/*  /en/product/index.html  200!
-/en/category/*  /en/category/index.html  200!
-/ru/product/*  /ru/product/index.html  200!
-/ru/category/*  /ru/category/index.html  200!
+/en/product/*  /product.html  200!
+/en/category/*  /category.html  200!
+/ru/product/*  /product.html  200!
+/ru/category/*  /category.html  200!

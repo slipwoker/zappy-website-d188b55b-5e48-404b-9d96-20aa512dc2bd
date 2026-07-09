@@ -1,1 +1,146 @@
-!function(){"use strict";var t=!1,e=null,n=/\/(?:products?|product|category|cart|checkout|account|order-success|courses?|lesson|my-learning|certificate)(?:\/|$|[?#])/i;function o(){return n.test(window.location.pathname||"/")||!!document.querySelector("#zappy-product-grid,#zappy-product-detail,#cart-items,#checkout-form,.checkout-page,.cart-page,.order-success-page,[data-product-id],.product-detail-page")}function r(){return t?Promise.resolve():e||(e=new Promise(function(e,n){var o=document.querySelector('script[data-zappy-storefront-runtime="true"]');if(o)return o.addEventListener("load",function(){t=!0,e()},{once:!0}),void o.addEventListener("error",n,{once:!0});var r=function(){if("loading"===document.readyState)return function(){};var t=document.addEventListener,e=!1;return document.addEventListener=function(e,n,o){if("DOMContentLoaded"!==e||!n)return t.call(document,e,n,o);setTimeout(function(){try{"function"==typeof n?n.call(document,new Event("DOMContentLoaded")):n&&"function"==typeof n.handleEvent&&n.handleEvent(new Event("DOMContentLoaded"))}catch(t){setTimeout(function(){throw t},0)}},0)},function(){e||(e=!0,document.addEventListener=t)}}(),c=document.createElement("script");c.src="/storefront-runtime.js",c.defer=!0,c.setAttribute("data-zappy-storefront-runtime","true"),c.onload=function(){r(),t=!0,e()},c.onerror=function(t){r(),n(t)},document.head.appendChild(c)}).catch(function(t){throw e=null,t}))}function c(){if(t||e)return!1;var n=Array.prototype.slice.call(document.querySelectorAll("#zappy-featured-products,#zappy-featured-categories"));if(!n.length)return!1;var o=!1,c=null,i=function(){o||t||e||(o=!0,c&&c.disconnect(),n.forEach(function(t){["pointerenter","focusin","touchstart","pointerdown"].forEach(function(e){t.removeEventListener(e,i)})}),r())};return"IntersectionObserver"in window?(c=new IntersectionObserver(function(t){t.some(function(t){return t.isIntersecting})&&i()},{rootMargin:"300px 0px"}),n.forEach(function(t){c.observe(t)})):setTimeout(i,1200),n.forEach(function(t){["pointerenter","focusin","touchstart","pointerdown"].forEach(function(e){t.addEventListener(e,i,{once:!0,passive:!0})})}),!0}function i(n){var o=n.target;!o||t||e||o.closest&&o.closest('button,a,[role="button"],input,select,textarea,.mobile-toggle,.hamburger,.cart-link,.login-link,.nav-search-toggle,.zappy-products-dropdown')&&r().then(function(){"function"==typeof o.click&&"click"===n.type&&setTimeout(function(){try{o.click()}catch(t){}},0)})}function u(){o()?r():c()}if(window.__zappyLoadStorefrontRuntime=r,"loading"===document.readyState?document.addEventListener("DOMContentLoaded",u,{once:!0}):u(),["click","focusin","pointerdown","touchstart","keydown"].forEach(function(t){document.addEventListener(t,i,{capture:!0,passive:"click"!==t&&"keydown"!==t})}),!o()){var a=function(){r()};setTimeout(function(){t||e||("function"==typeof window.requestIdleCallback?window.requestIdleCallback(a,{timeout:2e3}):a())},12e3)}}();
+/* ZAPPY_STOREFRONT_RUNTIME_BOOTSTRAP_V1 */
+(function() {
+  'use strict';
+  var runtimeLoaded = false;
+  var runtimePromise = null;
+  var runtimeSrc = '/storefront-runtime.js';
+  var immediatePath = /\/(?:products?|product|category|cart|checkout|account|order-success|courses?|lesson|my-learning|certificate)(?:\/|$|[?#])/i;
+  function hasCriticalCommerceDom() {
+    return !!document.querySelector('#zappy-product-grid,#zappy-product-detail,#cart-items,#checkout-form,.checkout-page,.cart-page,.order-success-page,[data-product-id],.product-detail-page');
+  }
+  function getHomepageDynamicCommerceTargets() {
+    return Array.prototype.slice.call(document.querySelectorAll('#zappy-featured-products,#zappy-featured-categories'));
+  }
+  function shouldLoadImmediately() {
+    return immediatePath.test(window.location.pathname || '/') || hasCriticalCommerceDom();
+  }
+  function loadRuntime() {
+    if (runtimeLoaded) return Promise.resolve();
+    if (runtimePromise) return runtimePromise;
+    runtimePromise = new Promise(function(resolve, reject) {
+      var existing = document.querySelector('script[data-zappy-storefront-runtime="true"]');
+      if (existing) {
+        existing.addEventListener('load', function() { runtimeLoaded = true; resolve(); }, { once: true });
+        existing.addEventListener('error', reject, { once: true });
+        return;
+      }
+      var restoreDOMContentLoaded = installLateDOMContentLoadedReplay();
+      var script = document.createElement('script');
+      script.src = runtimeSrc;
+      script.defer = true;
+      script.setAttribute('data-zappy-storefront-runtime', 'true');
+      script.onload = function() {
+        restoreDOMContentLoaded();
+        runtimeLoaded = true;
+        resolve();
+      };
+      script.onerror = function(error) {
+        restoreDOMContentLoaded();
+        reject(error);
+      };
+      document.head.appendChild(script);
+    }).catch(function(error) {
+      runtimePromise = null;
+      throw error;
+    });
+    return runtimePromise;
+  }
+  function installLateDOMContentLoadedReplay() {
+    if (document.readyState === 'loading') return function() {};
+    var original = document.addEventListener;
+    var restored = false;
+    document.addEventListener = function(type, listener, options) {
+      if (type === 'DOMContentLoaded' && listener) {
+        setTimeout(function() {
+          try {
+            if (typeof listener === 'function') {
+              listener.call(document, new Event('DOMContentLoaded'));
+            } else if (listener && typeof listener.handleEvent === 'function') {
+              listener.handleEvent(new Event('DOMContentLoaded'));
+            }
+          } catch (error) {
+            setTimeout(function() { throw error; }, 0);
+          }
+        }, 0);
+        return;
+      }
+      return original.call(document, type, listener, options);
+    };
+    return function() {
+      if (!restored) {
+        restored = true;
+        document.addEventListener = original;
+      }
+    };
+  }
+  function scheduleHomepageDynamicRuntimeLoad() {
+    if (runtimeLoaded || runtimePromise) return false;
+    var targets = getHomepageDynamicCommerceTargets();
+    if (!targets.length) return false;
+    var triggered = false;
+    var observer = null;
+    var trigger = function() {
+      if (triggered || runtimeLoaded || runtimePromise) return;
+      triggered = true;
+      if (observer) observer.disconnect();
+      targets.forEach(function(target) {
+        ['pointerenter', 'focusin', 'touchstart', 'pointerdown'].forEach(function(eventName) {
+          target.removeEventListener(eventName, trigger);
+        });
+      });
+      loadRuntime();
+    };
+    if ('IntersectionObserver' in window) {
+      observer = new IntersectionObserver(function(entries) {
+        if (entries.some(function(entry) { return entry.isIntersecting; })) trigger();
+      }, { rootMargin: '300px 0px' });
+      targets.forEach(function(target) { observer.observe(target); });
+    } else {
+      setTimeout(trigger, 1200);
+    }
+    targets.forEach(function(target) {
+      ['pointerenter', 'focusin', 'touchstart', 'pointerdown'].forEach(function(eventName) {
+        target.addEventListener(eventName, trigger, { once: true, passive: true });
+      });
+    });
+    return true;
+  }
+  function replayAfterLoad(event) {
+    var target = event.target;
+    if (!target || runtimeLoaded || runtimePromise) return;
+    var interactive = target.closest && target.closest('button,a,[role="button"],input,select,textarea,.mobile-toggle,.hamburger,.cart-link,.login-link,.nav-search-toggle,.zappy-products-dropdown');
+    if (!interactive) return;
+    loadRuntime().then(function() {
+      if (typeof target.click === 'function' && event.type === 'click') {
+        setTimeout(function() { try { target.click(); } catch (_) {} }, 0);
+      }
+    });
+  }
+  window.__zappyLoadStorefrontRuntime = loadRuntime;
+  function onReady() {
+    if (shouldLoadImmediately()) {
+      loadRuntime();
+    } else {
+      scheduleHomepageDynamicRuntimeLoad();
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', onReady, { once: true });
+  } else {
+    onReady();
+  }
+  ['click', 'focusin', 'pointerdown', 'touchstart', 'keydown'].forEach(function(eventName) {
+    document.addEventListener(eventName, replayAfterLoad, { capture: true, passive: eventName !== 'click' && eventName !== 'keydown' });
+  });
+  if (!shouldLoadImmediately()) {
+    var lateLoad = function() { loadRuntime(); };
+    setTimeout(function() {
+      if (runtimeLoaded || runtimePromise) return;
+      if (typeof window.requestIdleCallback === 'function') {
+        window.requestIdleCallback(lateLoad, { timeout: 2000 });
+      } else {
+        lateLoad();
+      }
+    }, 12000);
+  }
+})();
