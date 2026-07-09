@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="he" dir="rtl">
-<head>
+<!DOCTYPE html><html lang="he" dir="rtl"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
@@ -304,9 +302,7 @@
   
   
   
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-    <!-- Favicons -->
+  <!-- Favicons -->
     <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
@@ -316,9 +312,9 @@
     <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
     <!-- Cookie Consent -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css">
-    <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
+    
     <!-- Mickidum Accessibility Toolbar -->
-    <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
+    
 
           <style id="zappy-cta-mobile-style">
             /* Hide CTA list item on desktop (tablets and up) */
@@ -1349,7 +1345,13 @@ html[dir="rtl"] body {
 }
 
 </style>
-    <link rel="stylesheet" href="/styles.css">
+    <style id="zappy-critical-above-fold-css">
+html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{box-sizing:inherit}body{margin:0;min-width:320px;overflow-x:clip}img,svg,video{max-width:100%;height:auto}main{display:block}.container{width:min(100% - 32px,1200px);margin-inline:auto}.navbar,nav.navbar,header .navbar,header[role="banner"]{position:relative;z-index:1000;width:100%}.nav-container,.navbar .container{display:flex;align-items:center;justify-content:space-between;min-height:64px}.logo,.logo-link img{display:block;width:35px;height:35px;object-fit:contain}.nav-menu,#navMenu{list-style:none}.fa,.fas,.far,.fab,.fa-solid,.fa-regular,.fa-brands{display:inline-block;min-width:1em;text-align:center}.hero-section,.index-hero-section,section[class*="hero"]{position:relative;overflow:hidden;min-height:560px}.hero-bg-wrapper,.hero-bg-image,section[class*="hero"] [class*="hero-bg"]{position:absolute;inset:0;width:100%;height:100%}.hero-bg-wrapper img,.hero-bg-image img,section[class*="hero"] [data-hero-bg],section[class*="hero"] img[data-hero-background="true"]{width:100%!important;height:100%!important;object-fit:cover!important;display:block}.hero-content,section[class*="hero"] .container{position:relative;z-index:2}@media(max-width:768px){.nav-container,.navbar .container{min-height:60px}.nav-menu,#navMenu{max-width:100vw;overflow-x:hidden}.hero-section,.index-hero-section,section[class*="hero"]{min-height:100svh}}
+</style>
+    <link rel="preload" href="/styles.css" as="style">
+    <link rel="stylesheet" href="/styles.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="/styles.css"></noscript>
+    
 
     <style id="zappy-widget-visibility">
       html[dir="rtl"] .whatsapp-float { right: 20px !important; left: auto !important; }
@@ -1423,7 +1425,7 @@ html[dir="rtl"] body {
   <div class="nav-container">
     <div class="nav-right-group"><div class="nav-brand">
       <a href="/" class="logo-link">
-        <img src="/assets/logo-1777381672577-5dslx7.webp?v=1777381673053-5irsx2" alt="גורים בכפר" class="logo" data-i18n-alt="home_alt_121">
+        <img src="/assets/logo-1777381672577-5dslx7.webp?v=1777381673053-5irsx2" alt="גורים בכפר" class="logo" data-i18n-alt="home_alt_121" decoding="async" width="35" height="35">
       </a>
     </div><ul class="nav-menu" id="navMenu">
 
@@ -1439,6 +1441,9 @@ html[dir="rtl"] body {
         <!-- Categories will be loaded dynamically -->
       </ul>
     </li>
+  
+
+    
   
 
     
@@ -1927,9 +1932,9 @@ html[dir="rtl"] body {
     <section class="contact-intro-section" data-layout-spec="צור קשר-intro" dir="rtl" id="zappy-section-0" style="direction: rtl; margin-top: -152px !important; padding-top: 152px !important;">
   <div class="contact-intro-container">
     
-    <h1 class="contact-intro-heading"  data-i18n="contact_h1_1"><br>נשמח לשמוע מכם</h1>
-    <p class="contact-intro-lead" data-i18n="contact_p_13" >כל שאלה גורים, או החנות שלנו, אנחנו כאן בשבילכם. <br>&nbsp;פנו אלינו בכל עניין ונחזור אליכם בהקדם.<br></p>
-    <p class="contact-intro-reassurance"  data-i18n="contact_p_14">מענה אישי, חם ומקצועי 
+    <h1 class="contact-intro-heading" data-i18n="contact_h1_1"><br>נשמח לשמוע מכם</h1>
+    <p class="contact-intro-lead" data-i18n="contact_p_13">כל שאלה גורים, או החנות שלנו, אנחנו כאן בשבילכם. <br>&nbsp;פנו אלינו בכל עניין ונחזור אליכם בהקדם.<br></p>
+    <p class="contact-intro-reassurance" data-i18n="contact_p_14">מענה אישי, חם ומקצועי 
 כי הכלב שלכם חשוב לנו כמו שהוא חשוב לכם.<br></p>
   </div>
   <div class="contact-intro-divider-wrapper" aria-hidden="true">
@@ -1943,7 +1948,7 @@ html[dir="rtl"] body {
   <div class="ccm-container">
     <div class="ccm-header">
       <h2 class="ccm-title" data-i18n="contact_h2_2">דרכי יצירת קשר</h2>
-      <p class="ccm-subtitle" data-i18n="contact_p_15" >אנחנו כאן בשבילכם ובשביל הכלבים שלכם, צרו קשר בדרך הנוחה לכם</p>
+      <p class="ccm-subtitle" data-i18n="contact_p_15">אנחנו כאן בשבילכם ובשביל הכלבים שלכם, צרו קשר בדרך הנוחה לכם</p>
     </div>
     <div class="ccm-grid zappy-preserve-css-grid" id="zappy-auto-grid-1777455444368-5jobcn" data-zappy-auto-grid="true" data-original-item-width="384" data-original-gap="24px" style="--zappy-grid-cols: repeat(3, minmax(0, 1fr)); display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: stretch !important;" data-zappy-explicit-columns="true">
       <!-- Phone Card -->
@@ -1954,8 +1959,8 @@ html[dir="rtl"] body {
           </svg>
         </div>
         <div class="ccm-card-body">
-          <h3 class="ccm-card-title"  data-i18n="contact_h3_5">טלפון</h3>
-          <p class="ccm-card-desc"  data-i18n="contact_p_16">זמינים בוואטסאפ ובטלפון בימים א׳–ו׳, בשעות הפעילות. שמחים לענות על כל שאלה בנושא חנות הציוד וגורים.</p>
+          <h3 class="ccm-card-title" data-i18n="contact_h3_5">טלפון</h3>
+          <p class="ccm-card-desc" data-i18n="contact_p_16">זמינים בוואטסאפ ובטלפון בימים א׳–ו׳, בשעות הפעילות. שמחים לענות על כל שאלה בנושא חנות הציוד וגורים.</p>
           <p><a href="tel:052-6662922" class="ccm-contact-link">052-6662922</a>
         </p></div>
       </article>
@@ -1969,7 +1974,7 @@ html[dir="rtl"] body {
         </div>
         <div class="ccm-card-body">
           <h3 class="ccm-card-title" data-i18n="contact_h3_6">דואר אלקטרוני</h3>
-          <p class="ccm-card-desc" data-i18n="contact_p_17" >שלחו לנו הודעה בכל עת ונחזור אליכם בהקדם. מתאים לשאלות על גורים בכפר, הזמנת פגישה או מידע על מוצרים.</p>
+          <p class="ccm-card-desc" data-i18n="contact_p_17">שלחו לנו הודעה בכל עת ונחזור אליכם בהקדם. מתאים לשאלות על גורים בכפר, הזמנת פגישה או מידע על מוצרים.</p>
           <p data-i18n="contact_p_18"><a href="mailto:gurimbakfar@gmail.com" class="ccm-contact-link" data-native-element="true" data-element-id="btn-1777455483303-6oxvbup6l" data-element-type="button" style="outline: none;" data-i18n="contact_link_60">gurimbakfar@gmail.com</a>
         </p></div>
       </article>
@@ -1983,10 +1988,10 @@ html[dir="rtl"] body {
         </div>
         <div class="ccm-card-body">
           <h3 class="ccm-card-title" data-i18n="contact_h3_7">ביקור אצלנו</h3>
-          <p class="ccm-card-desc"  data-i18n="contact_p_19">מוזמנים להגיע ולהכיר את המקום, לפגוש את הגורים, ולסיור בחנות הציוד ובמתקנים. 
+          <p class="ccm-card-desc" data-i18n="contact_p_19">מוזמנים להגיע ולהכיר את המקום, לפגוש את הגורים, ולסיור בחנות הציוד ובמתקנים. 
 נשמח לראותכם!<br></p>
           <address class="ccm-address">התאנה 9, בית שקמה, ישראל</address>
-          <p ><a href="https://maps.google.com/?q=התאנה 9, בית שקמה, ישראל" target="_blank" rel="noopener noreferrer" class="ccm-map-link" style="display:flex;align-items:flex-start;gap:inherit" data-i18n="contact_link_61">
+          <p><a href="https://maps.google.com/?q=התאנה 9, בית שקמה, ישראל" target="_blank" rel="noopener noreferrer" class="ccm-map-link" style="display:flex;align-items:flex-start;gap:inherit" data-i18n="contact_link_61">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" width="14" height="14" aria-hidden="true" data-element-type="icon" data-element-id="icon-1777455444356-jncbd8yv7" data-icon-type="svg" style="cursor: pointer;"><path d="M8 1L15 8H9v7H7V8H1z"></path></svg>הצג במפה</a> התאנה 9, בית שקמה, ישראל</p></div>
       </article>
     </div>
@@ -2002,8 +2007,8 @@ html[dir="rtl"] body {
 <section class="contact-form-section" data-layout-spec="צור קשר-form" dir="rtl" id="zappy-section-2" style="direction: rtl;">
   <div class="contact-form-section__container">
     <div class="contact-form-section__intro">
-      <h2 class="contact-form-section__heading"  data-i18n="contact_h2_3">השאירו פרטים</h2>
-      <p class="contact-form-section__subtext"  data-i18n="contact_p_21">יש לכם שאלה על גורי הכלבים או החנות? <br>נשמח לשמוע מכם ולחזור אליכם בהקדם האפשרי.<br><br></p>
+      <h2 class="contact-form-section__heading" data-i18n="contact_h2_3">השאירו פרטים</h2>
+      <p class="contact-form-section__subtext" data-i18n="contact_p_21">יש לכם שאלה על גורי הכלבים או החנות? <br>נשמח לשמוע מכם ולחזור אליכם בהקדם האפשרי.<br><br></p>
     </div>
 
     <form class="contact-form contact-form-section__form" novalidate="">
@@ -2035,8 +2040,8 @@ html[dir="rtl"] body {
       <div class="privacy-consent">
         <label class="privacy-consent-label">
           <input type="checkbox" name="privacy_consent" class="privacy-consent-checkbox is-valid" required="" aria-invalid="false">
-          <span ><span ><br>          <span data-i18n="new_text_316_0">קראתי ואני מסכים/ה ל</span></span><a href="/terms" target="_blank" data-i18n="contact_link_62">תנאי השימוש</a><span class="separator">|</span>
-            <a href="/return-policy" aria-label="מדיניות החזרות" data-i18n="contact_link_63">מדיניות החזרות</a> <span ><span data-i18n="new_text_316_2">&nbsp;ול</span><a href="/privacy" target="_blank"></a></span><a href="/privacy" target="_blank" data-i18n="contact_link_64">מדיניות הפרטיות</a></span>
+          <span><span><br>          <span data-i18n="new_text_316_0">קראתי ואני מסכים/ה ל</span></span><a href="/terms" target="_blank" data-i18n="contact_link_62">תנאי השימוש</a><span class="separator">|</span>
+            <a href="/return-policy" aria-label="מדיניות החזרות" data-i18n="contact_link_63">מדיניות החזרות</a> <span><span data-i18n="new_text_316_2">&nbsp;ול</span><a href="/privacy" target="_blank"></a></span><a href="/privacy" target="_blank" data-i18n="contact_link_64">מדיניות הפרטיות</a></span>
         </label>
       </div>
 
@@ -2057,7 +2062,7 @@ html[dir="rtl"] body {
   <div class="cvis-container">
     <div class="cvis-header">
       <h2 class="cvis-heading" data-i18n="contact_h2_4">תכננו את הביקור שלכם</h2>
-      <p class="cvis-intro" data-i18n="contact_p_22" >לשאלות על החנות או הגורים למכירה — אנחנו כאן לכל פנייה. ניתן ליצור קשר דרך טופס הפנייה שלמעלה, בטלפון, או בדואר האלקטרוני.</p>
+      <p class="cvis-intro" data-i18n="contact_p_22">לשאלות על החנות או הגורים למכירה — אנחנו כאן לכל פנייה. ניתן ליצור קשר דרך טופס הפנייה שלמעלה, בטלפון, או בדואר האלקטרוני.</p>
     </div>
 
     <div class="cvis-divider-line"></div>
@@ -2084,8 +2089,8 @@ html[dir="rtl"] body {
         </div>
         <div class="cvis-col-content">
           <h3 class="cvis-col-title" data-i18n="contact_h3_9">ביקור במתחם — בתיאום מראש</h3>
-          <p class="cvis-col-text"  data-i18n="contact_p_24">מתחם גורים בכפר פתוח לביקורים בתיאום מראש בלבד.אם ברצונכם לפגוש את הגורים, או לבחור ציוד בחנות — נשמח לקבוע מועד נוח.</p>
-          <p class="cvis-col-text"  data-i18n="contact_p_25">ניתן לתאם ביקור דרך הטלפון, בוואטסאפ או בדואר האלקטרוני. 
+          <p class="cvis-col-text" data-i18n="contact_p_24">מתחם גורים בכפר פתוח לביקורים בתיאום מראש בלבד.אם ברצונכם לפגוש את הגורים, או לבחור ציוד בחנות — נשמח לקבוע מועד נוח.</p>
+          <p class="cvis-col-text" data-i18n="contact_p_25">ניתן לתאם ביקור דרך הטלפון, בוואטסאפ או בדואר האלקטרוני. 
 נדאג שהכל יהיה מוכן לקבלת פניכם.<br></p>
         </div>
       </div>
@@ -2111,7 +2116,7 @@ html[dir="rtl"] body {
           <div class="footer-logo-wrap">
             
           </div>
-          <p class="footer-tagline"  data-i18n="home_p_38">אנחנו כאן לכל צרכי הכלב שלך — מגידול אחראי ועד חנות ציוד .</p>
+          <p class="footer-tagline" data-i18n="home_p_38">אנחנו כאן לכל צרכי הכלב שלך — מגידול אחראי ועד חנות ציוד .</p>
           <div class="footer-social">
             <a href="https://facebook.com/share/1FLizkTENE" aria-label="Facebook" class="social-link"><i class="fab fa-facebook-f"></i></a>
             <a href="https://instagram.com/gurimbakfar?igsh=YnlwemJqMWU3ODBz" aria-label="Instagram" class="social-link"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1777379480398-jyuzmalb3" data-icon-type="fontawesome"></i></a>
@@ -2136,10 +2141,10 @@ html[dir="rtl"] body {
         <!-- Column 3: Contact Info -->
         <div class="footer-col">
           <h3 class="footer-heading" data-i18n="home_h3_18">צור קשר</h3>
-          <ul class="footer-contact" ><li data-i18n="new_li_224"><span class="contact-icon"><i class="fas fa-envelope" style="color: rgb(201, 142, 91); cursor: pointer;" data-element-type="icon" data-element-id="icon-1779973449238-7tybldm0z" data-icon-type="fontawesome"></i></span>&nbsp;gurimbakfar@gmail.com</li><li>
+          <ul class="footer-contact"><li data-i18n="new_li_224"><span class="contact-icon"><i class="fas fa-envelope" style="color: rgb(201, 142, 91); cursor: pointer;" data-element-type="icon" data-element-id="icon-1779973449238-7tybldm0z" data-icon-type="fontawesome"></i></span>&nbsp;gurimbakfar@gmail.com</li><li>
               <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1777379480398-e2fzvc2fb" data-icon-type="fontawesome" style="cursor: pointer; color: #C98E5B;"></i></span>
               <span class="contact-text"><a href="tel:052-6662922">052-6662922</a></span>
-            </li><li data-i18n="home_li_97"><span class="contact-icon"><i class="fas fa-map-marker-alt" style="color: rgb(201, 142, 91); cursor: pointer;"></i></span><a href="/" data-i18n="home_link_75" >התאנה 9, בית שקמה, ישראל</a></li></ul>
+            </li><li data-i18n="home_li_97"><span class="contact-icon"><i class="fas fa-map-marker-alt" style="color: rgb(201, 142, 91); cursor: pointer;"></i></span><a href="/" data-i18n="home_link_75">התאנה 9, בית שקמה, ישראל</a></li></ul>
         </div>
 
         <!-- Column 4: Hours / Extra -->
@@ -2169,7 +2174,7 @@ html[dir="rtl"] body {
           <span class="footer-divider">|</span>
           <a href="/accessibility" data-i18n="home_link_86">נגישות</a>
           <span class="footer-divider">|</span>
-          <a href="https://zappy5.com" target="_blank" class="zappy-attribution"  data-i18n="home_link_87">נוצר באמצעות nemo-ds</a></div>
+          <a href="https://zappy5.com" target="_blank" class="zappy-attribution" data-i18n="home_link_87">נוצר באמצעות nemo-ds</a></div>
       </div>
     </div>
   </div>
@@ -11457,6 +11462,10 @@ html[dir="rtl"] body {
 
     <script src="/script.js"></script>
 
+    <script id="zappy-font-awesome-loader">
+(function(){if(window.__zappyFontAwesomeLoader)return;window.__zappyFontAwesomeLoader=true;var href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css';function load(){if(document.querySelector('link[href*="font-awesome"][href*="all.min.css"]'))return;var l=document.createElement('link');l.rel='stylesheet';l.href=href;l.crossOrigin='anonymous';l.referrerPolicy='no-referrer';document.head.appendChild(l);}function schedule(){if('requestIdleCallback'in window){requestIdleCallback(load,{timeout:5000});}else{setTimeout(load,3500);}}['pointerdown','keydown','touchstart','mouseover'].forEach(function(evt){window.addEventListener(evt,load,{once:true,passive:true});});schedule();})();
+</script>
+
     <script id="zappy-mobile-submenu-script">
     (function() {
       function initMobileSubmenuToggles() {
@@ -11562,5 +11571,4 @@ html[dir="rtl"] body {
       if(!hasDH){window.removeEventListener('scroll',onS);window.removeEventListener('resize',onS);applyScrolled();window._zappyNavNoDarkHero=true;}
     })();
     </script>
-</body>
-</html>
+</body></html>
